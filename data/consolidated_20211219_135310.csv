@@ -1,0 +1,1233 @@
+code,course name,EOS_2021,Mid_2021,test_2021,EOS_2020,Mid_2020,test_2020,EOS_2019,Mid_2019,test_2019
+AL801,Software Design for Virtual Reality and Gaming,300.0,359.0,no,303.0,367.0,no,304.0,328.0,no
+AL802,Software Design in Artificial Intelligence for Cloud Computing,313.0,381.0,no,332.0,382.0,no,301.0,306.0,no
+AL803,Software Design for Mobile Apps and Connected Devices,350.0,398.0,no,337.0,360.0,no,309.0,337.0,no
+AL805,Computer Engineering for Network Infrastructure,321.0,381.0,no,333.0,360.0,no,329.0,442.0,no
+AL810,Quantity Surveying,328.0,377.0,no,326.0,352.0,no,307.0,349.0,no
+AL811,Civil Engineering,0.0,0.0,no,320.0,432.0,no,not offered,not offered,not offered
+AL820,Mechanical and Polymer Engineering,327.0,398.0,no,308.0,379.0,no,300.0,358.0,no
+AL830,General Nursing,440.0,455.0,no,442.0,463.0,no,410.0,429.0,no
+AL832,Mental Health Nursing,431.0,451.0,no,384.0,399.0,no,387.0,403.0,no
+AL835,Pharmacology,356.0,429.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+AL836,Nutrition and Health Science,346.0,398.0,no,334.0,379.0,no,352.0,383.0,no
+AL837,Sports Science with Exercise Physiology,357.0,409.0,no,351.0,384.0,no,351.0,392.0,no
+AL838,Biotechnology,324.0,434.0,no,307.0,356.0,no,302.0,372.0,no
+AL839,Microbiology,325.0,408.0,no,325.0,393.0,no,322.0,371.0,no
+AL840,Pharmaceutical Sciences,346.0,402.0,no,347.0,403.0,no,328.0,411.0,no
+AL841,Athletic and Rehabilitation Therapy,462.0,489.0,no,430.0,465.0,no,423.0,430.0,no
+AL842,Bioveterinary Science,338.0,413.0,no,313.0,383.0,no,310.0,366.0,no
+AL843,Physical Activity and Health Science,306.0,358.0,no,306.0,326.0,no,310.0,330.0,no
+AL849,Culinary Entrepreneurship,297.0,327.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+AL850,Business,309.0,369.0,no,309.0,377.0,no,307.0,356.0,no
+AL851,Business and Law,302.0,357.0,no,295.0,351.0,no,301.0,341.0,no
+AL852,Accounting,336.0,466.0,no,309.0,422.0,no,290.0,346.0,no
+AL854,Sport Management (with international placement),299.0,349.0,no,299.0,338.0,no,not offered,not offered,not offered
+AL855,Hospitality Management (with international placement),309.0,378.0,no,308.0,347.0,no,312.0,357.0,no
+AL857,Digital Marketing,304.0,398.0,no,304.0,332.0,no,300.0,360.0,no
+AL859,International Business,308.0,371.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+AL860,Social Care Practice,301.0,359.0,no,300.0,348.0,no,309.0,338.0,no
+AL861,Animation and Illustration (portfolio),575.0,760.0,yes,578.0,878.0,yes,615.0,899.0,yes
+AL863,Graphic and Digital Design (portfolio),747.0,808.0,yes,781.0,824.0,yes,703.0,898.0,yes
+AL864,Early Years Care and Education,306.0,366.0,no,307.0,346.0,no,307.0,348.0,no
+AL870,Applied Psychology,452.0,480.0,no,418.0,444.0,no,409.0,445.0,no
+CW018,Business (options),307.0,381.0,no,248.0,312.0,no,327.0,349.0,no
+CW028,Early Childhood Education and Care,260.0,378.0,no,252.0,301.0,no,252.0,308.0,no
+CW038,Art (portfolio),700.0,700.0,yes,700.0,700.0,yes,700.0,700.0,yes
+CW048,Creative Computing and Digital Innovation,0.0,0.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+CW058,Tourism and Event Management,292.0,356.0,no,298.0,348.0,no,252.0,262.0,no
+CW068,Applied Social Studies in Professional Social Care,250.0,306.0,no,245.0,292.0,no,251.0,280.0,no
+CW078,Sustainable Farm Management and Agribusiness,270.0,363.0,no,269.0,327.0,no,266.0,320.0,no
+CW088,Visual Communications and Design,270.0,290.0,no,274.0,340.0,no,309.0,345.0,no
+CW108,Science (options),266.0,361.0,no,261.0,346.0,no,261.0,326.0,no
+CW128,Brewing and Distilling,307.0,349.0,no,263.0,318.0,no,271.0,298.0,no
+CW138,Sport and Exercise Science,423.0,462.0,no,423.0,444.0,no,not offered,not offered,not offered
+CW148,Strength and Conditioning,388.0,409.0,no,379.0,400.0,no,not offered,not offered,not offered
+CW188,Sport Rehabilitation and Athletic Therapy,451.0,488.0,no,448.0,466.0,no,454.0,473.0,no
+CW208,Computer Games Development,272.0,333.0,no,279.0,327.0,no,281.0,338.0,no
+CW238,Software Development,295.0,387.0,no,297.0,341.0,no,300.0,343.0,no
+CW248,Information Technology Management,293.0,338.0,no,285.0,385.0,no,307.0,357.0,no
+CW258,Cybercrime and IT Security,292.0,382.0,no,293.0,358.0,no,300.0,328.0,no
+CW268,Computing in Interactive Digital Art and Design,291.0,384.0,no,287.0,369.0,no,274.0,321.0,no
+CW438,Construction (options),251.0,336.0,no,272.0,336.0,no,271.0,308.0,no
+CW468,Architectural Technology,283.0,353.0,no,262.0,358.0,no,252.0,290.0,no
+CW478,Civil Engineering,465.0,465.0,no,433.0,492.0,no,348.0,383.0,no
+CW548,Mechanical Engineering,328.0,396.0,no,321.0,371.0,no,310.0,351.0,no
+CW558,Electronic Systems,280.0,380.0,no,280.0,361.0,no,279.0,338.0,no
+CW568,Aerospace Engineering,359.0,433.0,no,380.0,442.0,no,366.0,422.0,no
+CW578,TV and Media Production,318.0,358.0,no,325.0,420.0,no,327.0,361.0,no
+CW708,Law - LLB,292.0,390.0,no,302.0,349.0,no,298.0,328.0,no
+CW728,Product Design Innovation,246.0,370.0,no,252.0,359.0,no,286.0,355.0,no
+CW748,Early Childhood Education and Care,290.0,377.0,no,270.0,327.0,no,265.0,338.0,no
+CW758,Professional Social Care Practice,358.0,397.0,no,336.0,358.0,no,290.0,319.0,no
+CW808,Media and Public Relations,247.0,316.0,no,251.0,298.0,no,248.0,307.0,no
+CW848,Digital Marketing with Analytics,269.0,336.0,no,269.0,326.0,no,279.0,307.0,no
+CW858,"Sports Management and Coaching (options, portfolio)",700.0,700.0,yes,700.0,700.0,yes,700.0,700.0,yes
+CW908,Business (options),272.0,348.0,no,280.0,357.0,no,260.0,307.0,no
+CW938,Business with Law,270.0,382.0,no,283.0,301.0,no,270.0,288.0,no
+CW948,Accounting,319.0,454.0,no,300.0,364.0,no,301.0,408.0,no
+PC405,"Social, Political and Community Studies",235.0,298.0,no,216.0,311.0,no,251.0,296.0,no
+PC410,Arts and Humanities (fulfils Teaching Council requirements),230.0,336.0,no,209.0,300.0,no,203.0,289.0,no
+PC411,English and History (fulfils Teaching Council requirements),224.0,356.0,no,209.0,310.0,no,168.0,289.0,no
+CR105,Chemical and Biopharmaceutical Engineering,443.0,532.0,no,443.0,532.0,no,432.0,498.0,no
+CR106,Software Development,431.0,476.0,no,411.0,463.0,no,351.0,393.0,no
+CR108,Mechanical Engineering,434.0,509.0,no,434.0,509.0,no,425.0,487.0,no
+CR109,Structural Engineering,396.0,465.0,no,394.0,423.0,no,341.0,467.0,no
+CR110,Automotive Business Management and Technology,336.0,388.0,no,311.0,362.0,no,318.0,347.0,no
+CR112,Creative Digital Media at CIT Crawford College of Art and Design,390.0,455.0,no,361.0,430.0,no,335.0,389.0,no
+CR116,Computer Systems,365.0,400.0,no,332.0,393.0,no,318.0,381.0,no
+CR121,Music at CIT Cork School of Music,904.0,1141.0,yes,912.0,1078.0,yes,633.0,1052.0,yes
+CR125,Popular Music at CIT Cork School of Music,1028.0,1029.0,yes,1088.0,1088.0,yes,972.0,1021.0,yes
+CR130,Musical Theatre at CIT Cork School of Music,525.0,600.0,yes,505.0,600.0,yes,500.0,600.0,yes
+CR150,Business Information Systems,350.0,409.0,no,335.0,391.0,no,326.0,371.0,no
+CR210,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",450.0,450.0,yes,0.0,0.0,yes,979.0,979.0,yes
+CR220,Fine Art at CIT Crawford College of Art and Design,400.0,400.0,yes,0.0,0.0,yes,620.0,819.0,yes
+CR225,Photography with New Media at CIT Crawford College of Art and Design,435.0,560.0,yes,0.0,0.0,yes,920.0,920.0,yes
+CR305,Physical Sciences (Common Entry),260.0,357.0,no,282.0,356.0,no,279.0,309.0,no
+CR310,IT Management,347.0,372.0,no,297.0,339.0,no,282.0,317.0,no
+CR320,Biomedical Science - Offered jointly by CIT and UCC,590.0,601.0,no,565.0,577.0,no,546.0,556.0,no
+CR325,Pharmaceutical Biotechnology,466.0,488.0,no,398.0,440.0,no,388.0,422.0,no
+CR333,Nutrition and Health Science,425.0,455.0,no,402.0,433.0,no,360.0,393.0,no
+CR335,Biological Sciences (Common Entry),473.0,507.0,no,420.0,451.0,no,381.0,419.0,no
+CR340,Analytical Chemistry with Quality Assurance,327.0,400.0,no,251.0,366.0,no,288.0,315.0,no
+CR360,Instrument Engineering,301.0,378.0,no,261.0,388.0,no,291.0,329.0,no
+CR365,Environmental Science and Sustainable Technology,262.0,347.0,no,253.0,341.0,no,334.0,362.0,no
+CR370,Agri-Biosciences,368.0,423.0,no,397.0,453.0,no,408.0,431.0,no
+CR400,Accounting,315.0,423.0,no,316.0,413.0,no,316.0,389.0,no
+CR420,Marketing,290.0,357.0,no,285.0,346.0,no,288.0,329.0,no
+CR425,International Business with Language,279.0,419.0,no,298.0,412.0,no,300.0,392.0,no
+CR430,Sport and Exercise Management,402.0,434.0,no,322.0,407.0,no,not offered,not offered,not offered
+CR440,Montessori Education,408.0,431.0,no,288.0,362.0,no,not offered,not offered,not offered
+CR500,Engineering (Common Entry),475.0,499.0,no,411.0,465.0,no,381.0,424.0,no
+CR510,Sustainable Energy Engineering,320.0,393.0,no,320.0,389.0,no,319.0,343.0,no
+CR520,Biomedical Engineering,444.0,498.0,no,444.0,488.0,no,434.0,477.0,no
+CR560,Architectural Technology,375.0,436.0,no,308.0,377.0,no,288.0,332.0,no
+CR565,Interior Architecture,431.0,465.0,no,359.0,423.0,no,336.0,390.0,no
+CR570,Quantity Surveying,375.0,429.0,no,336.0,392.0,no,279.0,342.0,no
+CR572,Construction Management,300.0,349.0,no,269.0,318.0,no,253.0,300.0,no
+CR580,Electrical Engineering,342.0,401.0,no,318.0,377.0,no,344.0,374.0,no
+CR590,Electronic Engineering,329.0,409.0,no,303.0,379.0,no,342.0,411.0,no
+CR600,Visual Communications at CIT Crawford College of Art and Design,280.0,510.0,yes,0.0,0.0,yes,587.0,888.0,yes
+CR660,Tourism Management,246.0,328.0,no,252.0,325.0,no,249.0,290.0,no
+CR700,Theatre and Drama Studies at CIT Cork School of Music,609.0,894.0,yes,645.0,982.0,yes,768.0,906.0,yes
+CR930,Home Economics and Business,510.0,542.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+CK101,Arts - 3 years,300.0,400.0,no,300.0,388.0,no,300.0,368.0,no
+CK102,Social Science,420.0,462.0,no,412.0,451.0,no,391.0,431.0,no
+CK104,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),339.0,485.0,yes,302.0,435.0,yes,340.0,409.0,yes
+CK105,Film and Screen Media - 3 years or 4 years (International Pathway),420.0,488.0,no,319.0,418.0,no,397.0,442.0,no
+CK107,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),312.0,425.0,no,328.0,388.0,no,326.0,388.0,no
+CK108,Arts International - 4 years,440.0,487.0,no,401.0,466.0,no,429.0,466.0,no
+CK109,English - 3 years or 4 years (International Pathway),352.0,462.0,no,318.0,441.0,no,347.0,423.0,no
+CK110,World Languages,488.0,522.0,no,410.0,506.0,no,456.0,506.0,no
+CK111,Early Years and Childhood Studies,378.0,445.0,no,419.0,451.0,no,398.0,429.0,no
+CK112,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),371.0,533.0,yes,330.0,434.0,yes,324.0,470.0,yes
+CK113,Criminology - 3 years or 4 years (International Pathway),456.0,486.0,no,423.0,463.0,no,408.0,430.0,no
+CK114,Social Science (Youth and Community Work),0.0,0.0,yes,777.0,0.0,yes,not offered,0.0,yes
+CK115,Social Work - Mature Applicants only,0.0,0.0,no,999.0,0.0,no,not offered,0.0,yes
+CK118,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),339.0,444.0,no,336.0,378.0,no,307.0,361.0,no
+CK120,Applied Psychology,543.0,555.0,no,531.0,555.0,no,506.0,532.0,no
+CK121,Psychology and Computing - 3 or 4 years (Work Experience Pathway),478.0,522.0,no,466.0,496.0,no,393.0,466.0,no
+CK122,Government and Political Science,397.0,465.0,no,326.0,403.0,no,355.0,410.0,no
+CK123,Anthropology,308.0,429.0,no,308.0,410.0,no,not offered,not offered,not offered
+CK124,Education - Gaeilge,473.0,522.0,no,452.0,495.0,no,not offered,not offered,not offered
+CK125,Sports Studies and Physical Education,555.0,589.0,no,509.0,532.0,no,not offered,not offered,not offered
+CK201,Commerce,499.0,532.0,no,477.0,509.0,no,465.0,489.0,no
+CK202,Accounting,532.0,566.0,no,509.0,542.0,no,467.0,506.0,no
+CK203,Business Information Systems,445.0,490.0,no,430.0,467.0,no,409.0,444.0,no
+CK204,Finance,566.0,601.0,no,556.0,590.0,no,531.0,555.0,no
+CK205,Commerce (International) with French,462.0,522.0,no,445.0,495.0,no,409.0,473.0,no
+CK206,Commerce (International) with German,455.0,521.0,no,418.0,476.0,no,408.0,446.0,no
+CK207,Commerce (International) with Italian,418.0,441.0,no,388.0,455.0,no,408.0,425.0,no
+CK208,Commerce (International) with Hispanic Studies,477.0,528.0,no,402.0,484.0,no,431.0,455.0,no
+CK209,Commerce (International) with Irish,507.0,534.0,no,484.0,531.0,no,509.0,528.0,no
+CK211,Commerce (International) with Chinese Studies,385.0,477.0,no,397.0,433.0,no,398.0,420.0,no
+CK212,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,431.0,474.0,no,444.0,473.0,no,400.0,429.0,no
+CK213,Food Marketing and Entrepreneurship,466.0,498.0,no,462.0,476.0,no,not offered,not offered,not offered
+CK214,International Development,332.0,451.0,no,346.0,422.0,no,not offered,not offered,not offered
+CK301,Law (Pathways) -  3 or 4 years,532.0,556.0,no,498.0,531.0,no,476.0,519.0,no
+CK302,Law and French,545.0,564.0,no,542.0,576.0,no,453.0,531.0,no
+CK304,Law and Irish,588.0,601.0,no,540.0,565.0,no,462.0,510.0,no
+CK307,Law and Business,589.0,601.0,no,556.0,589.0,no,522.0,554.0,no
+CK401,Computer Science,488.0,531.0,no,468.0,509.0,no,402.0,456.0,no
+CK402,Biological and Chemical Sciences,554.0,577.0,no,509.0,532.0,no,498.0,520.0,no
+CK404,"Biological, Earth and Environmental Sciences",487.0,521.0,no,465.0,498.0,no,412.0,451.0,no
+CK405,Genetics,533.0,554.0,no,487.0,498.0,no,476.0,496.0,no
+CK406,Chemical Sciences,532.0,554.0,no,462.0,494.0,no,457.0,488.0,no
+CK407,Mathematical Sciences,566.0,601.0,no,565.0,601.0,no,531.0,578.0,no
+CK408,Physics and Astrophysics,555.0,601.0,no,531.0,589.0,no,511.0,566.0,no
+CK409,Industrial Physics - Offered jointly by UCC and CIT,465.0,509.0,no,432.0,499.0,no,413.0,532.0,no
+CK411,Data Science and Analytics,531.0,577.0,no,509.0,554.0,no,509.0,542.0,no
+CK412,Agricultural Science,506.0,544.0,no,489.0,510.0,no,457.0,509.0,no
+CK504,Nutritional Sciences,544.0,566.0,no,517.0,554.0,no,492.0,509.0,no
+CK505,Food Science,463.0,489.0,no,420.0,465.0,no,444.0,477.0,no
+CK600,Engineering,499.0,555.0,no,487.0,532.0,no,465.0,532.0,no
+CK606,Architecture - Offered jointly by UCC and CIT,543.0,565.0,no,469.0,510.0,no,465.0,496.0,no
+CK701,Medicine (Undergraduate Entry - HPAT required),737.0,743.0,yes,731.0,739.0,yes,729.0,740.0,yes
+CK702,Dentistry,625.0,625.0,no,613.0,613.0,no,590.0,613.0,no
+CK703,Pharmacy,613.0,625.0,no,589.0,602.0,no,577.0,589.0,no
+CK704,Occupational Therapy,590.0,602.0,no,555.0,577.0,no,532.0,554.0,no
+CK705,Speech and Language Therapy,566.0,589.0,no,520.0,541.0,no,509.0,529.0,no
+CK706,Public Health Sciences,500.0,532.0,no,454.0,477.0,no,419.0,451.0,no
+CK707,Medical and Health Sciences,578.0,601.0,no,541.0,555.0,no,510.0,543.0,no
+CK710,General Nursing,495.0,519.0,no,454.0,477.0,no,440.0,466.0,no
+CK712,Children`s and General Nursing (Integrated),565.0,578.0,no,533.0,553.0,no,499.0,520.0,no
+CK720,Mental Health Nursing,452.0,467.0,no,419.0,440.0,no,398.0,429.0,no
+CK730,Intellectual Disability Nursing,429.0,451.0,no,400.0,433.0,no,359.0,388.0,no
+CK740,Midwifery,509.0,543.0,no,473.0,507.0,no,444.0,474.0,no
+CK791,Medicine  - Graduate Entry (GAMSAT required),60.0,61.0,yes,57.0,58.0,yes,58.0,59.0,yes
+AC120,International Business,294.0,352.0,no,209.0,280.0,no,234.0,269.0,no
+AC137,Liberal Arts,270.0,334.0,no,252.0,270.0,no,252.0,275.0,no
+CT125,Computing and IT,242.0,334.0,no,220.0,299.0,no,235.0,280.0,no
+CT325,Business,253.0,337.0,no,281.0,338.0,no,not offered,not offered,not offered
+CM001,Education - Primary Teaching,508.0,518.0,no,484.0,487.0,no,452.0,462.0,no
+CM002,Education - Primary Teaching - Gaeltacht Applicants,462.0,506.0,yes,0.0,0.0,yes,421.0,440.0,yes
+CM003,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge,513.0,546.0,yes,528.0,570.0,yes,491.0,506.0,yes
+CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge (daltaí Gaeltachta),480.0,618.0,yes,494.0,513.0,yes,492.0,569.0,yes
+CM010,Education Studies,327.0,440.0,no,317.0,407.0,no,317.0,373.0,no
+CM020,Early Childhood Education,317.0,377.0,no,327.0,390.0,no,336.0,363.0,no
+DB500,Computing,204.0,333.0,no,218.0,301.0,no,242.0,320.0,no
+DB501,Computing (Cloud Computing),178.0,309.0,no,227.0,280.0,no,326.0,329.0,no
+DB502,Computing (Data Analytics and Big Data),233.0,351.0,no,334.0,377.0,no,269.0,269.0,no
+DB503,Computing (Software Development),0.0,0.0,no,225.0,281.0,no,242.0,282.0,no
+DB504,Computing (Web and Mobile Technology),0.0,0.0,no,281.0,281.0,no,227.0,269.0,no
+DB510,Audio Production and Music Project Management,217.0,317.0,no,223.0,290.0,no,233.0,293.0,no
+DB512,Business Studies,210.0,347.0,no,203.0,308.0,no,229.0,301.0,no
+DB514,Business Studies (Law),225.0,346.0,no,251.0,270.0,no,269.0,337.0,no
+DB515,Business Studies (Human Resource Management),217.0,318.0,no,244.0,326.0,no,225.0,288.0,no
+DB517,Marketing (Event Management),225.0,336.0,no,238.0,309.0,no,226.0,327.0,no
+DB518,Marketing (Digital Media),209.0,354.0,no,not offered,not offered,not offered,210.0,289.0,no
+DB521,Accounting and Finance,228.0,379.0,no,195.0,318.0,no,225.0,271.0,no
+DB524,Business (Information Systems),239.0,327.0,no,309.0,409.0,no,402.0,402.0,no
+DB525,Marketing (Digital Media and Cloud Computing),288.0,337.0,no,not offered,not offered,not offered,284.0,309.0,no
+DB526,Business (Cloud Computing),244.0,327.0,no,347.0,423.0,no,253.0,288.0,no
+DB527,Applied Social Care,219.0,308.0,no,234.0,306.0,no,235.0,288.0,no
+DB531,Marketing,176.0,368.0,no,293.0,336.0,no,220.0,288.0,no
+DB562,Psychology,233.0,342.0,no,229.0,322.0,no,208.0,310.0,no
+DB566,Social Science,228.0,319.0,no,220.0,290.0,no,216.0,308.0,no
+DB567,Film and Creative Media,213.0,298.0,no,202.0,290.0,no,192.0,295.0,no
+DB568,Law,228.0,347.0,no,217.0,309.0,no,245.0,308.0,no
+DB569,Business (Psychology),240.0,338.0,no,252.0,284.0,no,279.0,338.0,no
+DC001,Education - Early Childhood Education,445.0,474.0,no,440.0,462.0,no,398.0,424.0,no
+DC002,Education - Primary Teaching,518.0,543.0,no,488.0,520.0,no,462.0,485.0,no
+DC003,Education - Primary Teaching - Gaeltacht Applicants,496.0,509.0,yes,445.0,462.0,yes,433.0,473.0,yes
+DC004,Education - Primary Teaching (Church of Ireland Centre formerly CICE),451.0,0.0,yes,409.0,463.0,yes,357.0,0.0,yes
+DC009,Arts (Joint Honours) - Humanities,356.0,431.0,no,376.0,423.0,no,347.0,408.0,no
+DC010,Post Primary Teacher Education - Religious Education and English,384.0,441.0,no,429.0,465.0,no,386.0,413.0,no
+DC011,Post Primary Teacher Education - Religious Education and History,409.0,455.0,no,391.0,429.0,no,352.0,389.0,no
+DC012,Post Primary Teacher Education - Religious Education and Music,409.0,451.0,yes,378.0,420.0,yes,367.0,415.0,yes
+DC013,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,413.0,510.0,no,419.0,487.0,no,410.0,509.0,no
+DC014,BA in Jazz and Contemporary Music Performance (audition),311.0,634.0,yes,419.0,605.0,yes,428.0,590.0,yes
+DC110,Business Studies International,498.0,526.0,yes,465.0,488.0,no,440.0,462.0,no
+DC111,Business Studies,511.0,532.0,no,488.0,507.0,no,463.0,479.0,no
+DC112,Global Business (France),542.0,564.0,no,510.0,532.0,no,495.0,510.0,no
+DC113,Global Business (Germany),484.0,529.0,no,462.0,496.0,no,440.0,476.0,no
+DC114,Global Business (Spain),544.0,562.0,no,522.0,545.0,no,501.0,543.0,no
+DC115,Accounting and Finance,544.0,578.0,no,510.0,544.0,no,487.0,500.0,no
+DC116,Global Business (USA),613.0,625.0,no,579.0,601.0,no,578.0,589.0,no
+DC117,Aviation Management / Aviation Management with Pilot Studies,484.0,520.0,no,475.0,500.0,no,463.0,487.0,no
+DC118,Gnó agus Gaeilge / Business and Irish,368.0,419.0,no,359.0,429.0,no,357.0,399.0,no
+DC119,Global Business (Canada),601.0,601.0,no,564.0,577.0,no,566.0,577.0,no
+DC120,Computing for Business,402.0,440.0,no,357.0,392.0,no,350.0,389.0,no
+DC121,Computer Science,476.0,498.0,no,400.0,455.0,no,370.0,418.0,no
+DC123,Data Science,501.0,542.0,no,465.0,531.0,no,467.0,511.0,no
+DC126,Actuarial Mathematics,577.0,601.0,no,560.0,578.0,no,520.0,543.0,no
+DC127,Common Entry into Actuarial and Financial Mathematics,541.0,566.0,no,520.0,543.0,no,509.0,531.0,no
+DC131,Communication Studies,421.0,479.0,no,402.0,451.0,no,400.0,441.0,no
+DC132,Journalism,452.0,487.0,no,422.0,466.0,no,401.0,440.0,no
+DC133,Multimedia,435.0,473.0,no,410.0,451.0,no,403.0,451.0,no
+DC155,Applied Language and Translation Studies,431.0,476.0,no,387.0,444.0,no,371.0,430.0,no
+DC161,Analytical Science,498.0,521.0,no,489.0,510.0,no,446.0,463.0,no
+DC162,Chemical and Pharmaceutical Sciences,532.0,543.0,no,521.0,544.0,no,488.0,498.0,no
+DC163,Chemical Sciences General Entry (Undenominated Entry),466.0,510.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC166,Environmental Science and Technology,423.0,466.0,no,399.0,441.0,no,412.0,442.0,no
+DC168,Genetics and Cell Biology,543.0,555.0,no,510.0,529.0,no,489.0,500.0,no
+DC175,Physics General Entry (options),400.0,479.0,no,402.0,467.0,no,not offered,not offered,not offered
+DC180,Biological Sciences General Entry (Undenominated Entry),530.0,543.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC181,Biotechnology,530.0,544.0,no,495.0,511.0,no,476.0,488.0,no
+DC190,Electronic and Computer Engineering (with choice of four majors),488.0,532.0,no,413.0,465.0,no,391.0,433.0,no
+DC193,Mechatronic Engineering,490.0,532.0,no,411.0,487.0,no,404.0,445.0,no
+DC194,Sustainable Systems and Energy,488.0,509.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC195,Mechanical and Manufacturing Engineering,500.0,521.0,no,425.0,487.0,no,401.0,444.0,no
+DC197,Biomedical Engineering,510.0,543.0,no,423.0,477.0,no,402.0,446.0,no
+DC200,Common Entry into Engineering (Undenominated Entry),510.0,543.0,no,422.0,487.0,no,381.0,444.0,no
+DC202,Sport Science and Health,511.0,532.0,no,498.0,521.0,no,467.0,476.0,no
+DC203,Science Education,462.0,509.0,no,435.0,487.0,no,424.0,476.0,no
+DC204,Athletic Therapy and Training,558.0,578.0,no,519.0,533.0,no,484.0,500.0,no
+DC205,Physical Education with Biology,565.0,578.0,no,531.0,553.0,no,490.0,521.0,no
+DC206,Physical Education with Mathematics,521.0,544.0,no,499.0,520.0,no,443.0,476.0,no
+DC207,Psychology and Mathematics,521.0,543.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC208,Psychology,565.0,577.0,no,521.0,533.0,no,509.0,521.0,no
+DC209,Health and Society,477.0,509.0,no,440.0,466.0,no,419.0,440.0,no
+DC210,Psychology and Disruptive Technologies,506.0,532.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC215,General Nursing,456.0,485.0,no,433.0,462.0,no,414.0,443.0,no
+DC216,Mental Health Nursing,420.0,440.0,no,403.0,424.0,no,368.0,389.0,no
+DC217,Intellectual Disability Nursing,382.0,402.0,no,370.0,390.0,no,347.0,362.0,no
+DC218,Children`s and General Nursing (Integrated),521.0,554.0,no,498.0,522.0,no,467.0,480.0,no
+DC230,"Economics, Politics and Law",431.0,468.0,no,435.0,462.0,no,400.0,431.0,no
+DC231,International Relations,399.0,458.0,no,397.0,433.0,no,387.0,445.0,no
+DC232,Law and Society (BCL),469.0,511.0,no,466.0,496.0,no,453.0,487.0,no
+DC235,Education and Training - Daytime and Flexible Delivery Mode (full-time),302.0,370.0,no,309.0,357.0,no,307.0,327.0,no
+DC238,Social Sciences and Cultural Innovation,387.0,440.0,no,377.0,411.0,no,358.0,388.0,no
+DC240,"Marketing, Innovation and Technology",499.0,532.0,no,474.0,498.0,no,451.0,474.0,no
+DC241,Digital Business and Innovation,509.0,533.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC291,Arts (Joint Honours) - Media Studies,350.0,440.0,no,376.0,409.0,no,349.0,392.0,no
+DC292,Arts (Joint Honours) - Law,400.0,440.0,no,403.0,430.0,no,356.0,388.0,no
+DC293,Arts (Joint Honours) - International Languages,379.0,467.0,no,377.0,466.0,no,369.0,400.0,no
+DC294,Climate and Environmental Sustainability,475.0,489.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+DC295,Arts (Joint Honours) - Politics,349.0,409.0,no,376.0,409.0,no,348.0,387.0,no
+DL822,Arts Management,254.0,356.0,no,235.0,337.0,no,209.0,319.0,no
+DL823,Business Management,220.0,318.0,no,237.0,325.0,no,260.0,316.0,no
+DL825,Applied Psychology,413.0,462.0,no,379.0,434.0,no,349.0,413.0,no
+DL826,Graphic Design,591.0,824.0,yes,855.0,1024.0,yes,736.0,989.0,yes
+DL827,Art,574.0,906.0,yes,572.0,941.0,yes,583.0,902.0,yes
+DL832,Animation,989.0,1098.0,yes,920.0,1022.0,yes,855.0,1055.0,yes
+DL833,Photography and Visual Media,665.0,877.0,yes,667.0,854.0,yes,636.0,791.0,yes
+DL836,Creative Computing,235.0,339.0,no,219.0,300.0,no,217.0,326.0,no
+DL837,New Media Studies,293.0,359.0,no,201.0,316.0,no,290.0,349.0,no
+DL838,Creative Music Production,713.0,979.0,yes,754.0,972.0,yes,746.0,873.0,yes
+DL839,Interaction and User Experience Design,757.0,1087.0,yes,683.0,990.0,yes,not offered,not offered,not offered
+DL840,Digital Marketing,210.0,347.0,no,228.0,327.0,no,not offered,not offered,not offered
+DL841,English and Equality Studies,277.0,357.0,no,276.0,341.0,no,not offered,not offered,not offered
+DL843,Film,874.0,1000.0,yes,not offered,not offered,not offered,not offered,not offered,not offered
+DL844,Television,566.0,947.0,yes,not offered,not offered,not offered,not offered,not offered,not offered
+DL845,Design for Film (degree options),630.0,900.0,yes,not offered,not offered,not offered,not offered,not offered,not offered
+GC200,Business,242.0,377.0,no,252.0,369.0,no,269.0,359.0,no
+GC201,Accounting and Finance,226.0,270.0,no,303.0,388.0,no,251.0,388.0,no
+GC230,Computing Science,289.0,351.0,no,325.0,393.0,no,228.0,327.0,no
+GC250,Communications and Media Production,0.0,0.0,no,0.0,0.0,no,not offered,not offered,not offered
+GC300,Business,264.0,377.0,no,390.0,432.0,no,251.0,302.0,no
+GC301,Accounting and Finance,251.0,251.0,no,253.0,346.0,no,307.0,314.0,no
+GC302,Business - HRM,329.0,377.0,no,0.0,0.0,no,269.0,269.0,no
+GC307,Business (Marketing),270.0,289.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+GC400,Business,228.0,318.0,no,248.0,281.0,no,246.0,297.0,no
+GC401,Accounting and Finance,242.0,337.0,no,202.0,343.0,no,181.0,309.0,no
+GC402,Business (HRM),0.0,0.0,no,218.0,236.0,no,217.0,290.0,no
+GC403,Law,242.0,319.0,no,228.0,328.0,no,225.0,308.0,no
+GC407,Business (Marketing),176.0,318.0,no,218.0,321.0,no,246.0,330.0,no
+GC430,Computing Science,251.0,325.0,no,220.0,298.0,no,217.0,269.0,no
+GC450,Communications and Media Production,225.0,321.0,no,254.0,280.0,no,227.0,307.0,no
+GC462,Design Communication (portfolio),300.0,300.0,yes,0.0,0.0,yes,not offered,0.0,no
+GC489,Interior Architecture (portfolio),274.0,429.0,yes,254.0,301.0,yes,267.0,361.0,yes
+GC494,Fashion Design (portfolio),309.0,588.0,yes,217.0,412.0,yes,not offered,0.0,yes
+BY001,Business,210.0,323.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+ID001,Accounting and Finance,0.0,0.0,no,203.0,253.0,no,229.0,291.0,no
+ID002,Business Studies,273.0,340.0,no,294.0,309.0,no,285.0,366.0,no
+AD101,"First Year Art and Design (Common Entry,portfolio)",554.0,604.0,yes,0.0,0.0,yes,0.0,550.0,yes
+AD102,Graphic Design and Moving Image Design (portfolio),538.0,625.0,yes,0.0,0.0,yes,0.0,635.0,yes
+AD103,Textile and Surface Design and Jewellery and Objects (portfolio),505.0,581.0,yes,0.0,0.0,yes,0.0,545.0,yes
+AD202,"Education and Design or Fine Art (Second Level Teaching,portfolio))",591.0,620.0,yes,0.0,0.0,yes,0.0,580.0,yes
+AD204,Fine Art (portfolio),514.0,583.0,yes,0.0,0.0,yes,0.0,600.0,yes
+AD211,Fashion Design (portfolio),679.0,679.0,yes,0.0,0.0,yes,0.0,600.0,yes
+AD212,Product Design (portfolio),413.0,569.0,yes,0.0,0.0,yes,0.0,600.0,yes
+AD215,Visual Culture,300.0,380.0,no,320.0,389.0,no,300.0,338.0,no
+AD217,Illustration (portfolio),738.0,0.0,yes,0.0,0.0,yes,0.0,625.0,yes
+AD222,Interaction Design (portfolio),444.0,488.0,yes,0.0,0.0,yes,0.0,657.0,yes
+NC003,Computing (Degree Award options),271.0,334.0,no,260.0,303.0,no,261.0,316.0,no
+NC005,Human Resource Management,301.0,360.0,no,300.0,331.0,no,297.0,320.0,no
+NC009,Business,300.0,371.0,no,300.0,346.0,no,297.0,339.0,no
+NC010,Psychology,420.0,465.0,no,400.0,440.0,no,366.0,399.0,no
+NC020,Marketing Practice,270.0,329.0,no,282.0,338.0,no,270.0,307.0,no
+NC022,Accounting and Finance,330.0,390.0,no,337.0,378.0,no,338.0,376.0,no
+NC023,Technology Management (with specialisations),266.0,356.0,no,261.0,282.0,no,260.0,303.0,no
+NC030,Early Childhood Education and Care,251.0,308.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+RC001,Medicine - Undergraduate Entry (HPAT required),740.0,741.0,yes,733.0,738.0,yes,729.0,733.0,yes
+RC004,Physiotherapy,589.0,589.0,no,566.0,567.0,no,532.0,542.0,no
+RC005,Pharmacy,602.0,613.0,no,578.0,589.0,no,555.0,566.0,no
+RC101,Medicine - Graduate Entry (GAMSAT required),62.0,66.0,yes,61.0,63.0,yes,60.0,62.0,yes
+NM801,Montessori Education,262.0,320.0,no,220.0,290.0,no,not offered,not offered,not offered
+NM802,Psychology,228.0,338.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU801,Sustainable Energy Engineering,235.0,329.0,no,235.0,381.0,no,not offered,not offered,not offered
+TU802,Electrical Services and Energy Management,290.0,359.0,no,300.0,352.0,no,not offered,not offered,not offered
+TU804,Engineering (Common Entry with Award options),270.0,361.0,no,271.0,338.0,no,not offered,not offered,not offered
+TU805,Engineering (General Entry),465.0,499.0,no,402.0,466.0,no,not offered,not offered,not offered
+TU807,Computer Engineering in Mobile Systems,274.0,339.0,no,276.0,305.0,no,not offered,not offered,not offered
+TU810,Mechatronic Engineering,271.0,399.0,no,271.0,312.0,no,not offered,not offered,not offered
+TU811,Product Design,434.0,479.0,no,411.0,444.0,no,not offered,not offered,not offered
+TU812,"Design,Technology and Innovation",278.0,335.0,no,270.0,350.0,no,not offered,not offered,not offered
+TU814,Sustainable Transport Management,253.0,349.0,no,251.0,372.0,no,not offered,not offered,not offered
+TU828,Mechanical Engineering (General Entry),300.0,386.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU829,Electronic Engineering (General Entry),243.0,354.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU831,Architectural Technology,423.0,455.0,no,410.0,444.0,no,not offered,not offered,not offered
+TU832,Architecture (Suitability Test and Interview),638.0,682.0,yes,622.0,658.0,yes,not offered,not offered,not offered
+TU833,Construction Management,396.0,429.0,no,367.0,404.0,no,not offered,not offered,not offered
+TU834,Geographic Science,315.0,370.0,no,288.0,357.0,no,not offered,not offered,not offered
+TU835,Planning and Environmental Management,330.0,393.0,no,313.0,349.0,no,not offered,not offered,not offered
+TU836,Property Economics (Valuation Surveying),411.0,444.0,no,401.0,433.0,no,not offered,not offered,not offered
+TU837,Quantity Surveying and Construction Economics,413.0,455.0,no,385.0,418.0,no,not offered,not offered,not offered
+TU838,Sustainable Timber Technology,271.0,385.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU851,"Analytical Chemistry (Environmental, Forensic and Pharmaceutical)",400.0,464.0,no,349.0,419.0,no,not offered,not offered,not offered
+TU852,Chemical Sciences with Medicinal Chemistry,477.0,499.0,no,476.0,498.0,no,not offered,not offered,not offered
+TU854,Science (General Entry),510.0,532.0,no,476.0,495.0,no,not offered,not offered,not offered
+TU855,Science with Nanotechnology,322.0,382.0,no,319.0,368.0,no,not offered,not offered,not offered
+TU856,Computer Science,499.0,531.0,no,476.0,487.0,no,not offered,not offered,not offered
+TU857,Computer Science (Infrastructure),403.0,443.0,no,391.0,419.0,no,not offered,not offered,not offered
+TU858,Computer Science (International),395.0,444.0,no,377.0,424.0,no,not offered,not offered,not offered
+TU859,Computing,251.0,336.0,no,217.0,308.0,no,not offered,not offered,not offered
+TU860,Computing (Information Technology),270.0,356.0,no,260.0,329.0,no,not offered,not offered,not offered
+TU861,Computing with Language (French/German/Spanish),235.0,370.0,no,308.0,348.0,no,not offered,not offered,not offered
+TU862,Computing with Artificial Intelligence Machine Learning,262.0,310.0,no,226.0,288.0,no,not offered,not offered,not offered
+TU863,Digital Forensics and Cyber Security,282.0,346.0,no,280.0,338.0,no,not offered,not offered,not offered
+TU864,DNA and Forensic Analysis,441.0,465.0,no,390.0,429.0,no,not offered,not offered,not offered
+TU865,Cloud Computing,235.0,308.0,no,226.0,331.0,no,not offered,not offered,not offered
+TU866,Biomedical and Molecular Diagnostics,522.0,540.0,no,487.0,498.0,no,not offered,not offered,not offered
+TU867,Biomedical Science,565.0,578.0,no,524.0,542.0,no,not offered,not offered,not offered
+TU868,Clinical Measurement Science,542.0,554.0,no,510.0,520.0,no,not offered,not offered,not offered
+TU869,Environmental Health,387.0,434.0,no,336.0,375.0,no,not offered,not offered,not offered
+TU870,Human Nutrition and Dietetics,600.0,613.0,no,578.0,589.0,no,not offered,not offered,not offered
+TU871,Optometry,532.0,544.0,no,509.0,530.0,no,not offered,not offered,not offered
+TU872,Public Health Nutrition,487.0,521.0,no,491.0,512.0,no,not offered,not offered,not offered
+TU874,Mathematical Sciences,294.0,434.0,no,343.0,407.0,no,not offered,not offered,not offered
+TU875,Pharmaceutical Healthcare,451.0,477.0,no,400.0,440.0,no,not offered,not offered,not offered
+TU876,Pharmaceutical Science,445.0,474.0,no,349.0,391.0,no,not offered,not offered,not offered
+TU877,Physics Technology,314.0,422.0,no,308.0,373.0,no,not offered,not offered,not offered
+TU878,Physics with Energy and Environment,339.0,408.0,no,331.0,444.0,no,not offered,not offered,not offered
+TU879,Physics with Medical Physics and Bioengineering,346.0,430.0,no,351.0,403.0,no,not offered,not offered,not offered
+TU880,Physics with Data Science,412.0,532.0,no,0.0,0.0,no,not offered,not offered,not offered
+TU881,Food Innovation,309.0,423.0,no,318.0,389.0,no,not offered,not offered,not offered
+TU882,Nutraceuticals in Health and Nutrition,380.0,447.0,no,397.0,442.0,no,not offered,not offered,not offered
+TU902,Business (options),270.0,327.0,no,271.0,359.0,no,not offered,not offered,not offered
+TU903,Business and Management,477.0,509.0,no,463.0,485.0,no,not offered,not offered,not offered
+TU904,Business and Law,462.0,486.0,no,462.0,487.0,no,not offered,not offered,not offered
+TU905,Economics and Finance,460.0,488.0,no,465.0,488.0,no,not offered,not offered,not offered
+TU906,Human Resource Management,377.0,412.0,no,395.0,414.0,no,not offered,not offered,not offered
+TU907,Logistics and Supply Chain Management,300.0,367.0,no,300.0,387.0,no,not offered,not offered,not offered
+TU910,Accounting,420.0,462.0,no,444.0,466.0,no,not offered,not offered,not offered
+TU912,Business Analytics,311.0,367.0,no,330.0,366.0,no,not offered,not offered,not offered
+TU914,Business Computing,322.0,377.0,no,324.0,366.0,no,not offered,not offered,not offered
+TU917,Law (LLB ) with a Language,356.0,451.0,no,342.0,433.0,no,not offered,not offered,not offered
+TU918,Law (LLB),463.0,499.0,no,451.0,478.0,no,not offered,not offered,not offered
+TU919,Advertising and Marketing Communications,219.0,327.0,no,226.0,311.0,no,not offered,not offered,not offered
+TU920,Digital Marketing,270.0,339.0,no,270.0,318.0,no,not offered,not offered,not offered
+TU921,Digital Marketing Technologies,230.0,298.0,no,234.0,300.0,no,not offered,not offered,not offered
+TU922,Marketing,412.0,446.0,no,418.0,443.0,no,not offered,not offered,not offered
+TU924,E-Commerce in Retailing,307.0,380.0,no,307.0,380.0,no,not offered,not offered,not offered
+TU925,Retail and Services Management,307.0,368.0,no,301.0,362.0,no,not offered,not offered,not offered
+TU932,Business (options),211.0,337.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU933,Accounting and Finance (campus options),251.0,346.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU935,Sports Management and Coaching,300.0,368.0,no,300.0,347.0,no,not offered,not offered,not offered
+TU936,Sports Science and Health,484.0,498.0,no,391.0,419.0,no,not offered,not offered,not offered
+TU941,Botanical Cuisine,311.0,380.0,no,249.0,257.0,no,not offered,not offered,not offered
+TU942,Culinary Arts,252.0,348.0,no,212.0,340.0,no,not offered,not offered,not offered
+TU943,Culinary Entrepreneurship,261.0,387.0,no,279.0,357.0,no,not offered,not offered,not offered
+TU944,Culinary Science,336.0,393.0,no,316.0,379.0,no,not offered,not offered,not offered
+TU951,International Hospitality and Tourism Management,244.0,316.0,no,200.0,298.0,no,not offered,not offered,not offered
+TU952,International Hospitality Management,309.0,398.0,no,306.0,368.0,no,not offered,not offered,not offered
+TU953,Tourism and Digital Marketing,308.0,366.0,no,290.0,359.0,no,not offered,not offered,not offered
+TU954,Event Management,326.0,402.0,no,356.0,404.0,no,not offered,not offered,not offered
+TU955,Sports and Leisure Management,275.0,349.0,no,217.0,347.0,no,not offered,not offered,not offered
+TU961,Commercial Modern Music (BIMM - assessment/audition),536.0,881.0,yes,608.0,848.0,yes,not offered,not offered,not offered
+TU962,"Drama (Performance, audition)",448.0,551.0,yes,379.0,500.0,yes,not offered,not offered,not offered
+TU963,Music (audition),364.0,561.0,yes,416.0,535.0,yes,not offered,not offered,not offered
+TU965,International Business and Languages,357.0,442.0,no,346.0,413.0,no,not offered,not offered,not offered
+TU967,Languages and International Tourism,298.0,390.0,no,326.0,388.0,no,not offered,not offered,not offered
+TU973,Design - Visual Communication (portfolio),700.0,953.0,yes,717.0,865.0,yes,not offered,not offered,not offered
+TU974,Fine Art (portfolio),549.0,704.0,yes,563.0,826.0,yes,not offered,not offered,not offered
+TU975,Interior Design (portfolio),544.0,919.0,yes,632.0,879.0,yes,not offered,not offered,not offered
+TU976,Photography (portfolio),700.0,952.0,yes,695.0,926.0,yes,not offered,not offered,not offered
+TU978,Creative Industries and Visual Culture,299.0,440.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU981,Creative Digital Media,280.0,347.0,no,282.0,318.0,no,not offered,not offered,not offered
+TU982,Media Production and Digital Arts,369.0,412.0,no,311.0,352.0,no,not offered,not offered,not offered
+TU983,Film and Broadcasting,453.0,496.0,no,451.0,484.0,no,not offered,not offered,not offered
+TU984,Game Design,414.0,455.0,no,381.0,419.0,no,not offered,not offered,not offered
+TU985,Journalism,367.0,409.0,no,322.0,377.0,no,not offered,not offered,not offered
+TU989,Early Childhood Care and Education (campus options),270.0,337.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TU991,Applied Social Studies in Social Care,326.0,356.0,no,325.0,352.0,no,not offered,not offered,not offered
+TU992,Community Development and Youth Work,251.0,311.0,no,253.0,297.0,no,not offered,not offered,not offered
+TU995,Early Childhood Education,378.0,412.0,no,367.0,409.0,no,not offered,not offered,not offered
+TU996,Social Care,407.0,440.0,no,400.0,419.0,no,not offered,not offered,not offered
+TU997,Applied Social Care,320.0,368.0,no,270.0,318.0,no,not offered,not offered,not offered
+TR002,Music,477.0,513.0,yes,382.0,468.0,no,414.0,473.0,yes
+TR003,History,531.0,558.0,no,456.0,511.0,no,486.0,518.0,no
+TR004,Law,589.0,601.0,no,565.0,578.0,no,532.0,552.0,no
+TR005,Philosophy,456.0,510.0,no,442.0,476.0,no,391.0,446.0,no
+TR006,Psychology,578.0,602.0,no,555.0,578.0,no,555.0,577.0,no
+TR007,Clinical Speech and Language Studies,555.0,577.0,no,529.0,553.0,no,499.0,529.0,no
+TR009,Music Education,486.0,530.0,yes,420.0,532.0,yes,430.0,465.0,yes
+TR015,"Philosophy, Political Science, Economics and Sociology",613.0,625.0,no,589.0,601.0,no,566.0,577.0,no
+TR016,Deaf Studies,389.0,440.0,no,329.0,377.0,no,337.0,372.0,no
+TR018,Law and French,600.0,613.0,no,565.0,589.0,no,532.0,554.0,no
+TR019,Law and German,567.0,588.0,no,542.0,566.0,no,523.0,555.0,no
+TR021,"Classics, Ancient History and Archaeology",419.0,501.0,no,370.0,434.0,no,377.0,495.0,no
+TR022,Early and Modern Irish,377.0,473.0,no,398.0,451.0,no,347.0,407.0,no
+TR023,English Studies,533.0,555.0,no,474.0,511.0,no,463.0,511.0,no
+TR024,European Studies,566.0,589.0,no,530.0,566.0,no,520.0,544.0,no
+TR025,Drama and Theatre Studies,509.0,552.0,yes,530.0,581.0,yes,489.0,531.0,yes
+TR028,Ancient and Medieval History and Culture,382.0,474.0,no,342.0,453.0,no,339.0,451.0,no
+TR031,Mathematics,577.0,613.0,no,531.0,589.0,no,566.0,589.0,no
+TR032,Engineering,554.0,581.0,no,508.0,533.0,no,487.0,520.0,no
+TR033,Computer Science,543.0,578.0,no,509.0,545.0,no,465.0,488.0,no
+TR034,Management Science and Information Systems Studies,625.0,625.0,no,613.0,625.0,no,589.0,602.0,no
+TR035,Theoretical Physics,589.0,613.0,no,543.0,601.0,no,554.0,601.0,no
+TR038,Engineering with Management,589.0,613.0,no,532.0,556.0,no,499.0,543.0,no
+TR039,"Computer Science, Linguistics and a Language",443.0,531.0,no,424.0,488.0,no,435.0,498.0,no
+TR040,Middle Eastern and European Languages and Cultures,397.0,531.0,no,466.0,521.0,no,485.0,518.0,no
+TR041,Religion,417.0,476.0,no,368.0,418.0,no,347.0,393.0,no
+TR042,Film,518.0,532.0,no,466.0,498.0,no,not offered,not offered,not offered
+TR043,History of Art and Architecture,467.0,519.0,no,354.0,474.0,no,not offered,not offered,not offered
+TR051,Medicine (HPAT required),743.0,751.0,yes,734.0,745.0,yes,730.0,739.0,yes
+TR052,Dental Science,625.0,625.0,no,613.0,625.0,no,590.0,602.0,no
+TR053,Physiotherapy,590.0,601.0,no,566.0,567.0,no,533.0,544.0,no
+TR054,Occupational Therapy,577.0,589.0,no,533.0,554.0,no,500.0,520.0,no
+TR055,Radiation Therapy,566.0,577.0,no,543.0,554.0,no,510.0,521.0,no
+TR056,Human Health and Disease,601.0,613.0,no,564.0,578.0,no,543.0,565.0,no
+TR060,Biological and Biomedical Sciences,577.0,590.0,no,543.0,566.0,no,510.0,542.0,no
+TR061,Chemical Sciences,542.0,564.0,no,510.0,532.0,no,488.0,520.0,no
+TR062,Geography and Geoscience,490.0,531.0,no,473.0,499.0,no,435.0,485.0,no
+TR063,Physical Sciences,521.0,566.0,no,477.0,531.0,no,498.0,543.0,no
+TR064,Environmental Science and Engineering,555.0,578.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR072,Pharmacy,613.0,625.0,no,590.0,613.0,no,555.0,577.0,no
+TR080,Global Business,613.0,625.0,no,589.0,601.0,no,565.0,577.0,no
+TR081,"Business, Economic and Social Studies (BESS)",566.0,589.0,no,543.0,565.0,no,518.0,542.0,no
+TR084,Social Studies (Social Work),484.0,508.0,no,462.0,495.0,no,420.0,462.0,no
+TR085,Business Studies and French,564.0,577.0,no,521.0,543.0,no,509.0,553.0,no
+TR086,Business Studies and German,530.0,533.0,no,499.0,518.0,no,474.0,495.0,no
+TR087,Business Studies and Russian,487.0,521.0,no,456.0,488.0,no,467.0,487.0,no
+TR089,Business Studies and Polish,391.0,432.0,no,424.0,468.0,no,393.0,434.0,no
+TR090,Business Studies and Spanish,566.0,589.0,no,531.0,542.0,no,510.0,543.0,no
+TR091,General Nursing (Meath and St James`s),454.0,487.0,no,429.0,455.0,no,393.0,420.0,no
+TR093,General Nursing (Adelaide School of Nursing),473.0,484.0,yes,414.0,441.0,yes,378.0,409.0,yes
+TR095,Mental Health Nursing,432.0,455.0,no,408.0,430.0,no,358.0,377.0,no
+TR097,Intellectual Disability Nursing,401.0,419.0,no,378.0,398.0,no,346.0,350.0,no
+TR111,Ancient History and Archaeology/Geography,509.0,530.0,no,352.0,429.0,no,not offered,not offered,not offered
+TR112,Ancient History and Archaeology/History,577.0,577.0,no,529.0,0.0,no,not offered,not offered,not offered
+TR113,Ancient History and Archaeology/History of Art and Architecture,528.0,541.0,no,337.0,477.0,no,not offered,not offered,not offered
+TR114,Ancient History and Archaeology/Modern Language,507.0,512.0,no,337.0,420.0,no,not offered,not offered,not offered
+TR117,Ancient History and Archaeology/Religion,494.0,625.0,no,342.0,368.0,no,not offered,not offered,not offered
+TR166,Classical Civilisation/English Literature,552.0,567.0,no,496.0,523.0,no,not offered,not offered,not offered
+TR173,Classical Civilisation/History of Art and Architecture,420.0,487.0,no,335.0,466.0,no,not offered,not offered,not offered
+TR177,Classical Civilisation/Modern Language,484.0,543.0,no,335.0,536.0,no,not offered,not offered,not offered
+TR179,Classical Civilisation/Philosophy,521.0,522.0,no,479.0,518.0,no,not offered,not offered,not offered
+TR188,Computer Science/Business Studies,584.0,602.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR198,Economics/Geography,954.0,0.0,no,534.0,552.0,no,not offered,not offered,not offered
+TR202,Economics/History,601.0,625.0,no,534.0,566.0,no,not offered,not offered,not offered
+TR207,Economics/Mathematics,613.0,625.0,no,566.0,601.0,no,not offered,not offered,not offered
+TR208,Economics/Modern Language,589.0,611.0,no,534.0,578.0,no,not offered,not offered,not offered
+TR209,Economics/Philosophy,589.0,611.0,no,534.0,576.0,no,not offered,not offered,not offered
+TR212,Economics/Sociology,589.0,606.0,no,534.0,541.0,no,not offered,not offered,not offered
+TR214,Social Policy/Economics,611.0,611.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR228,Classical Languages/English Literature,555.0,583.0,no,498.0,533.0,no,not offered,not offered,not offered
+TR230,Classical Languages/Linguistics,501.0,501.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR231,Classical Languages/History of Art and Architecture,613.0,613.0,no,349.0,444.0,no,not offered,not offered,not offered
+TR233,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",583.0,583.0,no,349.0,566.0,no,not offered,not offered,not offered
+TR239,Classical Languages/Modern Language,543.0,558.0,no,349.0,349.0,no,not offered,not offered,not offered
+TR240,Computer Science/Geography,482.0,541.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR241,Computer Science/Linguistics,495.0,532.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR262,English Literature/History,576.0,600.0,no,529.0,552.0,no,not offered,not offered,not offered
+TR263,English Literature/History of Art and Architecture,571.0,576.0,no,497.0,533.0,no,not offered,not offered,not offered
+TR269,English Literature/Philosophy,555.0,584.0,no,495.0,532.0,no,not offered,not offered,not offered
+TR272,English Literature/Sociology,553.0,567.0,no,498.0,519.0,no,not offered,not offered,not offered
+TR276,English Literature/Drama Studies,555.0,589.0,yes,476.0,530.0,yes,not offered,not offered,not offered
+TR277,English Literature/Modern Language,554.0,586.0,no,489.0,543.0,no,not offered,not offered,not offered
+TR311,Film/Drama Studies,578.0,578.0,yes,521.0,557.0,yes,not offered,not offered,not offered
+TR312,Film/English Literature,576.0,590.0,no,521.0,541.0,no,not offered,not offered,not offered
+TR320,Film/Music,584.0,601.0,yes,521.0,555.0,yes,not offered,not offered,not offered
+TR322,Geography/History,613.0,613.0,no,529.0,555.0,no,not offered,not offered,not offered
+TR323,Drama Studies/Modern Language,495.0,589.0,yes,473.0,551.0,yes,not offered,not offered,not offered
+TR324,Film/Modern Language,577.0,589.0,no,521.0,544.0,no,not offered,not offered,not offered
+TR325,Film/History,613.0,613.0,no,529.0,625.0,no,not offered,not offered,not offered
+TR326,Geography/Modern Language,451.0,500.0,no,352.0,440.0,no,not offered,not offered,not offered
+TR328,Political Science/Geography,564.0,590.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR332,Geography/Sociology,522.0,554.0,no,496.0,520.0,no,not offered,not offered,not offered
+TR443,History/History of Art and Architecture,581.0,613.0,no,529.0,532.0,no,not offered,not offered,not offered
+TR447,History/Modern Language,576.0,576.0,no,529.0,554.0,no,not offered,not offered,not offered
+TR449,History/Philosophy,579.0,590.0,no,529.0,543.0,no,not offered,not offered,not offered
+TR454,History/Religion,0.0,0.0,no,529.0,534.0,no,not offered,not offered,not offered
+TR455,History of Art and Architecture/Modern Language,451.0,512.0,no,334.0,454.0,no,not offered,not offered,not offered
+TR457,History/Political Science,576.0,590.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR479,History of Art and Architecture/Philosophy,519.0,531.0,no,485.0,555.0,no,not offered,not offered,not offered
+TR482,Sociology/History of Art and Architecture,522.0,541.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR547,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",543.0,543.0,no,337.0,473.0,no,not offered,not offered,not offered
+TR548,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",544.0,544.0,no,335.0,543.0,no,not offered,not offered,not offered
+TR554,"Middle Eastern,Jewish and Islamic Civilisations/History",576.0,580.0,no,529.0,555.0,no,not offered,not offered,not offered
+TR563,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",590.0,590.0,no,335.0,451.0,no,not offered,not offered,not offered
+TR564,"Middle Eastern,Jewish and Islamic Civilisations/Music",0.0,0.0,yes,0.0,0.0,yes,not offered,not offered,not offered
+TR565,"Middle Eastern,Jewish and Islamic Civilisations/Religion",949.0,0.0,no,342.0,0.0,no,not offered,not offered,not offered
+TR580,Business Studies/Law,625.0,625.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR581,History/Law,625.0,625.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR582,Political Science/Law,625.0,625.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR587,"Middle Eastern,Jewish and Islamic Civilisations/Linguistics",0.0,0.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR588,Linguistics/Modern Language,456.0,519.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR589,Linguistics/Philosophy,520.0,553.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR592,"Sociology/Middle Eastern,Jewish and Islamic Civilisations",531.0,539.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR597,Mathematics/Modern Language,613.0,613.0,no,566.0,625.0,no,not offered,not offered,not offered
+TR598,Mathematics/Music,625.0,625.0,yes,566.0,0.0,yes,not offered,not offered,not offered
+TR599,Mathematics/Philosophy,625.0,625.0,no,566.0,589.0,no,not offered,not offered,not offered
+TR629,Music/Philosophy,533.0,533.0,yes,499.0,0.0,yes,not offered,not offered,not offered
+TR635,Music/Drama Studies,532.0,532.0,yes,473.0,487.0,yes,not offered,not offered,not offered
+TR636,Music/Modern Language,530.0,555.0,yes,388.0,455.0,yes,not offered,not offered,not offered
+TR638,Music/Religion,0.0,0.0,yes,388.0,440.0,yes,not offered,not offered,not offered
+TR639,Philosophy/Modern Language,520.0,540.0,no,499.0,613.0,no,not offered,not offered,not offered
+TR662,Philosophy/Sociology,531.0,542.0,no,499.0,531.0,no,not offered,not offered,not offered
+TR663,Religion/Classical Civilisation,418.0,442.0,no,342.0,591.0,no,not offered,not offered,not offered
+TR664,Religion/English Literature,966.0,0.0,no,498.0,565.0,no,not offered,not offered,not offered
+TR665,Religion/History of Art and Architecture,369.0,494.0,no,342.0,452.0,no,not offered,not offered,not offered
+TR666,Religion/Modern Language,0.0,0.0,no,0.0,0.0,no,not offered,not offered,not offered
+TR667,French/Modern Language,466.0,508.0,no,403.0,478.0,no,not offered,not offered,not offered
+TR668,German/Modern Language,441.0,521.0,no,389.0,465.0,no,not offered,not offered,not offered
+TR669,Irish/Modern Language,464.0,533.0,no,368.0,473.0,no,not offered,not offered,not offered
+TR670,Italian/Modern Language,462.0,498.0,no,381.0,466.0,no,not offered,not offered,not offered
+TR671,Russian/Modern Language,501.0,525.0,no,332.0,494.0,no,not offered,not offered,not offered
+TR672,Spanish/Modern Language,486.0,552.0,no,336.0,488.0,no,not offered,not offered,not offered
+TR756,Sociology/Modern Language,522.0,545.0,no,495.0,510.0,no,not offered,not offered,not offered
+TR757,Modern Language/Social Policy,555.0,566.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR758,Social Policy/Political Science,566.0,597.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR759,Sociology/Social Policy,554.0,579.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TR911,Children`s and General Nursing (Integrated),529.0,544.0,no,499.0,521.0,no,476.0,487.0,no
+TR913,Midwifery,520.0,543.0,no,473.0,508.0,no,423.0,462.0,no
+DN100,Architecture,553.0,577.0,no,510.0,541.0,no,473.0,509.0,no
+DN120,Landscape Architecture,430.0,484.0,no,407.0,453.0,no,353.0,403.0,no
+DN130,City Planning and Environmental Policy,420.0,474.0,no,390.0,432.0,no,367.0,421.0,no
+DN150,Engineering (Common Entry),556.0,601.0,no,520.0,565.0,no,511.0,554.0,no
+DN200,Science (options),566.0,589.0,no,533.0,567.0,no,521.0,554.0,no
+DN201,Computer Science (Common Entry),542.0,558.0,no,510.0,542.0,no,488.0,509.0,no
+DN230,Actuarial and Financial Studies,613.0,625.0,no,601.0,613.0,no,577.0,589.0,no
+DN240,Sustainability,506.0,532.0,no,440.0,498.0,no,not offered,not offered,not offered
+DN250,Agricultural Science (options),440.0,489.0,no,453.0,488.0,no,420.0,462.0,no
+DN261,Food Science,522.0,544.0,no,476.0,495.0,no,434.0,467.0,no
+DN262,Human Nutrition,566.0,577.0,no,531.0,553.0,no,493.0,510.0,no
+DN300,Veterinary Medicine - Undergraduate Entry,601.0,613.0,yes,589.0,602.0,yes,567.0,589.0,yes
+DN301,Veterinary Medicine - Graduate Entry (GAMSAT required),0.0,0.0,yes,0.0,0.0,yes,not offered,0.0,yes
+DN310,Veterinary Nursing,486.0,522.0,no,466.0,489.0,no,441.0,487.0,no
+DN400,Medicine - Undergraduate Entry (HPAT required),743.0,751.0,yes,736.0,748.0,yes,735.0,745.0,yes
+DN401,Medicine - Graduate Entry (GAMSAT required),61.0,63.0,yes,58.0,61.0,yes,59.0,61.0,yes
+DN410,Radiography,565.0,578.0,no,531.0,543.0,no,507.0,522.0,no
+DN411,Radiography - Graduate Entry,0.0,0.0,yes,0.0,0.0,yes,not offered,0.0,yes
+DN420,Physiotherapy,601.0,613.0,no,568.0,589.0,no,542.0,555.0,no
+DN425,Health and Performance Science,541.0,555.0,no,507.0,521.0,no,488.0,509.0,no
+DN430,Sport and Exercise Management,473.0,499.0,no,433.0,455.0,no,436.0,455.0,no
+DN440,"Biomedical, Health and Life Sciences",613.0,618.0,no,589.0,601.0,no,565.0,579.0,no
+DN450,General Nursing,462.0,490.0,no,421.0,445.0,no,398.0,420.0,no
+DN451,Children`s and General Nursing (Integrated),532.0,554.0,no,499.0,529.0,no,462.0,499.0,no
+DN452,Midwifery,507.0,511.0,no,473.0,499.0,no,409.0,452.0,no
+DN453,Mental Health Nursing,441.0,451.0,no,393.0,412.0,no,379.0,403.0,no
+DN520,Joint Honours (options),356.0,445.0,no,310.0,409.0,no,336.0,408.0,no
+DN530,Humanities (options),359.0,465.0,no,326.0,419.0,no,348.0,411.0,no
+DN541,Modern Languages (options),320.0,423.0,no,300.0,443.0,no,348.0,412.0,no
+DN600,Law (options),566.0,588.0,no,543.0,566.0,no,520.0,532.0,no
+DN610,Business and Law,566.0,589.0,no,544.0,577.0,no,521.0,543.0,no
+DN650,Commerce,554.0,567.0,no,521.0,543.0,no,498.0,510.0,no
+DN660,Commerce International (options),554.0,567.0,no,510.0,531.0,no,507.0,531.0,no
+DN670,Economics and Finance,625.0,625.0,no,613.0,625.0,no,601.0,601.0,no
+DN700,Social Sciences (options),463.0,509.0,no,418.0,466.0,no,388.0,441.0,no
+DN710,Economics,522.0,544.0,no,498.0,510.0,no,476.0,488.0,no
+DN720,Psychology,555.0,577.0,no,522.0,543.0,no,517.0,531.0,no
+DN750,Social Policy and Sociology,408.0,441.0,no,377.0,408.0,no,330.0,366.0,no
+DK810,Accounting and Finance,307.0,399.0,no,305.0,401.0,no,306.0,391.0,no
+DK816,Business Studies,301.0,382.0,no,300.0,367.0,no,300.0,357.0,no
+DK820,Computing in Games Development,309.0,381.0,no,311.0,348.0,no,307.0,369.0,no
+DK821,Computing in Software Development,307.0,379.0,no,302.0,361.0,no,301.0,347.0,no
+DK822,Augmented and Virtual Reality,307.0,340.0,no,304.0,380.0,no,not offered,not offered,not offered
+DK830,Building Surveying,305.0,378.0,no,336.0,352.0,no,302.0,349.0,no
+DK831,Architectural Technology,314.0,377.0,no,389.0,433.0,no,301.0,366.0,no
+DK832,Construction Management,305.0,362.0,no,387.0,419.0,no,300.0,329.0,no
+DK843,Engineering (Common Entry),391.0,466.0,no,340.0,439.0,no,303.0,402.0,no
+DK844,Mechanical Engineering,336.0,435.0,no,305.0,448.0,no,not offered,not offered,not offered
+DK845,Electrical and Electronic Engineering,331.0,434.0,no,304.0,392.0,no,not offered,not offered,not offered
+DK846,Civil Engineering,371.0,465.0,no,361.0,392.0,no,not offered,not offered,not offered
+DK850,International Tourism Management,303.0,417.0,no,317.0,377.0,no,not offered,not offered,not offered
+DK861,Arts,300.0,347.0,no,302.0,363.0,no,300.0,358.0,no
+DK862,Social Care,301.0,348.0,no,301.0,347.0,no,300.0,338.0,no
+DK863,Creative Media,309.0,432.0,no,308.0,337.0,no,300.0,376.0,no
+DK864,Film and Television Production,308.0,399.0,no,300.0,402.0,no,300.0,332.0,no
+DK865,Audio and Music Production,308.0,404.0,no,301.0,367.0,no,301.0,346.0,no
+DK870,General Nursing,433.0,451.0,no,397.0,419.0,no,392.0,401.0,no
+DK872,Intellectual Disability Nursing,347.0,368.0,no,336.0,358.0,no,300.0,317.0,no
+DK874,Mental Health Nursing,391.0,414.0,no,356.0,379.0,no,356.0,378.0,no
+DK876,Early Childhood Studies,300.0,357.0,no,321.0,388.0,no,305.0,359.0,no
+DK877,Midwifery,470.0,495.0,no,440.0,470.0,no,398.0,441.0,no
+DK880,Health and Physical Activity,300.0,397.0,no,328.0,389.0,no,300.0,367.0,no
+DK882,Agriculture (Award options),342.0,402.0,no,310.0,380.0,no,303.0,358.0,no
+DK883,Science (Award options),302.0,384.0,no,300.0,370.0,no,300.0,369.0,no
+DK884,Sustainable Agriculture,348.0,397.0,no,0.0,0.0,no,not offered,not offered,not offered
+DK885,Agri-Food Production,0.0,0.0,no,0.0,0.0,no,not offered,not offered,not offered
+DK886,Biopharmaceutical Science,347.0,388.0,no,301.0,338.0,no,not offered,not offered,not offered
+DK887,Environmental Science,377.0,440.0,no,330.0,589.0,no,not offered,not offered,not offered
+GA181,Accounting,303.0,400.0,no,309.0,403.0,no,303.0,378.0,no
+GA182,Business,285.0,369.0,no,287.0,347.0,no,290.0,347.0,no
+GA183,Business Information Systems,298.0,358.0,no,296.0,356.0,no,309.0,373.0,no
+GA184,Marketing and Sales,300.0,368.0,no,307.0,357.0,no,307.0,348.0,no
+GA185,Finance and Economics,318.0,378.0,no,293.0,392.0,no,307.0,398.0,no
+GA186,Business with Entrepreneurship,287.0,346.0,no,280.0,356.0,no,297.0,328.0,no
+GA187,Rural Enterprise and Agri-Business,291.0,358.0,no,281.0,352.0,no,280.0,367.0,no
+GA281,Film and Documentary,301.0,358.0,no,304.0,379.0,no,287.0,360.0,no
+GA282,Heritage Studies,252.0,343.0,no,220.0,281.0,no,238.0,308.0,no
+GA283,Contemporary Art (portfolio),790.0,876.0,yes,679.0,870.0,yes,260.0,340.0,no
+GA284,Design,331.0,398.0,no,303.0,356.0,no,309.0,377.0,no
+GA285,"Education (Art, Design and Graphics)",406.0,442.0,no,0.0,0.0,no,not offered,not offered,not offered
+GA380,International Hotel Management,218.0,320.0,no,242.0,330.0,no,225.0,289.0,no
+GA381,International Tourism Management,252.0,317.0,no,278.0,350.0,no,261.0,290.0,no
+GA382,Culinary and Gastronomic Science,235.0,375.0,no,206.0,337.0,no,225.0,316.0,no
+GA384,Event Management with Public Relations,230.0,340.0,no,212.0,328.0,no,209.0,289.0,no
+GA480,Construction Management,302.0,359.0,no,260.0,336.0,no,260.0,312.0,no
+GA482,Quantity Surveying and Construction Economics,304.0,388.0,no,288.0,350.0,no,280.0,340.0,no
+GA483,Architectural Technology,273.0,361.0,no,265.0,337.0,no,251.0,321.0,no
+GA484,Civil Engineering,377.0,421.0,no,290.0,383.0,no,270.0,362.0,no
+GA580,Software and Electronic Engineering,300.0,388.0,no,300.0,393.0,no,301.0,351.0,no
+GA680,Mechanical Engineering,400.0,455.0,no,330.0,401.0,no,336.0,389.0,no
+GA681,Energy Engineering,312.0,392.0,no,293.0,366.0,no,281.0,328.0,no
+GA682,Biomedical Engineering,331.0,413.0,no,313.0,393.0,no,331.0,383.0,no
+GA683,Agricultural Engineering,304.0,390.0,no,309.0,385.0,no,301.0,365.0,no
+GA684,Engineering Common Entry to Manu/Agri/Biomed/Energy/Mech Eng,413.0,456.0,no,340.0,405.0,no,346.0,406.0,no
+GA685,Manufacturing Engineering Design,336.0,377.0,no,309.0,379.0,no,not offered,not offered,not offered
+GA780,Applied Freshwater and Marine Biology,366.0,435.0,no,327.0,377.0,no,300.0,360.0,no
+GA781,Applied Biology and Biopharmaceutical Science,381.0,442.0,no,337.0,390.0,no,317.0,376.0,no
+GA782,Chemical and Pharmaceutical Science,356.0,398.0,no,336.0,388.0,no,307.0,346.0,no
+GA783,Physics and Instrumentation,301.0,387.0,no,363.0,408.0,no,373.0,378.0,no
+GA784,Science (Undenominated),445.0,466.0,no,372.0,403.0,no,327.0,377.0,no
+GA785,Medical Science,510.0,532.0,no,473.0,500.0,no,451.0,486.0,no
+GA786,Forensic Science and Analysis,408.0,462.0,no,317.0,387.0,no,300.0,366.0,no
+GA787,Computing in Software Development,310.0,381.0,no,270.0,315.0,no,275.0,327.0,no
+GA788,Computing and Digital Media,270.0,314.0,no,282.0,356.0,no,270.0,327.0,no
+GA789,Agriculture and Environmental Management,340.0,392.0,no,289.0,371.0,no,297.0,339.0,no
+GA790,Sport and Exercise Science,366.0,431.0,no,356.0,409.0,no,350.0,379.0,no
+GA791,Public Health Nutrition,368.0,431.0,no,368.0,409.0,no,364.0,397.0,no
+GA880,General Nursing,440.0,455.0,no,422.0,441.0,no,389.0,400.0,no
+GA882,Psychiatric Nursing,369.0,398.0,no,367.0,377.0,no,346.0,370.0,no
+GA885,Outdoor Education,269.0,360.0,no,252.0,262.0,no,210.0,298.0,no
+GA887,History and Geography,201.0,288.0,no,244.0,380.0,no,228.0,296.0,no
+GA889,Applied Social Care,265.0,339.0,no,266.0,298.0,no,260.0,297.0,no
+GA890,Early Childhood Education and Care,227.0,336.0,no,270.0,327.0,no,278.0,319.0,no
+GA891,Geography and Outdoor Education,261.0,366.0,no,244.0,391.0,no,not offered,not offered,not offered
+GA892,Community Development and Youth Work (Level 8),0.0,0.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+GA980,Education (Design Graphics and Construction),410.0,435.0,no,377.0,411.0,no,376.0,389.0,no
+GA981,Furniture Design and Manufacture,346.0,385.0,no,not offered,not offered,not offered,271.0,350.0,no
+GA982,Furniture Making and Architectural Woodworking,360.0,402.0,no,not offered,not offered,not offered,270.0,352.0,no
+GA983,Furniture and Digital Manufacturing,0.0,0.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+GA984,"Furniture Design, Making and Technology - Common Entry",467.0,498.0,no,284.0,369.0,no,not offered,not offered,not offered
+GY101,Arts (Joint-Honours),326.0,423.0,no,300.0,391.0,no,300.0,374.0,no
+GY104,BSc (Psychology),545.0,566.0,no,519.0,542.0,no,507.0,529.0,no
+GY105,Arts (History),357.0,424.0,no,301.0,377.0,no,318.0,358.0,no
+GY109,Arts (Mathematics and Education),413.0,487.0,no,403.0,466.0,no,411.0,487.0,no
+GY110,Arts (Children and Youth Studies - options),387.0,440.0,no,357.0,418.0,no,382.0,409.0,no
+GY111,Arts (English and Creative Writing),420.0,518.0,no,330.0,492.0,no,402.0,472.0,no
+GY113,Arts with Human Rights,413.0,477.0,no,368.0,422.0,no,338.0,409.0,no
+GY115,Arts with Performing Arts Studies,300.0,393.0,no,387.0,443.0,no,328.0,367.0,no
+GY118,"Arts (Drama, Theatre and Performance Studies)",430.0,476.0,no,451.0,492.0,no,410.0,451.0,no
+GY119,Arts (Journalism),473.0,521.0,no,400.0,465.0,no,410.0,475.0,no
+GY122,Na Dána (Cumarsáid agus Gaeilge),410.0,496.0,no,361.0,453.0,no,308.0,399.0,no
+GY123,Applied Social Sciences,419.0,451.0,no,358.0,410.0,no,357.0,388.0,no
+GY125,Arts (Digital Arts and Technology),403.0,444.0,no,328.0,347.0,no,324.0,379.0,no
+GY127,Arts (Film and Digital Media),421.0,488.0,no,401.0,462.0,no,387.0,435.0,no
+GY128,Arts (Global Languages),346.0,468.0,no,352.0,476.0,no,370.0,440.0,no
+GY129,Arts (Global Experience),465.0,522.0,no,420.0,462.0,no,408.0,477.0,no
+GY130,Arts (Music),462.0,498.0,no,408.0,495.0,no,400.0,444.0,no
+GY132,"Government (Politics, Economics and Law)",451.0,495.0,no,407.0,435.0,no,402.0,444.0,no
+GY133,Education (Computer Science and Mathematical Studies),454.0,476.0,no,422.0,498.0,no,401.0,466.0,no
+GY134,Geography and Geosystems,425.0,476.0,no,410.0,445.0,no,not offered,not offered,not offered
+GY135,Arts (Global Media),442.0,484.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+GY136,Na Dána (Léann Teanga - options),526.0,526.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+GY201,Commerce,476.0,499.0,no,433.0,466.0,no,420.0,453.0,no
+GY202,Commerce (International) with French,520.0,548.0,no,484.0,511.0,no,484.0,513.0,no
+GY203,Commerce (International) with German,518.0,532.0,no,489.0,566.0,no,489.0,541.0,no
+GY204,Commerce (International) with Spanish,506.0,531.0,no,495.0,511.0,no,484.0,500.0,no
+GY206,Business Information Systems (Work Placement and Optional Int`l Study),509.0,544.0,no,465.0,488.0,no,431.0,445.0,no
+GY207,Commerce (Accounting) including optional Global Experience year,543.0,578.0,no,509.0,543.0,no,486.0,510.0,no
+GY208,Commerce (Gaeilge),508.0,547.0,no,473.0,511.0,no,473.0,488.0,no
+GY209,Commerce (Global Experience),551.0,578.0,no,530.0,554.0,no,509.0,531.0,no
+GY250,Law and Business,510.0,541.0,no,487.0,510.0,no,436.0,467.0,no
+GY251,Law (BCL),542.0,554.0,no,499.0,518.0,no,473.0,498.0,no
+GY252,Law (BCL) and Human Rights,565.0,567.0,no,520.0,541.0,no,510.0,521.0,no
+GY253,Law and Taxation,506.0,531.0,no,509.0,543.0,no,not offered,not offered,not offered
+GY254,"Law (BCL), Criminology and Criminal Justice",548.0,566.0,no,530.0,554.0,no,not offered,not offered,not offered
+GY261,Business Studies in International Hotel Management (interview),503.0,647.0,yes,497.0,611.0,yes,486.0,615.0,yes
+GY262,Commerce in International Hotel Management (interview),709.0,743.0,yes,681.0,724.0,yes,671.0,726.0,yes
+GY301,Science,488.0,529.0,no,432.0,487.0,no,400.0,456.0,no
+GY303,Biomedical Science,613.0,613.0,no,556.0,589.0,no,533.0,566.0,no
+GY304,Biotechnology,495.0,522.0,no,465.0,498.0,no,473.0,507.0,no
+GY308,Environmental Science,430.0,473.0,no,408.0,484.0,no,413.0,440.0,no
+GY309,Financial Mathematics and Economics,509.0,565.0,no,487.0,532.0,no,454.0,498.0,no
+GY310,Marine Science,467.0,499.0,no,419.0,476.0,no,409.0,456.0,no
+GY313,Environmental Health and Safety,412.0,452.0,no,412.0,440.0,no,402.0,435.0,no
+GY314,Earth and Ocean Sciences,422.0,463.0,no,403.0,444.0,no,402.0,425.0,no
+GY318,Biopharmaceutical Chemistry,555.0,581.0,no,509.0,542.0,no,510.0,532.0,no
+GY319,Mathematical Science,543.0,589.0,no,476.0,566.0,no,456.0,531.0,no
+GY320,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",465.0,533.0,no,402.0,478.0,no,401.0,487.0,no
+GY321,Genetics and Genomics,532.0,565.0,no,508.0,532.0,no,not offered,not offered,not offered
+GY322,Agricultural Sciences,485.0,518.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+GY350,Computer Science and Information Technology,495.0,521.0,no,403.0,454.0,no,425.0,466.0,no
+GY401,Engineering (Undenominated),520.0,555.0,no,465.0,511.0,no,444.0,499.0,no
+GY402,Civil Engineering,521.0,545.0,no,455.0,499.0,no,509.0,543.0,no
+GY405,Mechanical Engineering,541.0,589.0,no,454.0,509.0,no,443.0,499.0,no
+GY406,Electronic and Computer Engineering,555.0,566.0,no,510.0,544.0,no,509.0,547.0,no
+GY408,Biomedical Engineering,554.0,578.0,no,509.0,554.0,no,519.0,543.0,no
+GY410,Project and Construction Management,431.0,455.0,no,403.0,456.0,no,434.0,464.0,no
+GY413,Energy Systems Engineering,509.0,543.0,no,502.0,531.0,no,532.0,589.0,no
+GY414,Electrical and Electronic Engineering,433.0,476.0,no,405.0,429.0,no,454.0,487.0,no
+GY501,"Medicine (five year/six year course, HPAT required)",737.0,740.0,yes,728.0,731.0,yes,726.0,731.0,yes
+GY502,Occupational Therapy,601.0,602.0,no,555.0,567.0,no,532.0,543.0,no
+GY503,Speech and Language Therapy,578.0,590.0,no,543.0,554.0,no,529.0,543.0,no
+GY504,Podiatric Medicine,510.0,533.0,no,443.0,476.0,no,434.0,463.0,no
+GY515,General Nursing (Galway and Portiuncula),476.0,507.0,no,473.0,496.0,no,442.0,466.0,no
+GY516,Mental Health Nursing,412.0,451.0,no,440.0,467.0,no,388.0,413.0,no
+GY517,Midwifery,507.0,532.0,no,495.0,518.0,no,429.0,468.0,no
+LY108,Business - Accounting,312.0,432.0,no,309.0,431.0,no,318.0,399.0,no
+LY118,Business,288.0,387.0,no,290.0,377.0,no,287.0,352.0,no
+LY128,Marketing with Online Technologies,261.0,369.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+LY208,Law,290.0,388.0,no,300.0,367.0,no,300.0,359.0,no
+LY228,Sports and Exercise - Common Entry,290.0,379.0,no,300.0,367.0,no,278.0,330.0,no
+LY408,Design - Common Entry,301.0,380.0,yes,320.0,381.0,yes,307.0,368.0,yes
+LY508,Fire Safety Engineering,283.0,352.0,no,276.0,326.0,no,270.0,299.0,no
+LY518,Quantity Surveying,304.0,387.0,no,301.0,368.0,no,307.0,368.0,no
+LY528,Construction Management,262.0,298.0,no,271.0,321.0,no,267.0,291.0,no
+LY538,Architectural Technology,234.0,403.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+LY608,Mechanical Engineering,300.0,390.0,no,300.0,379.0,no,304.0,333.0,no
+LY618,Electronic Engineering,321.0,368.0,no,312.0,402.0,no,307.0,339.0,no
+LY708,Applied Computing,320.0,430.0,no,306.0,372.0,no,300.0,348.0,no
+LY748,Computer Science,316.0,421.0,no,317.0,420.0,no,not offered,not offered,not offered
+LY818,Science - Common Entry,302.0,411.0,no,303.0,409.0,no,302.0,371.0,no
+LY828,Agriculture - Common Entry,300.0,360.0,no,307.0,351.0,no,300.0,342.0,no
+LY908,General Nursing,429.0,441.0,no,400.0,423.0,no,383.0,390.0,no
+LY918,Psychiatric Nursing,361.0,399.0,no,357.0,387.0,no,291.0,332.0,no
+LY928,Intellectual Disability Nursing,342.0,386.0,no,328.0,346.0,no,288.0,299.0,no
+LY968,"Early Childhood Care, Health and Education",288.0,380.0,no,303.0,361.0,no,300.0,336.0,no
+LY978,Health and Social Care - Common Entry,279.0,347.0,no,280.0,330.0,no,260.0,299.0,no
+MI001,Contemporary and Applied Theatre Studies,209.0,484.0,no,390.0,412.0,no,345.0,381.0,no
+MI002,Arts,280.0,408.0,no,281.0,389.0,no,300.0,378.0,no
+MI004,Education - Primary Teaching - International,589.0,601.0,no,577.0,589.0,no,not offered,not offered,not offered
+MI005,Education - Primary Teaching,522.0,554.0,no,495.0,521.0,no,473.0,506.0,no
+MI006,Education - Primary Teaching - Gaeltacht Applicants,485.0,522.0,yes,462.0,519.0,yes,442.0,473.0,yes
+MI007,Early Childhood Care and Education,409.0,462.0,no,357.0,409.0,no,366.0,402.0,no
+MI008,Education and Psychology - Primary Teaching,590.0,602.0,no,588.0,601.0,no,543.0,555.0,no
+MI009,"Education, Business Studies and Accounting",434.0,477.0,no,402.0,455.0,no,392.0,420.0,no
+MI010,"Education, Business Studies and Religious Studies",370.0,412.0,no,368.0,389.0,no,326.0,355.0,no
+MI011,"Education, Gaeilge and Religious Studies",407.0,444.0,no,409.0,451.0,no,377.0,387.0,no
+MI012,"Education, Gaeilge and Business Studies",387.0,451.0,no,401.0,463.0,no,398.0,440.0,no
+MI013,"Education, Mathematics and Gaeilge",509.0,543.0,no,444.0,477.0,no,433.0,465.0,no
+MI014,"Education, Mathematics and Business Studies",476.0,531.0,no,434.0,487.0,no,not offered,not offered,not offered
+CI110,Counselling and Psychotherapy,292.0,368.0,no,310.0,392.0,no,not offered,not offered,not offered
+CI111,Counselling and Psychotherapy with Addiction Studies,290.0,356.0,no,301.0,319.0,no,not offered,not offered,not offered
+CI112,Counselling and Psychotherapy with Youth Studies,325.0,388.0,no,311.0,311.0,no,not offered,not offered,not offered
+LC110,"Art and Design (Common Entry, portfolio)",794.0,981.0,yes,740.0,961.0,yes,734.0,918.0,yes
+LC114,Fashion and Textiles for Product and Costume (portfolio),914.0,933.0,yes,880.0,1029.0,yes,900.0,988.0,yes
+LC115,"Art and Design Teacher Education (LIT and UL, portfolio)",993.0,1058.0,yes,942.0,1013.0,yes,not offered,not offered,not offered
+LC220,Digital Marketing,263.0,322.0,no,262.0,298.0,no,254.0,288.0,no
+LC223,Law and Taxation,331.0,410.0,no,307.0,356.0,no,308.0,372.0,no
+LC224,Accounting and Finance,300.0,356.0,no,300.0,371.0,no,299.0,382.0,no
+LC225,Marketing and Management,298.0,376.0,no,298.0,358.0,no,298.0,337.0,no
+LC226,Enterprise and Innovation,255.0,327.0,no,234.0,310.0,no,216.0,298.0,no
+LC233,Software Development,280.0,348.0,no,272.0,339.0,no,300.0,371.0,no
+LC234,Immersive Digital Media and Spatial Computing,226.0,342.0,no,225.0,307.0,no,219.0,288.0,no
+LC236,Internet Systems Development,260.0,305.0,no,260.0,272.0,no,298.0,319.0,no
+LC239,Computer Networks and Systems Management,317.0,378.0,no,309.0,371.0,no,335.0,347.0,no
+LC241,Construction Management,326.0,387.0,no,255.0,338.0,no,276.0,303.0,no
+LC242,Property Valuation and Management,308.0,377.0,no,282.0,320.0,no,292.0,328.0,no
+LC243,Quantity Surveying,278.0,359.0,no,298.0,362.0,no,281.0,360.0,no
+LC248,Built Environment (Common Entry),300.0,357.0,no,288.0,376.0,no,307.0,350.0,no
+LC252,Civil Engineering Management,264.0,338.0,no,270.0,308.0,no,281.0,331.0,no
+LC263,Medical Technology,391.0,455.0,no,294.0,359.0,no,282.0,359.0,no
+LC265,Forensic and Pharmaceutical Sciences,498.0,528.0,no,413.0,476.0,no,335.0,368.0,no
+LC266,Drug and Medicinal Product Analysis,252.0,368.0,no,262.0,300.0,no,236.0,299.0,no
+LC275,Electrical Engineering,347.0,382.0,no,298.0,384.0,no,288.0,340.0,no
+LC288,Mechanical Engineering,369.0,432.0,no,346.0,415.0,no,307.0,360.0,no
+LC289,Precision Engineering,261.0,357.0,no,291.0,350.0,no,280.0,369.0,no
+LC292,Social Care Work,374.0,410.0,no,367.0,389.0,no,360.0,389.0,no
+LC293,Business Studies with Travel and Tourism Management,264.0,356.0,no,307.0,356.0,no,299.0,326.0,no
+LC294,Business Studies with Event Management,279.0,356.0,no,279.0,347.0,no,271.0,300.0,no
+LC295,Business Studies with Sports Management,262.0,320.0,no,252.0,313.0,no,263.0,298.0,no
+LC297,Community and Addiction Studies,262.0,316.0,no,235.0,298.0,no,217.0,269.0,no
+LC320,Business,381.0,408.0,no,346.0,388.0,no,337.0,378.0,no
+LC330,Business with Computing,308.0,367.0,no,297.0,378.0,no,298.0,326.0,no
+LC340,Interior Design,368.0,420.0,no,350.0,391.0,no,298.0,349.0,no
+LC362,Biotechnology and Biopharmaceutical Sciences,429.0,463.0,no,413.0,440.0,no,379.0,402.0,no
+LC371,Creative Broadcast and Film Production,310.0,387.0,no,309.0,378.0,no,298.0,339.0,no
+LC372,Music Technology and Production,377.0,454.0,no,325.0,402.0,no,321.0,369.0,no
+LC374,Renewable and Electrical Energy Engineering,319.0,401.0,no,318.0,410.0,no,317.0,368.0,no
+LC375,Industrial Automation and Robotic Systems,309.0,383.0,no,317.0,392.0,no,321.0,368.0,no
+LC376,Electronic Engineering with Computer Systems,357.0,378.0,no,318.0,358.0,no,308.0,346.0,no
+LC380,Automotive Engineering and Transport Management,298.0,340.0,no,298.0,337.0,no,282.0,329.0,no
+LC392,Business Studies in Beauty and Spa Management,317.0,358.0,no,236.0,328.0,no,217.0,318.0,no
+LC393,Early Childhood Education and Care,276.0,339.0,no,236.0,307.0,no,260.0,309.0,no
+LC402,Social Care Work,228.0,306.0,no,225.0,288.0,no,209.0,290.0,no
+LC408,Environmental Science and Climate,279.0,347.0,no,279.0,348.0,no,262.0,346.0,no
+LC416,Business,260.0,300.0,no,274.0,391.0,no,not offered,not offered,not offered
+LC418,Computing - Games Design and Development,256.0,320.0,no,270.0,338.0,no,271.0,318.0,no
+LC422,Applied Strength and Conditioning,289.0,359.0,no,298.0,347.0,no,288.0,333.0,no
+LC502,Game Art and Design (portfolio),841.0,1018.0,yes,852.0,1024.0,yes,838.0,950.0,yes
+LC517,Creative Media and Design,279.0,413.0,no,234.0,327.0,no,229.0,273.0,no
+LC518,Digital Animation Production (portfolio),807.0,977.0,yes,808.0,939.0,yes,816.0,962.0,yes
+LC612,Social Care Work,309.0,348.0,no,320.0,343.0,no,319.0,338.0,no
+LM002,Arts,360.0,423.0,no,348.0,410.0,no,329.0,388.0,no
+LM019,Social Sciences,451.0,507.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+LM020,Law and Accounting,474.0,520.0,no,465.0,499.0,no,436.0,476.0,no
+LM026,Performing Arts (audition format TBC),329.0,451.0,yes,303.0,401.0,yes,307.0,367.0,yes
+LM028,Criminal Justice,420.0,454.0,no,418.0,440.0,no,387.0,409.0,no
+LM029,Law Plus,530.0,554.0,no,490.0,521.0,no,473.0,499.0,no
+LM038,Psychology and Sociology,530.0,533.0,no,500.0,507.0,no,478.0,489.0,no
+LM039,Journalism and Digital Communication,432.0,473.0,no,402.0,455.0,no,388.0,430.0,no
+LM040,European Studies,409.0,521.0,no,369.0,488.0,no,350.0,462.0,no
+LM044,Applied Languages,429.0,485.0,no,442.0,499.0,no,404.0,473.0,no
+LM050,Business Studies (options),451.0,489.0,no,431.0,476.0,no,419.0,455.0,no
+LM056,International Business,555.0,589.0,no,528.0,555.0,no,511.0,543.0,no
+LM058,Financial Mathematics,468.0,531.0,no,403.0,521.0,no,434.0,543.0,no
+LM063,Technology Management,410.0,452.0,no,379.0,419.0,no,372.0,409.0,no
+LM066,Environmental Science,430.0,478.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+LM068,Food Science and Health,464.0,495.0,no,421.0,454.0,no,400.0,430.0,no
+LM076,Product Design and Technology (portfolio required),401.0,499.0,yes,408.0,487.0,yes,402.0,466.0,yes
+LM077,Aeronautical Engineering,567.0,601.0,no,520.0,554.0,no,469.0,531.0,no
+LM082,Construction Management and Engineering,446.0,480.0,no,398.0,434.0,no,368.0,404.0,no
+LM089,Sport and Exercise Sciences,498.0,533.0,no,474.0,489.0,no,441.0,466.0,no
+LM090,Physical Education with concurrent Teacher Education,544.0,577.0,no,532.0,565.0,no,498.0,520.0,no
+LM091,Languages with concurrent Teacher Education,506.0,541.0,no,517.0,543.0,no,not offered,not offered,not offered
+LM092,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),521.0,555.0,no,507.0,531.0,no,478.0,509.0,no
+LM093,Equine Science,367.0,431.0,no,339.0,412.0,no,338.0,381.0,no
+LM094,Materials and Architectural Technology with concurrent Teacher Education,475.0,501.0,no,440.0,478.0,no,405.0,433.0,no
+LM095,Materials and Engineering Technology with concurrent Teacher Education,425.0,452.0,no,367.0,421.0,no,358.0,409.0,no
+LM096,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),454.0,488.0,no,405.0,454.0,no,382.0,422.0,no
+LM097,Mathematics and Computer Science with concurrent Teacher Education,465.0,499.0,no,402.0,509.0,no,not offered,not offered,not offered
+LM099,Architecture,520.0,543.0,yes,498.0,532.0,yes,419.0,473.0,yes
+LM100,Physiotherapy,601.0,613.0,no,589.0,601.0,no,565.0,577.0,no
+LM101,Medicine  - Graduate Entry (GAMSAT required),57.0,59.0,yes,55.0,57.0,yes,55.0,57.0,yes
+LM102,Psychology,534.0,565.0,no,509.0,529.0,no,495.0,519.0,no
+LM103,Paramedic Studies (Full B/Provisional C1 Drivers Licence),429.0,455.0,yes,392.0,445.0,yes,313.0,403.0,yes
+LM105,Exercise and Health Fitness Management,441.0,473.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+LM115,Chemical and Biochemical Engineering,476.0,520.0,no,454.0,532.0,no,456.0,520.0,no
+LM116,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),498.0,544.0,no,476.0,521.0,no,434.0,498.0,no
+LM118,Electronic and Computer Engineering,445.0,487.0,no,403.0,489.0,no,401.0,498.0,no
+LM121,Computer Science (Computer Systems/Games Dev/Mobile Comm Security),402.0,461.0,no,351.0,423.0,no,352.0,420.0,no
+LM122,Creative Media and Interaction Design (Digital Design/Music Media Tech),382.0,467.0,no,327.0,401.0,no,330.0,430.0,no
+LM123,Biological and Chemical Sc. (Biosci/Envir Sci/Ind Bio/Pharma and In,498.0,533.0,no,441.0,478.0,no,412.0,455.0,no
+LM124,Mathematics (Math Science/Maths and Physics/Economics and Maths),455.0,532.0,no,437.0,509.0,no,427.0,521.0,no
+LM125,Physics (Applied Physics or Mathematics and Physics),489.0,577.0,no,404.0,520.0,no,405.0,509.0,no
+LM150,General Nursing,474.0,496.0,no,475.0,498.0,no,440.0,463.0,no
+LM152,Mental Health Nursing,440.0,476.0,no,419.0,430.0,no,388.0,418.0,no
+LM154,Intellectual Disability Nursing,433.0,474.0,no,440.0,473.0,no,381.0,408.0,no
+LM156,Midwifery,498.0,521.0,no,469.0,499.0,no,429.0,444.0,no
+MU001,Theology and Arts,291.0,332.0,no,290.0,349.0,no,290.0,318.0,no
+MU002,Theology,411.0,411.0,no,440.0,440.0,no,292.0,377.0,no
+MH001,Education - Primary Teaching (Froebel),556.0,578.0,no,507.0,531.0,no,496.0,520.0,no
+MH002,Education - Primary Teaching - Gaeltacht Applicants (Froebel),0.0,0.0,yes,0.0,0.0,yes,441.0,0.0,yes
+MH003,Early Childhood - Teaching and Learning (full-time),381.0,430.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+MH101,Arts,336.0,409.0,no,318.0,388.0,no,316.0,369.0,no
+MH103,Music,0.0,0.0,yes,0.0,0.0,yes,not offered,367.0,yes
+MH106,Psychology - 3 years,552.0,555.0,no,521.0,529.0,no,495.0,499.0,no
+MH107,Social Science,390.0,440.0,no,346.0,388.0,no,326.0,349.0,no
+MH109,Media Studies,324.0,393.0,no,316.0,377.0,no,317.0,377.0,no
+MH116,Community and Youth Work (Full-Time),0.0,0.0,yes,0.0,0.0,yes,not offered,271.0,yes
+MH201,Science,397.0,456.0,no,360.0,418.0,no,350.0,392.0,no
+MH202,Biotechnology,489.0,509.0,no,455.0,466.0,no,429.0,446.0,no
+MH203,Biological and Geographical Sciences,451.0,477.0,no,430.0,465.0,no,not offered,not offered,not offered
+MH204,Physics with Astrophysics,422.0,499.0,no,422.0,479.0,no,420.0,488.0,no
+MH206,Theoretical Physics and Mathematics,521.0,578.0,no,510.0,533.0,no,498.0,566.0,no
+MH207,Data Science,444.0,510.0,no,445.0,520.0,no,434.0,466.0,no
+MH208,Biological and Biomedical Sciences,533.0,554.0,no,498.0,510.0,no,451.0,476.0,no
+MH209,Psychology (through Science) - 4 years,517.0,531.0,no,498.0,510.0,no,473.0,485.0,no
+MH210,Pharmaceutical and Biomedical Chemistry,510.0,532.0,no,487.0,520.0,no,446.0,466.0,no
+MH212,Science|Maths and Computer Science|Mathematics (with Education),434.0,498.0,no,422.0,487.0,no,444.0,476.0,no
+MH304,Engineering (Computer/Electronic/Communications),351.0,454.0,no,333.0,444.0,no,371.0,423.0,no
+MH305,Product Design,326.0,397.0,no,357.0,409.0,no,358.0,411.0,no
+MH306,Robotics and Intelligent Devices,362.0,445.0,no,361.0,433.0,no,361.0,424.0,no
+MH401,Finance (options),370.0,418.0,no,357.0,398.0,no,352.0,392.0,no
+MH402,Quantitative Finance,476.0,521.0,no,476.0,509.0,no,476.0,487.0,no
+MH403,Accounting and Finance,424.0,473.0,no,422.0,468.0,no,402.0,432.0,no
+MH404,Business (options),441.0,473.0,no,430.0,454.0,no,400.0,429.0,no
+MH407,Business and Accounting,423.0,473.0,no,420.0,462.0,no,401.0,420.0,no
+MH411,Entrepreneurship,378.0,409.0,no,371.0,408.0,no,358.0,388.0,no
+MH501,LLB Law - four year Single Major Law programme,507.0,531.0,no,473.0,495.0,no,451.0,476.0,no
+MH502,Law (options),465.0,498.0,no,451.0,473.0,no,410.0,442.0,no
+MH601,Computer Science through Arts (options),381.0,423.0,no,352.0,403.0,no,342.0,369.0,no
+MH602,Computer Science through Science (options),400.0,444.0,no,351.0,409.0,no,357.0,413.0,no
+MH603,Computational Thinking,520.0,579.0,no,532.0,544.0,no,520.0,543.0,no
+MH801,Early Childhood - Teaching and Learning (part-time),0.0,319.0,no,327.0,378.0,no,347.0,358.0,no
+MH802,"Community and Youth Work (part-time, in service)",0.0,0.0,yes,0.0,0.0,yes,not offered,0.0,yes
+MH803,"Local Studies/Community Studies (part-time, evening) - Mature Students",0.0,0.0,no,0.0,0.0,yes,not offered,0.0,yes
+AS001,"Education, Home Economics and Biology - with concurrent Teacher Ed",532.0,555.0,no,518.0,544.0,no,456.0,497.0,no
+AS002,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",441.0,476.0,no,434.0,466.0,no,400.0,433.0,no
+AS003,"Education, Home Economics and Irish - with concurrent Teacher Ed",440.0,487.0,no,440.0,484.0,no,421.0,457.0,no
+AS051,"Nutrition, Food and Business Management",291.0,418.0,no,317.0,398.0,no,337.0,399.0,no
+AS054,Home Economics,368.0,430.0,no,398.0,429.0,no,387.0,401.0,no
+AS110,General Nursing,422.0,445.0,no,419.0,431.0,no,391.0,409.0,no
+AS130,Intellectual Disability Nursing,348.0,387.0,no,317.0,339.0,no,317.0,338.0,no
+SG141,Business,262.0,346.0,no,261.0,347.0,no,252.0,317.0,no
+SG145,Business and ICT,279.0,411.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG146,Accounting,304.0,403.0,no,309.0,411.0,no,307.0,347.0,no
+SG147,Sport with Business,288.0,340.0,no,307.0,367.0,no,269.0,316.0,no
+SG148,Tourism with Event Management,298.0,328.0,no,269.0,340.0,no,246.0,282.0,no
+SG150,Business in Marketing,298.0,360.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG241,Performing Arts,341.0,393.0,no,328.0,387.0,no,279.0,348.0,no
+SG242,Early Childhood Care and Education,287.0,368.0,no,279.0,319.0,no,278.0,318.0,no
+SG243,Social Care Practice,309.0,357.0,no,301.0,346.0,no,297.0,338.0,no
+SG244,Fine Art,501.0,643.0,yes,505.0,505.0,yes,355.0,496.0,yes
+SG245,Creative Design,332.0,357.0,no,282.0,339.0,no,261.0,338.0,no
+SG246,Computing,316.0,402.0,no,290.0,333.0,no,295.0,368.0,no
+SG247,English and Psychology,319.0,357.0,no,309.0,382.0,no,308.0,336.0,no
+SG248,Sociology and Politics,298.0,328.0,no,281.0,327.0,no,282.0,320.0,no
+SG249,Writing and Literature,308.0,409.0,no,297.0,368.0,no,279.0,338.0,no
+SG252,Software Development,310.0,413.0,no,307.0,319.0,no,300.0,354.0,no
+SG253,Computing in Computer Networks and Cyber Security,336.0,374.0,no,378.0,378.0,no,273.0,341.0,no
+SG254,Writing and Literature Online,327.0,393.0,no,225.0,328.0,no,not offered,not offered,not offered
+SG255,Law and Business,291.0,398.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG341,General Engineering,373.0,467.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG342,Civil Engineering,418.0,498.0,no,415.0,480.0,no,not offered,not offered,not offered
+SG343,Quantity Surveying,300.0,385.0,no,311.0,367.0,no,261.0,302.0,no
+SG344,Mechanical Engineering,412.0,509.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG346,Construction Project Management and Applied Technology,313.0,362.0,no,291.0,337.0,no,289.0,351.0,no
+SG347,Architecture,403.0,462.0,no,360.0,411.0,no,309.0,357.0,no
+SG348,Interior Architecture and Design,359.0,410.0,no,331.0,368.0,no,not offered,not offered,not offered
+SG349,Electronics and Self Driving Technologies,0.0,0.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG350,Robotics and Automation,384.0,478.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+SG442,Occupational Safety and Health,307.0,360.0,no,290.0,367.0,no,289.0,330.0,no
+SG443,Human Nutrition,376.0,440.0,no,356.0,397.0,no,357.0,419.0,no
+SG444,Science Undenominated,358.0,430.0,no,338.0,420.0,no,308.0,369.0,no
+SG445,Pharmaceutical Science with Drug Development,357.0,401.0,no,311.0,367.0,no,347.0,369.0,no
+SG447,Health Science and Physical Activity,326.0,389.0,no,328.0,387.0,no,316.0,363.0,no
+SG448,Forensic Investigation and Analysis,308.0,376.0,no,307.0,368.0,no,306.0,348.0,no
+SG449,Medical Biotechnology,315.0,403.0,no,341.0,395.0,no,329.0,352.0,no
+SG450,Environmental Science with Ecology (Level 8),310.0,430.0,no,304.0,368.0,no,not offered,not offered,not offered
+TL801,"Animation, Visual Effects and Motion Design (Level 8, portfolio)",718.0,823.0,yes,281.0,349.0,no,281.0,341.0,no
+TL802,"TV, Radio and New Media (Level 8)",322.0,413.0,no,325.0,397.0,no,306.0,356.0,no
+TL810,Computing with Software Development,308.0,399.0,no,310.0,389.0,no,309.0,341.0,no
+TL811,Computing with Games Development,322.0,342.0,no,358.0,0.0,no,310.0,334.0,no
+TL815,Computing (Degree Award options),307.0,453.0,no,308.0,360.0,no,308.0,378.0,no
+TL823,Event Management (3 year programme),293.0,369.0,no,299.0,369.0,no,291.0,346.0,no
+TL831,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),306.0,408.0,no,306.0,381.0,no,307.0,372.0,no
+TL842,Construction Management,0.0,0.0,no,not offered,not offered,not offered,not offered,0.0,no
+TL844,Agricultural Engineering,301.0,392.0,no,300.0,373.0,no,311.0,368.0,no
+TL845,Civil Engineering,361.0,395.0,no,325.0,413.0,no,300.0,364.0,no
+TL847,Manufacturing Engineering,305.0,338.0,no,302.0,368.0,no,not offered,0.0,no
+TL848,Agricultural Science,307.0,367.0,no,308.0,380.0,no,331.0,362.0,no
+TL851,Wildlife Biology (Degree Award options),309.0,400.0,no,309.0,383.0,no,310.0,362.0,no
+TL855,Pharmaceutical Science (Degree Award options),316.0,419.0,no,317.0,369.0,no,342.0,386.0,no
+TL858,Veterinary Bioscience,317.0,402.0,no,308.0,393.0,no,326.0,369.0,no
+TL871,Health and Leisure (Degree Award options),303.0,389.0,no,300.0,379.0,no,303.0,346.0,no
+TL872,Health and Leisure with Massage,314.0,381.0,no,309.0,408.0,no,288.0,357.0,no
+TL873,Coaching and Sports Performance,308.0,371.0,no,289.0,329.0,no,282.0,336.0,no
+TL874,Inclusive Sport and Physical Activity,341.0,476.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+TL880,Early Childhood Care and Education,309.0,369.0,no,307.0,349.0,no,307.0,347.0,no
+TL881,Social Care,301.0,377.0,no,309.0,362.0,no,308.0,356.0,no
+TL889,Counselling with Addiction - Mature applicants only,0.0,0.0,yes,0.0,0.0,yes,not offered,0.0,yes
+TL890,General Nursing and Mature Applicants,463.0,484.0,no,414.0,441.0,no,407.0,431.0,no
+TL891,Mental Health Nursing and Mature Applicants,412.0,430.0,no,378.0,399.0,no,367.0,379.0,no
+WD001,Applied Computing (options),261.0,423.0,no,260.0,413.0,no,279.0,358.0,no
+WD002,Science (options),279.0,388.0,no,308.0,388.0,no,302.0,377.0,no
+WD005,Health Sciences (options),271.0,368.0,no,280.0,338.0,no,288.0,347.0,no
+WD006,Exercise Sciences (options),270.0,357.0,no,280.0,359.0,no,282.0,337.0,no
+WD007,Engineering (options),270.0,432.0,no,288.0,409.0,no,287.0,382.0,no
+WD025,Construction Management and Engineering,262.0,357.0,no,269.0,341.0,no,269.0,327.0,no
+WD027,Music,321.0,437.0,yes,262.0,409.0,yes,290.0,317.0,yes
+WD048,Business (options),279.0,387.0,no,271.0,371.0,no,278.0,357.0,no
+WD084,Accounting,308.0,476.0,no,308.0,411.0,no,307.0,403.0,no
+WD091,Hospitality Management,225.0,337.0,no,228.0,310.0,no,210.0,281.0,no
+WD116,General Nursing,446.0,473.0,no,422.0,451.0,no,413.0,430.0,no
+WD117,Psychiatric Nursing,415.0,430.0,no,366.0,388.0,no,361.0,382.0,no
+WD120,Intellectual Disability Nursing,390.0,404.0,no,377.0,388.0,no,338.0,359.0,no
+WD134,International Business,267.0,368.0,no,290.0,362.0,no,289.0,350.0,no
+WD137,Design (Visual Communications),252.0,360.0,no,271.0,351.0,no,253.0,373.0,no
+WD140,Laws,280.0,394.0,no,280.0,367.0,no,290.0,352.0,no
+WD144,Architecture,309.0,401.0,no,284.0,359.0,no,283.0,385.0,no
+WD147,Pharmaceutical Science,288.0,402.0,no,293.0,390.0,no,298.0,363.0,no
+WD150,Criminal Justice Studies,280.0,359.0,no,270.0,331.0,no,271.0,311.0,no
+WD152,Visual Art,243.0,359.0,no,0.0,317.0,no,253.0,323.0,no
+WD161,Computer Forensics and Security,270.0,347.0,no,255.0,380.0,no,262.0,401.0,no
+WD162,Quantity Surveying,226.0,337.0,no,216.0,306.0,no,260.0,320.0,no
+WD163,Psychology,456.0,487.0,no,434.0,473.0,no,390.0,429.0,no
+WD186,Sports Coaching and Performance,261.0,358.0,no,270.0,344.0,no,276.0,327.0,no
+WD187,Social Science,276.0,367.0,no,272.0,348.0,no,271.0,321.0,no
+WD191,Agricultural Science,377.0,434.0,no,377.0,420.0,no,378.0,421.0,no
+WD192,Social Care Practice,271.0,336.0,no,270.0,326.0,no,279.0,323.0,no
+WD193,Marketing and Digital Media,279.0,358.0,no,271.0,347.0,no,290.0,358.0,no
+WD194,Culinary Arts,237.0,321.0,no,217.0,321.0,no,235.0,331.0,no
+WD195,Architectural and Building Information Modelling Technology,279.0,367.0,no,279.0,367.0,no,266.0,305.0,no
+WD200,Arts (options),201.0,376.0,no,0.0,336.0,no,221.0,296.0,no
+WD210,Software Systems Development,260.0,373.0,no,279.0,337.0,no,271.0,329.0,no
+WD211,Creative Computing,270.0,392.0,no,271.0,318.0,no,275.0,322.0,no
+WD212,Recreation and Sport Management,262.0,304.0,no,270.0,349.0,no,274.0,311.0,no
+WD230,Mechanical and Manufacturing Engineering,230.0,361.0,no,253.0,369.0,no,273.0,348.0,no
+WD231,Early Childhood Care and Education,266.0,366.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+WD232,Business Information Systems,261.0,329.0,no,not offered,not offered,not offered,not offered,not offered,not offered
+CR126,Popular Music: Drums at CIT Cork School of Music,not offered,not offered,not offered,801.0,940.0,yes,878.0,1043.0,yes
+CR127,Popular Music: Electric Guitar at CIT Cork School of Music,not offered,not offered,not offered,768.0,978.0,yes,584.0,761.0,yes
+CR128,Popular Music: Keyboards at CIT Cork School of Music,not offered,not offered,not offered,840.0,881.0,yes,839.0,1009.0,yes
+CR129,Popular Music: Voice at CIT Cork School of Music,not offered,not offered,not offered,841.0,966.0,yes,857.0,927.0,yes
+DB516,Financial Services,not offered,not offered,not offered,0.0,0.0,no,328.0,336.0,no
+DC201,Common Entry into Science (Undenominated Entry),not offered,not offered,not offered,488.0,499.0,no,454.0,477.0,no
+DC239,"Gaeilge, Iriseoireacht agus na Meáin Dhigiteacha",not offered,not offered,not offered,430.0,473.0,no,not offered,not offered,not offered
+DK860,Music (audition),not offered,not offered,not offered,503.0,634.0,yes,499.0,649.0,yes
+DL821,"English, Media and Cultural Studies",not offered,not offered,not offered,212.0,347.0,no,211.0,317.0,no
+DL828,"3D Design, Modelmaking and Digital Art",not offered,not offered,not offered,538.0,920.0,yes,691.0,866.0,yes
+DL829,Design for Stage and Screen (Costume Design),not offered,not offered,not offered,593.0,947.0,yes,817.0,1021.0,yes
+DL830,Design for Stage and Screen (Character Makeup Design),not offered,not offered,not offered,939.0,968.0,yes,879.0,953.0,yes
+DL831,Design for Stage and Screen (Production Design),not offered,not offered,not offered,781.0,1026.0,yes,893.0,1073.0,yes
+DL834,Film and Television Production,not offered,not offered,not offered,990.0,1040.0,yes,933.0,1011.0,yes
+DN252,Dairy Business,not offered,not offered,not offered,410.0,455.0,no,398.0,428.0,no
+DN253,Agri - Environmental Sciences,not offered,not offered,not offered,413.0,443.0,no,403.0,419.0,no
+DN271,Forestry,not offered,not offered,not offered,311.0,359.0,no,303.0,361.0,no
+DN272,"Horticulture, Landscape and Sportsturf Management",not offered,not offered,not offered,282.0,378.0,no,252.0,312.0,no
+GC305,International Hospitality Management,not offered,not offered,not offered,253.0,253.0,no,327.0,327.0,no
+GY107,Na Dána (Gaeilge agus Léann an Aistriúcháin),not offered,not offered,not offered,409.0,456.0,no,330.0,397.0,no
+GY112,Arts with Film Studies,not offered,not offered,not offered,321.0,399.0,no,338.0,370.0,no
+GY120,"Arts (Child, Youth and Family: Policy and Practice)",not offered,not offered,not offered,350.0,397.0,no,309.0,346.0,no
+GY121,Arts (Children`s Studies),not offered,not offered,not offered,356.0,419.0,no,356.0,389.0,no
+GY124,Arts (Arts with Data Science),not offered,not offered,not offered,454.0,490.0,no,434.0,466.0,no
+GY126,Arts (English and Media Studies),not offered,not offered,not offered,391.0,462.0,no,418.0,451.0,no
+GY131,Arts (History and Globalisation Studies),not offered,not offered,not offered,360.0,440.0,no,340.0,431.0,no
+LC401,Early Childhood Education and Care,not offered,not offered,not offered,297.0,298.0,no,298.0,387.0,no
+LC414,Data Analytics and Cyber Security,not offered,not offered,not offered,236.0,336.0,no,not offered,not offered,not offered
+LC434,Environmental Science and Agriculture,not offered,not offered,not offered,297.0,349.0,no,278.0,347.0,no
+LC613,Early Childhood Education and Care,not offered,not offered,not offered,242.0,327.0,no,346.0,388.0,no
+MH405,Equine Business,not offered,not offered,not offered,357.0,408.0,no,357.0,398.0,no
+SG142,Business in International Marketing and Languages (French),not offered,not offered,not offered,279.0,386.0,no,270.0,388.0,no
+SG144,Business in International Marketing and Languages (Spanish),not offered,not offered,not offered,270.0,347.0,no,280.0,388.0,no
+SG250,Application Design and User Experience,not offered,not offered,not offered,412.0,412.0,no,290.0,431.0,no
+SG251,Computing (Smart Technologies),not offered,not offered,not offered,342.0,367.0,no,303.0,391.0,no
+TR012,History and Political Science,not offered,not offered,not offered,552.0,578.0,no,532.0,557.0,no
+TR017,Law and Business,not offered,not offered,not offered,602.0,613.0,no,576.0,589.0,no
+TR020,Law and Political Science,not offered,not offered,not offered,601.0,613.0,no,567.0,600.0,no
+TR029,Political Science and Geography,not offered,not offered,not offered,510.0,533.0,no,477.0,500.0,no
+TR082,Computer Science and Business,not offered,not offered,not offered,555.0,578.0,no,510.0,542.0,no
+TR083,Sociology and Social Policy,not offered,not offered,not offered,478.0,513.0,no,451.0,474.0,no
+TR452,History/Sociology,not offered,not offered,not offered,529.0,534.0,no,not offered,not offered,not offered
+TR755,Sociology/Drama Studies,not offered,not offered,not offered,498.0,543.0,yes,not offered,not offered,not offered
+TU803,Electronic Engineering,not offered,not offered,not offered,243.0,337.0,no,not offered,not offered,not offered
+TU806,Sustainable Energy Engineering,not offered,not offered,not offered,262.0,318.0,no,not offered,not offered,not offered
+TU808,Engineering Software,not offered,not offered,not offered,260.0,339.0,no,not offered,not offered,not offered
+TU809,Mechanical Engineering,not offered,not offered,not offered,235.0,347.0,no,not offered,not offered,not offered
+TU813,Automation Engineering,not offered,not offered,not offered,218.0,339.0,no,not offered,not offered,not offered
+TU873,Industrial Mathematics,not offered,not offered,not offered,250.0,392.0,no,not offered,not offered,not offered
+TU901,Business,not offered,not offered,not offered,270.0,307.0,no,not offered,not offered,not offered
+TU908,Management,not offered,not offered,not offered,253.0,337.0,no,not offered,not offered,not offered
+TU909,Accounting and Finance,not offered,not offered,not offered,285.0,326.0,no,not offered,not offered,not offered
+TU911,Accounting and Finance,not offered,not offered,not offered,192.0,319.0,no,not offered,not offered,not offered
+TU913,Business and Information Technology,not offered,not offered,not offered,252.0,299.0,no,not offered,not offered,not offered
+TU915,International Business,not offered,not offered,not offered,252.0,302.0,no,not offered,not offered,not offered
+TU916,International Business,not offered,not offered,not offered,235.0,337.0,no,not offered,not offered,not offered
+TU923,Marketing Management,not offered,not offered,not offered,228.0,318.0,no,not offered,not offered,not offered
+TU966,Languages and English Studies,not offered,not offered,not offered,434.0,466.0,no,not offered,not offered,not offered
+TU971,Contemporary Visual Culture,not offered,not offered,not offered,290.0,320.0,no,not offered,not offered,not offered
+TU972,Creative and Cultural Industries,not offered,not offered,not offered,281.0,369.0,no,not offered,not offered,not offered
+TU986,Print Media Technology and Management,not offered,not offered,not offered,289.0,300.0,no,not offered,not offered,not offered
+TU993,Early Childhood Care and Education,not offered,not offered,not offered,270.0,311.0,no,not offered,not offered,not offered
+TU994,Early Childhood Care and Education,not offered,not offered,not offered,230.0,304.0,no,not offered,not offered,not offered
+WD149,Early Childhood Studies,not offered,not offered,not offered,271.0,368.0,no,288.0,336.0,no
+AL853,Accounting and Law,not offered,not offered,not offered,not offered,not offered,not offered,305.0,320.0,no
+CW178,Sport Science (options),not offered,not offered,not offered,not offered,not offered,not offered,399.0,424.0,no
+CK116,Sports Studies and Physical Education,not offered,not offered,not offered,not offered,not offered,not offered,499.0,520.0,no
+CK502,Food Marketing and Entrepreneurship,not offered,not offered,not offered,not offered,not offered,not offered,433.0,456.0,no
+CK506,International Development and Food Policy,not offered,not offered,not offered,not offered,not offered,not offered,367.0,410.0,no
+DC005,Education - Primary Teaching - Irish Sign Language,not offered,not offered,not offered,not offered,not offered,not offered,316.0,316.0,yes
+DC167,Physics with Astronomy,not offered,not offered,not offered,not offered,not offered,not offered,434.0,477.0,no
+DC171,Applied Physics,not offered,not offered,not offered,not offered,not offered,not offered,402.0,433.0,no
+DC173,Physics with Biomedical Sciences,not offered,not offered,not offered,not offered,not offered,not offered,402.0,458.0,no
+DT001,Product Design,not offered,not offered,not offered,not offered,not offered,not offered,433.0,464.0,no
+DT028,Transport Operations and Technology,not offered,not offered,not offered,not offered,not offered,not offered,279.0,348.0,no
+DT035,Electrical Services and Energy Management,not offered,not offered,not offered,not offered,not offered,not offered,293.0,340.0,no
+DT066,Engineering (General Entry),not offered,not offered,not offered,not offered,not offered,not offered,400.0,457.0,no
+DT101,Architecture (test and interview),not offered,not offered,not offered,not offered,not offered,not offered,618.0,647.0,yes
+DT106,Planning and Environmental Management,not offered,not offered,not offered,not offered,not offered,not offered,312.0,337.0,no
+DT110,Property Economics (Valuation Surveying),not offered,not offered,not offered,not offered,not offered,not offered,367.0,424.0,no
+DT111,Quantity Surveying and Construction Economics,not offered,not offered,not offered,not offered,not offered,not offered,391.0,421.0,no
+DT112,Geographic Science,not offered,not offered,not offered,not offered,not offered,not offered,287.0,335.0,no
+DT117,Construction Management,not offered,not offered,not offered,not offered,not offered,not offered,356.0,373.0,no
+DT175,Architectural Technology,not offered,not offered,not offered,not offered,not offered,not offered,388.0,425.0,no
+DT201,Science (General Entry),not offered,not offered,not offered,not offered,not offered,not offered,464.0,477.0,no
+DT203,Analytical Chemistry (Environmental Forensic and Pharmaceutical),not offered,not offered,not offered,not offered,not offered,not offered,341.0,403.0,no
+DT204,Biomedical Science,not offered,not offered,not offered,not offered,not offered,not offered,501.0,512.0,no
+DT205,Mathematical Sciences,not offered,not offered,not offered,not offered,not offered,not offered,315.0,363.0,no
+DT206,Biomedical and Molecular Diagnostics,not offered,not offered,not offered,not offered,not offered,not offered,473.0,487.0,no
+DT211,Computer Science (Infrastructure),not offered,not offered,not offered,not offered,not offered,not offered,381.0,414.0,no
+DT220,Industrial Mathematics,not offered,not offered,not offered,not offered,not offered,not offered,300.0,317.0,no
+DT221,Physics with Energy and Environment,not offered,not offered,not offered,not offered,not offered,not offered,348.0,436.0,no
+DT222,Physics Technology,not offered,not offered,not offered,not offered,not offered,not offered,321.0,371.0,no
+DT223,Human Nutrition and Dietetics,not offered,not offered,not offered,not offered,not offered,not offered,553.0,566.0,no
+DT224,Optometry,not offered,not offered,not offered,not offered,not offered,not offered,487.0,529.0,no
+DT225,Public Health Nutrition,not offered,not offered,not offered,not offered,not offered,not offered,440.0,476.0,no
+DT227,Science with Nanotechnology,not offered,not offered,not offered,not offered,not offered,not offered,312.0,361.0,no
+DT228,Computer Science,not offered,not offered,not offered,not offered,not offered,not offered,451.0,466.0,no
+DT229,Clinical Measurement Science,not offered,not offered,not offered,not offered,not offered,not offered,491.0,509.0,no
+DT235,Physics with Medical Physics and Bioengineering,not offered,not offered,not offered,not offered,not offered,not offered,357.0,403.0,no
+DT282,Computer Science (International),not offered,not offered,not offered,not offered,not offered,not offered,377.0,402.0,no
+DT299,Chemical Sciences with Medicinal Chemistry,not offered,not offered,not offered,not offered,not offered,not offered,420.0,445.0,no
+DT302,Business Analytics,not offered,not offered,not offered,not offered,not offered,not offered,325.0,403.0,no
+DT304,E-Commerce in Retailing,not offered,not offered,not offered,not offered,not offered,not offered,341.0,388.0,no
+DT321,Business and Law,not offered,not offered,not offered,not offered,not offered,not offered,462.0,478.0,no
+DT341,Marketing,not offered,not offered,not offered,not offered,not offered,not offered,400.0,419.0,no
+DT343,Retail and Services Management,not offered,not offered,not offered,not offered,not offered,not offered,301.0,332.0,no
+DT354,Business Computing,not offered,not offered,not offered,not offered,not offered,not offered,322.0,341.0,no
+DT358,Logistics and Supply Chain Management,not offered,not offered,not offered,not offered,not offered,not offered,300.0,359.0,no
+DT365,Business and Management,not offered,not offered,not offered,not offered,not offered,not offered,440.0,456.0,no
+DT366,Accounting and Finance,not offered,not offered,not offered,not offered,not offered,not offered,432.0,454.0,no
+DT398,Human Resource Management,not offered,not offered,not offered,not offered,not offered,not offered,375.0,388.0,no
+DT399,Economics and Finance,not offered,not offered,not offered,not offered,not offered,not offered,437.0,465.0,no
+DT401,International Hospitality Management,not offered,not offered,not offered,not offered,not offered,not offered,300.0,337.0,no
+DT405,Culinary Science,not offered,not offered,not offered,not offered,not offered,not offered,308.0,377.0,no
+DT407,Culinary Arts,not offered,not offered,not offered,not offered,not offered,not offered,271.0,342.0,no
+DT412,Tourism Marketing,not offered,not offered,not offered,not offered,not offered,not offered,284.0,322.0,no
+DT413,Event Management,not offered,not offered,not offered,not offered,not offered,not offered,356.0,389.0,no
+DT416,Culinary Entrepreneurship,not offered,not offered,not offered,not offered,not offered,not offered,275.0,339.0,no
+DT420,Nutraceuticals in Health and Nutrition,not offered,not offered,not offered,not offered,not offered,not offered,392.0,432.0,no
+DT421,Food Innovation,not offered,not offered,not offered,not offered,not offered,not offered,321.0,366.0,no
+DT422,Pharmaceutical Healthcare,not offered,not offered,not offered,not offered,not offered,not offered,397.0,423.0,no
+DT491,Environmental Health,not offered,not offered,not offered,not offered,not offered,not offered,343.0,380.0,no
+DT501,Music,not offered,not offered,not offered,not offered,not offered,not offered,383.0,520.0,yes
+DT504,Film and Broadcasting,not offered,not offered,not offered,not offered,not offered,not offered,443.0,467.0,no
+DT506,Commercial Modern Music,not offered,not offered,not offered,not offered,not offered,not offered,468.0,835.0,yes
+DT508,Game Design,not offered,not offered,not offered,not offered,not offered,not offered,403.0,454.0,no
+DT517,Languages and English Studies,not offered,not offered,not offered,not offered,not offered,not offered,326.0,419.0,no
+DT518,Languages and International Tourism,not offered,not offered,not offered,not offered,not offered,not offered,307.0,357.0,no
+DT529,Drama (Performance),not offered,not offered,not offered,not offered,not offered,not offered,371.0,519.0,yes
+DT532,Law (LL.B.),not offered,not offered,not offered,not offered,not offered,not offered,422.0,441.0,no
+DT533,Contemporary Visual Culture,not offered,not offered,not offered,not offered,not offered,not offered,not offered,0.0,yes
+DT544,Interior Design,not offered,not offered,not offered,not offered,not offered,not offered,552.0,866.0,yes
+DT545,Design - Visual Communication,not offered,not offered,not offered,not offered,not offered,not offered,667.0,897.0,yes
+DT546,Fine Art,not offered,not offered,not offered,not offered,not offered,not offered,668.0,813.0,yes
+DT555,International Business and Languages,not offered,not offered,not offered,not offered,not offered,not offered,353.0,399.0,no
+DT559,Photography,not offered,not offered,not offered,not offered,not offered,not offered,700.0,926.0,yes
+DT571,Social Care,not offered,not offered,not offered,not offered,not offered,not offered,394.0,424.0,no
+DT572,Early Childhood Education,not offered,not offered,not offered,not offered,not offered,not offered,385.0,403.0,no
+DT582,Journalism,not offered,not offered,not offered,not offered,not offered,not offered,347.0,373.0,no
+DT596,Print Media Technology and Management,not offered,not offered,not offered,not offered,not offered,not offered,252.0,311.0,no
+DT597,Creative and Cultural Industries,not offered,not offered,not offered,not offered,not offered,not offered,280.0,369.0,no
+DL835,Creative Media Technologies,not offered,not offered,not offered,not offered,not offered,not offered,237.0,289.0,no
+GC405,International Hospitality Management (Dublin),not offered,not offered,not offered,not offered,not offered,not offered,254.0,272.0,no
+ID003,Business Studies with Chinese,not offered,not offered,not offered,not offered,not offered,not offered,not offered,0.0,no
+BN101,Business,not offered,not offered,not offered,not offered,not offered,not offered,252.0,289.0,no
+BN103,Business and Information Technology,not offered,not offered,not offered,not offered,not offered,not offered,254.0,290.0,no
+BN104,Computing (Information Technology),not offered,not offered,not offered,not offered,not offered,not offered,260.0,293.0,no
+BN107,Applied Social Studies in Social Care,not offered,not offered,not offered,not offered,not offered,not offered,300.0,328.0,no
+BN108,Engineering (Common Entry with Award options),not offered,not offered,not offered,not offered,not offered,not offered,271.0,318.0,no
+BN109,Business (Common Entry with Award options),not offered,not offered,not offered,not offered,not offered,not offered,260.0,279.0,no
+BN110,International Business,not offered,not offered,not offered,not offered,not offered,not offered,253.0,308.0,no
+BN111,Sports Management and Coaching,not offered,not offered,not offered,not offered,not offered,not offered,270.0,298.0,no
+BN112,Creative Digital Media,not offered,not offered,not offered,not offered,not offered,not offered,280.0,329.0,no
+BN113,Horticulture,not offered,not offered,not offered,not offered,not offered,not offered,289.0,321.0,no
+BN114,Accounting and Finance,not offered,not offered,not offered,not offered,not offered,not offered,280.0,332.0,no
+BN115,Community and Youth Development,not offered,not offered,not offered,not offered,not offered,not offered,250.0,298.0,no
+BN117,Computer Engineering in Mobile Systems,not offered,not offered,not offered,not offered,not offered,not offered,273.0,311.0,no
+BN118,Early Childhood Care and Education,not offered,not offered,not offered,not offered,not offered,not offered,290.0,320.0,no
+BN119,Digital Marketing,not offered,not offered,not offered,not offered,not offered,not offered,270.0,308.0,no
+BN120,Digital Forensics and Cyber Security,not offered,not offered,not offered,not offered,not offered,not offered,281.0,326.0,no
+BN121,Mechatronic Engineering,not offered,not offered,not offered,not offered,not offered,not offered,276.0,340.0,no
+BN123,"Design,Technology and Innovation",not offered,not offered,not offered,not offered,not offered,not offered,297.0,318.0,no
+TA022,Creative Digital Media,not offered,not offered,not offered,not offered,not offered,not offered,260.0,318.0,no
+TA023,Advertising and Marketing Communications,not offered,not offered,not offered,not offered,not offered,not offered,235.0,299.0,no
+TA024,Early Childhood Care and Education,not offered,not offered,not offered,not offered,not offered,not offered,217.0,307.0,no
+TA025,Social Care Practice,not offered,not offered,not offered,not offered,not offered,not offered,261.0,297.0,no
+TA026,International Hospitality and Tourism Management,not offered,not offered,not offered,not offered,not offered,not offered,208.0,269.0,no
+TA027,Botanical Cuisine,not offered,not offered,not offered,not offered,not offered,not offered,236.0,273.0,no
+TA028,Digital Marketing Technologies,not offered,not offered,not offered,not offered,not offered,not offered,220.0,313.0,no
+TA121,Accounting and Finance,not offered,not offered,not offered,not offered,not offered,not offered,202.0,328.0,no
+TA122,Management,not offered,not offered,not offered,not offered,not offered,not offered,218.0,297.0,no
+TA123,Marketing Management,not offered,not offered,not offered,not offered,not offered,not offered,207.0,284.0,no
+TA125,International Business,not offered,not offered,not offered,not offered,not offered,not offered,229.0,300.0,no
+TA221,Electronic Engineering,not offered,not offered,not offered,not offered,not offered,not offered,251.0,321.0,no
+TA222,Mechanical Engineering,not offered,not offered,not offered,not offered,not offered,not offered,243.0,302.0,no
+TA223,Sustainable Energy Engineering,not offered,not offered,not offered,not offered,not offered,not offered,236.0,305.0,no
+TA224,Biomedical Design,not offered,not offered,not offered,not offered,not offered,not offered,218.0,324.0,no
+TA225,Automation Engineering,not offered,not offered,not offered,not offered,not offered,not offered,235.0,288.0,no
+TA226,Engineering Software,not offered,not offered,not offered,not offered,not offered,not offered,243.0,304.0,no
+TA321,Pharmaceutical Science,not offered,not offered,not offered,not offered,not offered,not offered,261.0,298.0,no
+TA322,Computing,not offered,not offered,not offered,not offered,not offered,not offered,200.0,294.0,no
+TA323,Computing with IT Management,not offered,not offered,not offered,not offered,not offered,not offered,243.0,309.0,no
+TA326,DNA and Forensic Analysis,not offered,not offered,not offered,not offered,not offered,not offered,300.0,362.0,no
+TA327,Sports Science and Health,not offered,not offered,not offered,not offered,not offered,not offered,341.0,381.0,no
+TA328,Computing with Language (French/German/Spanish),not offered,not offered,not offered,not offered,not offered,not offered,218.0,317.0,no
+TA329,Computing with Data Analytics,not offered,not offered,not offered,not offered,not offered,not offered,218.0,296.0,no
+NC025,Data Science,not offered,not offered,not offered,not offered,not offered,not offered,297.0,371.0,no
+GA385,Retail Management,not offered,not offered,not offered,not offered,not offered,not offered,219.0,319.0,no
+LY218,Business - with Spanish/Irish options,not offered,not offered,not offered,not offered,not offered,not offered,298.0,367.0,no
+CI101,Counselling and Psychotherapy (Limerick),not offered,not offered,not offered,not offered,not offered,not offered,276.0,328.0,no
+LC411,Marketing and Management (Thurles),not offered,not offered,not offered,not offered,not offered,not offered,226.0,300.0,no
+SG149,Business in Finance and Investment,not offered,not offered,not offered,not offered,not offered,not offered,262.0,357.0,no
+SG441,Environmental Science,not offered,not offered,not offered,not offered,not offered,not offered,297.0,358.0,no
+SG446,Applied Archaeology,not offered,not offered,not offered,not offered,not offered,not offered,289.0,290.0,no
+TL803,Music Technology,not offered,not offered,not offered,not offered,not offered,not offered,264.0,288.0,no
+TL812,Computing with Digital Media,not offered,not offered,not offered,not offered,not offered,not offered,369.0,369.0,no
+WD148,Tourism Marketing,not offered,not offered,not offered,not offered,not offered,not offered,269.0,338.0,no

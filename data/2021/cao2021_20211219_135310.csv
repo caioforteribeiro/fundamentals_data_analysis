@@ -1,0 +1,1035 @@
+,code,course name,EOS,Mid,test
+29,AL801,Software Design for Virtual Reality and Gaming,300.0,359.0,no
+30,AL802,Software Design in Artificial Intelligence for Cloud Computing,313.0,381.0,no
+31,AL803,Software Design for Mobile Apps and Connected Devices,350.0,398.0,no
+32,AL805,Computer Engineering for Network Infrastructure,321.0,381.0,no
+33,AL810,Quantity Surveying,328.0,377.0,no
+34,AL811,Civil Engineering,0.0,0.0,no
+35,AL820,Mechanical and Polymer Engineering,327.0,398.0,no
+36,AL830,General Nursing,440.0,455.0,no
+37,AL832,Mental Health Nursing,431.0,451.0,no
+38,AL835,Pharmacology,356.0,429.0,no
+39,AL836,Nutrition and Health Science,346.0,398.0,no
+40,AL837,Sports Science with Exercise Physiology,357.0,409.0,no
+41,AL838,Biotechnology,324.0,434.0,no
+42,AL839,Microbiology,325.0,408.0,no
+43,AL840,Pharmaceutical Sciences,346.0,402.0,no
+44,AL841,Athletic and Rehabilitation Therapy,462.0,489.0,no
+45,AL842,Bioveterinary Science,338.0,413.0,no
+46,AL843,Physical Activity and Health Science,306.0,358.0,no
+47,AL849,Culinary Entrepreneurship,297.0,327.0,no
+48,AL850,Business,309.0,369.0,no
+49,AL851,Business and Law,302.0,357.0,no
+50,AL852,Accounting,336.0,466.0,no
+51,AL854,Sport Management (with international placement),299.0,349.0,no
+52,AL855,Hospitality Management (with international placement),309.0,378.0,no
+53,AL857,Digital Marketing,304.0,398.0,no
+54,AL859,International Business,308.0,371.0,no
+55,AL860,Social Care Practice,301.0,359.0,no
+56,AL861,Animation and Illustration (portfolio),575.0,760.0,yes
+57,AL863,Graphic and Digital Design (portfolio),747.0,808.0,yes
+58,AL864,Early Years Care and Education,306.0,366.0,no
+59,AL870,Applied Psychology,452.0,480.0,no
+61,CW018,Business (options),307.0,381.0,no
+63,CW028,Early Childhood Education and Care,260.0,378.0,no
+65,CW038,Art (portfolio),700.0,700.0,yes
+67,CW048,Creative Computing and Digital Innovation,0.0,0.0,no
+69,CW058,Tourism and Event Management,292.0,356.0,no
+70,CW068,Applied Social Studies in Professional Social Care,250.0,306.0,no
+72,CW078,Sustainable Farm Management and Agribusiness,270.0,363.0,no
+74,CW088,Visual Communications and Design,270.0,290.0,no
+77,CW108,Science (options),266.0,361.0,no
+81,CW128,Brewing and Distilling,307.0,349.0,no
+82,CW138,Sport and Exercise Science,423.0,462.0,no
+83,CW148,Strength and Conditioning,388.0,409.0,no
+84,CW188,Sport Rehabilitation and Athletic Therapy,451.0,488.0,no
+87,CW208,Computer Games Development,272.0,333.0,no
+91,CW238,Software Development,295.0,387.0,no
+92,CW248,Information Technology Management,293.0,338.0,no
+93,CW258,Cybercrime and IT Security,292.0,382.0,no
+94,CW268,Computing in Interactive Digital Art and Design,291.0,384.0,no
+98,CW438,Construction (options),251.0,336.0,no
+99,CW468,Architectural Technology,283.0,353.0,no
+100,CW478,Civil Engineering,465.0,465.0,no
+105,CW548,Mechanical Engineering,328.0,396.0,no
+106,CW558,Electronic Systems,280.0,380.0,no
+107,CW568,Aerospace Engineering,359.0,433.0,no
+108,CW578,TV and Media Production,318.0,358.0,no
+111,CW708,Law - LLB,292.0,390.0,no
+113,CW728,Product Design Innovation,246.0,370.0,no
+114,CW748,Early Childhood Education and Care,290.0,377.0,no
+115,CW758,Professional Social Care Practice,358.0,397.0,no
+117,CW808,Media and Public Relations,247.0,316.0,no
+121,CW848,Digital Marketing with Analytics,269.0,336.0,no
+122,CW858,"Sports Management and Coaching (options, portfolio)",700.0,700.0,yes
+124,CW908,Business (options),272.0,348.0,no
+128,CW938,Business with Law,270.0,382.0,no
+129,CW948,Accounting,319.0,454.0,no
+132,PC405,"Social, Political and Community Studies",235.0,298.0,no
+133,PC410,Arts and Humanities (fulfils Teaching Council requirements),230.0,336.0,no
+134,PC411,English and History (fulfils Teaching Council requirements),224.0,356.0,no
+159,CR105,Chemical and Biopharmaceutical Engineering,443.0,532.0,no
+160,CR106,Software Development,431.0,476.0,no
+161,CR108,Mechanical Engineering,434.0,509.0,no
+162,CR109,Structural Engineering,396.0,465.0,no
+163,CR110,Automotive Business Management and Technology,336.0,388.0,no
+164,CR112,Creative Digital Media at CIT Crawford College of Art and Design,390.0,455.0,no
+165,CR116,Computer Systems,365.0,400.0,no
+166,CR121,Music at CIT Cork School of Music,904.0,1141.0,yes
+167,CR125,Popular Music at CIT Cork School of Music,1028.0,1029.0,yes
+168,CR130,Musical Theatre at CIT Cork School of Music,525.0,600.0,yes
+169,CR150,Business Information Systems,350.0,409.0,no
+170,CR210,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",450.0,450.0,yes
+171,CR220,Fine Art at CIT Crawford College of Art and Design,400.0,400.0,yes
+172,CR225,Photography with New Media at CIT Crawford College of Art and Design,435.0,560.0,yes
+174,CR305,Physical Sciences (Common Entry),260.0,357.0,no
+175,CR310,IT Management,347.0,372.0,no
+176,CR320,Biomedical Science - Offered jointly by CIT and UCC,590.0,601.0,no
+177,CR325,Pharmaceutical Biotechnology,466.0,488.0,no
+178,CR333,Nutrition and Health Science,425.0,455.0,no
+179,CR335,Biological Sciences (Common Entry),473.0,507.0,no
+180,CR340,Analytical Chemistry with Quality Assurance,327.0,400.0,no
+181,CR360,Instrument Engineering,301.0,378.0,no
+182,CR365,Environmental Science and Sustainable Technology,262.0,347.0,no
+183,CR370,Agri-Biosciences,368.0,423.0,no
+184,CR400,Accounting,315.0,423.0,no
+185,CR420,Marketing,290.0,357.0,no
+186,CR425,International Business with Language,279.0,419.0,no
+187,CR430,Sport and Exercise Management,402.0,434.0,no
+188,CR440,Montessori Education,408.0,431.0,no
+189,CR500,Engineering (Common Entry),475.0,499.0,no
+190,CR510,Sustainable Energy Engineering,320.0,393.0,no
+191,CR520,Biomedical Engineering,444.0,498.0,no
+192,CR560,Architectural Technology,375.0,436.0,no
+193,CR565,Interior Architecture,431.0,465.0,no
+194,CR570,Quantity Surveying,375.0,429.0,no
+195,CR572,Construction Management,300.0,349.0,no
+196,CR580,Electrical Engineering,342.0,401.0,no
+197,CR590,Electronic Engineering,329.0,409.0,no
+198,CR600,Visual Communications at CIT Crawford College of Art and Design,280.0,510.0,yes
+204,CR660,Tourism Management,246.0,328.0,no
+205,CR700,Theatre and Drama Studies at CIT Cork School of Music,609.0,894.0,yes
+208,CR930,Home Economics and Business,510.0,542.0,no
+209,CK101,Arts - 3 years,300.0,400.0,no
+210,CK102,Social Science,420.0,462.0,no
+211,CK104,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),339.0,485.0,yes
+212,CK105,Film and Screen Media - 3 years or 4 years (International Pathway),420.0,488.0,no
+213,CK107,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),312.0,425.0,no
+214,CK108,Arts International - 4 years,440.0,487.0,no
+215,CK109,English - 3 years or 4 years (International Pathway),352.0,462.0,no
+216,CK110,World Languages,488.0,522.0,no
+217,CK111,Early Years and Childhood Studies,378.0,445.0,no
+218,CK112,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),371.0,533.0,yes
+219,CK113,Criminology - 3 years or 4 years (International Pathway),456.0,486.0,no
+220,CK114,Social Science (Youth and Community Work),0.0,0.0,yes
+221,CK115,Social Work - Mature Applicants only,0.0,0.0,no
+222,CK118,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),339.0,444.0,no
+223,CK120,Applied Psychology,543.0,555.0,no
+224,CK121,Psychology and Computing - 3 or 4 years (Work Experience Pathway),478.0,522.0,no
+225,CK122,Government and Political Science,397.0,465.0,no
+226,CK123,Anthropology,308.0,429.0,no
+227,CK124,Education - Gaeilge,473.0,522.0,no
+228,CK125,Sports Studies and Physical Education,555.0,589.0,no
+229,CK201,Commerce,499.0,532.0,no
+230,CK202,Accounting,532.0,566.0,no
+231,CK203,Business Information Systems,445.0,490.0,no
+232,CK204,Finance,566.0,601.0,no
+233,CK205,Commerce (International) with French,462.0,522.0,no
+234,CK206,Commerce (International) with German,455.0,521.0,no
+235,CK207,Commerce (International) with Italian,418.0,441.0,no
+236,CK208,Commerce (International) with Hispanic Studies,477.0,528.0,no
+237,CK209,Commerce (International) with Irish,507.0,534.0,no
+238,CK211,Commerce (International) with Chinese Studies,385.0,477.0,no
+239,CK212,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,431.0,474.0,no
+240,CK213,Food Marketing and Entrepreneurship,466.0,498.0,no
+241,CK214,International Development,332.0,451.0,no
+242,CK301,Law (Pathways) -  3 or 4 years,532.0,556.0,no
+243,CK302,Law and French,545.0,564.0,no
+244,CK304,Law and Irish,588.0,601.0,no
+245,CK307,Law and Business,589.0,601.0,no
+246,CK401,Computer Science,488.0,531.0,no
+247,CK402,Biological and Chemical Sciences,554.0,577.0,no
+248,CK404,"Biological, Earth and Environmental Sciences",487.0,521.0,no
+249,CK405,Genetics,533.0,554.0,no
+250,CK406,Chemical Sciences,532.0,554.0,no
+251,CK407,Mathematical Sciences,566.0,601.0,no
+252,CK408,Physics and Astrophysics,555.0,601.0,no
+253,CK409,Industrial Physics - Offered jointly by UCC and CIT,465.0,509.0,no
+254,CK411,Data Science and Analytics,531.0,577.0,no
+255,CK412,Agricultural Science,506.0,544.0,no
+256,CK504,Nutritional Sciences,544.0,566.0,no
+257,CK505,Food Science,463.0,489.0,no
+258,CK600,Engineering,499.0,555.0,no
+259,CK606,Architecture - Offered jointly by UCC and CIT,543.0,565.0,no
+260,CK701,Medicine (Undergraduate Entry - HPAT required),737.0,743.0,yes
+261,CK702,Dentistry,625.0,625.0,no
+262,CK703,Pharmacy,613.0,625.0,no
+263,CK704,Occupational Therapy,590.0,602.0,no
+264,CK705,Speech and Language Therapy,566.0,589.0,no
+265,CK706,Public Health Sciences,500.0,532.0,no
+266,CK707,Medical and Health Sciences,578.0,601.0,no
+267,CK710,General Nursing,495.0,519.0,no
+268,CK712,Children`s and General Nursing (Integrated),565.0,578.0,no
+269,CK720,Mental Health Nursing,452.0,467.0,no
+270,CK730,Intellectual Disability Nursing,429.0,451.0,no
+271,CK740,Midwifery,509.0,543.0,no
+272,CK791,Medicine  - Graduate Entry (GAMSAT required),60.0,61.0,yes
+273,AC120,International Business,294.0,352.0,no
+274,AC137,Liberal Arts,270.0,334.0,no
+275,CT125,Computing and IT,242.0,334.0,no
+276,CT325,Business,253.0,337.0,no
+277,CM001,Education - Primary Teaching,508.0,518.0,no
+278,CM002,Education - Primary Teaching - Gaeltacht Applicants,462.0,506.0,yes
+279,CM003,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge,513.0,546.0,yes
+280,CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge (daltaí Gaeltachta),480.0,618.0,yes
+281,CM010,Education Studies,327.0,440.0,no
+282,CM020,Early Childhood Education,317.0,377.0,no
+286,DB500,Computing,204.0,333.0,no
+287,DB501,Computing (Cloud Computing),178.0,309.0,no
+288,DB502,Computing (Data Analytics and Big Data),233.0,351.0,no
+289,DB503,Computing (Software Development),0.0,0.0,no
+290,DB504,Computing (Web and Mobile Technology),0.0,0.0,no
+291,DB510,Audio Production and Music Project Management,217.0,317.0,no
+292,DB512,Business Studies,210.0,347.0,no
+293,DB514,Business Studies (Law),225.0,346.0,no
+294,DB515,Business Studies (Human Resource Management),217.0,318.0,no
+295,DB517,Marketing (Event Management),225.0,336.0,no
+296,DB518,Marketing (Digital Media),209.0,354.0,no
+297,DB521,Accounting and Finance,228.0,379.0,no
+298,DB524,Business (Information Systems),239.0,327.0,no
+299,DB525,Marketing (Digital Media and Cloud Computing),288.0,337.0,no
+300,DB526,Business (Cloud Computing),244.0,327.0,no
+301,DB527,Applied Social Care,219.0,308.0,no
+303,DB531,Marketing,176.0,368.0,no
+305,DB562,Psychology,233.0,342.0,no
+307,DB566,Social Science,228.0,319.0,no
+308,DB567,Film and Creative Media,213.0,298.0,no
+309,DB568,Law,228.0,347.0,no
+310,DB569,Business (Psychology),240.0,338.0,no
+316,DC001,Education - Early Childhood Education,445.0,474.0,no
+317,DC002,Education - Primary Teaching,518.0,543.0,no
+318,DC003,Education - Primary Teaching - Gaeltacht Applicants,496.0,509.0,yes
+319,DC004,Education - Primary Teaching (Church of Ireland Centre formerly CICE),451.0,0.0,yes
+320,DC009,Arts (Joint Honours) - Humanities,356.0,431.0,no
+321,DC010,Post Primary Teacher Education - Religious Education and English,384.0,441.0,no
+322,DC011,Post Primary Teacher Education - Religious Education and History,409.0,455.0,no
+323,DC012,Post Primary Teacher Education - Religious Education and Music,409.0,451.0,yes
+324,DC013,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,413.0,510.0,no
+325,DC014,BA in Jazz and Contemporary Music Performance (audition),311.0,634.0,yes
+326,DC110,Business Studies International,498.0,526.0,yes
+327,DC111,Business Studies,511.0,532.0,no
+328,DC112,Global Business (France),542.0,564.0,no
+329,DC113,Global Business (Germany),484.0,529.0,no
+330,DC114,Global Business (Spain),544.0,562.0,no
+331,DC115,Accounting and Finance,544.0,578.0,no
+332,DC116,Global Business (USA),613.0,625.0,no
+333,DC117,Aviation Management / Aviation Management with Pilot Studies,484.0,520.0,no
+334,DC118,Gnó agus Gaeilge / Business and Irish,368.0,419.0,no
+335,DC119,Global Business (Canada),601.0,601.0,no
+336,DC120,Computing for Business,402.0,440.0,no
+337,DC121,Computer Science,476.0,498.0,no
+338,DC123,Data Science,501.0,542.0,no
+339,DC126,Actuarial Mathematics,577.0,601.0,no
+340,DC127,Common Entry into Actuarial and Financial Mathematics,541.0,566.0,no
+341,DC131,Communication Studies,421.0,479.0,no
+342,DC132,Journalism,452.0,487.0,no
+343,DC133,Multimedia,435.0,473.0,no
+344,DC155,Applied Language and Translation Studies,431.0,476.0,no
+345,DC161,Analytical Science,498.0,521.0,no
+346,DC162,Chemical and Pharmaceutical Sciences,532.0,543.0,no
+347,DC163,Chemical Sciences General Entry (Undenominated Entry),466.0,510.0,no
+348,DC166,Environmental Science and Technology,423.0,466.0,no
+349,DC168,Genetics and Cell Biology,543.0,555.0,no
+350,DC175,Physics General Entry (options),400.0,479.0,no
+351,DC180,Biological Sciences General Entry (Undenominated Entry),530.0,543.0,no
+352,DC181,Biotechnology,530.0,544.0,no
+353,DC190,Electronic and Computer Engineering (with choice of four majors),488.0,532.0,no
+354,DC193,Mechatronic Engineering,490.0,532.0,no
+355,DC194,Sustainable Systems and Energy,488.0,509.0,no
+356,DC195,Mechanical and Manufacturing Engineering,500.0,521.0,no
+357,DC197,Biomedical Engineering,510.0,543.0,no
+358,DC200,Common Entry into Engineering (Undenominated Entry),510.0,543.0,no
+359,DC202,Sport Science and Health,511.0,532.0,no
+360,DC203,Science Education,462.0,509.0,no
+361,DC204,Athletic Therapy and Training,558.0,578.0,no
+362,DC205,Physical Education with Biology,565.0,578.0,no
+363,DC206,Physical Education with Mathematics,521.0,544.0,no
+364,DC207,Psychology and Mathematics,521.0,543.0,no
+365,DC208,Psychology,565.0,577.0,no
+366,DC209,Health and Society,477.0,509.0,no
+367,DC210,Psychology and Disruptive Technologies,506.0,532.0,no
+368,DC215,General Nursing,456.0,485.0,no
+369,DC216,Mental Health Nursing,420.0,440.0,no
+370,DC217,Intellectual Disability Nursing,382.0,402.0,no
+371,DC218,Children`s and General Nursing (Integrated),521.0,554.0,no
+372,DC230,"Economics, Politics and Law",431.0,468.0,no
+373,DC231,International Relations,399.0,458.0,no
+374,DC232,Law and Society (BCL),469.0,511.0,no
+375,DC235,Education and Training - Daytime and Flexible Delivery Mode (full-time),302.0,370.0,no
+376,DC238,Social Sciences and Cultural Innovation,387.0,440.0,no
+377,DC240,"Marketing, Innovation and Technology",499.0,532.0,no
+378,DC241,Digital Business and Innovation,509.0,533.0,no
+379,DC291,Arts (Joint Honours) - Media Studies,350.0,440.0,no
+380,DC292,Arts (Joint Honours) - Law,400.0,440.0,no
+381,DC293,Arts (Joint Honours) - International Languages,379.0,467.0,no
+382,DC294,Climate and Environmental Sustainability,475.0,489.0,no
+383,DC295,Arts (Joint Honours) - Politics,349.0,409.0,no
+385,DL822,Arts Management,254.0,356.0,no
+386,DL823,Business Management,220.0,318.0,no
+387,DL825,Applied Psychology,413.0,462.0,no
+388,DL826,Graphic Design,591.0,824.0,yes
+389,DL827,Art,574.0,906.0,yes
+390,DL832,Animation,989.0,1098.0,yes
+391,DL833,Photography and Visual Media,665.0,877.0,yes
+392,DL836,Creative Computing,235.0,339.0,no
+393,DL837,New Media Studies,293.0,359.0,no
+394,DL838,Creative Music Production,713.0,979.0,yes
+395,DL839,Interaction and User Experience Design,757.0,1087.0,yes
+396,DL840,Digital Marketing,210.0,347.0,no
+397,DL841,English and Equality Studies,277.0,357.0,no
+398,DL843,Film,874.0,1000.0,yes
+399,DL844,Television,566.0,947.0,yes
+400,DL845,Design for Film (degree options),630.0,900.0,yes
+401,GC200,Business,242.0,377.0,no
+402,GC201,Accounting and Finance,226.0,270.0,no
+403,GC230,Computing Science,289.0,351.0,no
+404,GC250,Communications and Media Production,0.0,0.0,no
+405,GC300,Business,264.0,377.0,no
+406,GC301,Accounting and Finance,251.0,251.0,no
+407,GC302,Business - HRM,329.0,377.0,no
+408,GC307,Business (Marketing),270.0,289.0,no
+410,GC400,Business,228.0,318.0,no
+411,GC401,Accounting and Finance,242.0,337.0,no
+412,GC402,Business (HRM),0.0,0.0,no
+413,GC403,Law,242.0,319.0,no
+414,GC407,Business (Marketing),176.0,318.0,no
+417,GC430,Computing Science,251.0,325.0,no
+419,GC450,Communications and Media Production,225.0,321.0,no
+421,GC462,Design Communication (portfolio),300.0,300.0,yes
+426,GC489,Interior Architecture (portfolio),274.0,429.0,yes
+428,GC494,Fashion Design (portfolio),309.0,588.0,yes
+430,BY001,Business,210.0,323.0,no
+432,ID001,Accounting and Finance,0.0,0.0,no
+433,ID002,Business Studies,273.0,340.0,no
+434,AD101,"First Year Art and Design (Common Entry,portfolio)",554.0,604.0,yes
+435,AD102,Graphic Design and Moving Image Design (portfolio),538.0,625.0,yes
+436,AD103,Textile and Surface Design and Jewellery and Objects (portfolio),505.0,581.0,yes
+437,AD202,"Education and Design or Fine Art (Second Level Teaching,portfolio))",591.0,620.0,yes
+438,AD204,Fine Art (portfolio),514.0,583.0,yes
+439,AD211,Fashion Design (portfolio),679.0,679.0,yes
+440,AD212,Product Design (portfolio),413.0,569.0,yes
+441,AD215,Visual Culture,300.0,380.0,no
+442,AD217,Illustration (portfolio),738.0,0.0,yes
+443,AD222,Interaction Design (portfolio),444.0,488.0,yes
+444,NC003,Computing (Degree Award options),271.0,334.0,no
+445,NC005,Human Resource Management,301.0,360.0,no
+446,NC009,Business,300.0,371.0,no
+447,NC010,Psychology,420.0,465.0,no
+448,NC020,Marketing Practice,270.0,329.0,no
+449,NC022,Accounting and Finance,330.0,390.0,no
+450,NC023,Technology Management (with specialisations),266.0,356.0,no
+451,NC030,Early Childhood Education and Care,251.0,308.0,no
+455,RC001,Medicine - Undergraduate Entry (HPAT required),740.0,741.0,yes
+456,RC004,Physiotherapy,589.0,589.0,no
+457,RC005,Pharmacy,602.0,613.0,no
+458,RC101,Medicine - Graduate Entry (GAMSAT required),62.0,66.0,yes
+460,NM801,Montessori Education,262.0,320.0,no
+461,NM802,Psychology,228.0,338.0,no
+528,TU801,Sustainable Energy Engineering,235.0,329.0,no
+529,TU802,Electrical Services and Energy Management,290.0,359.0,no
+530,TU804,Engineering (Common Entry with Award options),270.0,361.0,no
+531,TU805,Engineering (General Entry),465.0,499.0,no
+532,TU807,Computer Engineering in Mobile Systems,274.0,339.0,no
+533,TU810,Mechatronic Engineering,271.0,399.0,no
+534,TU811,Product Design,434.0,479.0,no
+535,TU812,"Design,Technology and Innovation",278.0,335.0,no
+536,TU814,Sustainable Transport Management,253.0,349.0,no
+537,TU828,Mechanical Engineering (General Entry),300.0,386.0,no
+538,TU829,Electronic Engineering (General Entry),243.0,354.0,no
+539,TU831,Architectural Technology,423.0,455.0,no
+540,TU832,Architecture (Suitability Test and Interview),638.0,682.0,yes
+541,TU833,Construction Management,396.0,429.0,no
+542,TU834,Geographic Science,315.0,370.0,no
+543,TU835,Planning and Environmental Management,330.0,393.0,no
+544,TU836,Property Economics (Valuation Surveying),411.0,444.0,no
+545,TU837,Quantity Surveying and Construction Economics,413.0,455.0,no
+546,TU838,Sustainable Timber Technology,271.0,385.0,no
+547,TU851,"Analytical Chemistry (Environmental, Forensic and Pharmaceutical)",400.0,464.0,no
+548,TU852,Chemical Sciences with Medicinal Chemistry,477.0,499.0,no
+549,TU854,Science (General Entry),510.0,532.0,no
+550,TU855,Science with Nanotechnology,322.0,382.0,no
+551,TU856,Computer Science,499.0,531.0,no
+552,TU857,Computer Science (Infrastructure),403.0,443.0,no
+553,TU858,Computer Science (International),395.0,444.0,no
+554,TU859,Computing,251.0,336.0,no
+555,TU860,Computing (Information Technology),270.0,356.0,no
+556,TU861,Computing with Language (French/German/Spanish),235.0,370.0,no
+557,TU862,Computing with Artificial Intelligence Machine Learning,262.0,310.0,no
+558,TU863,Digital Forensics and Cyber Security,282.0,346.0,no
+559,TU864,DNA and Forensic Analysis,441.0,465.0,no
+560,TU865,Cloud Computing,235.0,308.0,no
+561,TU866,Biomedical and Molecular Diagnostics,522.0,540.0,no
+562,TU867,Biomedical Science,565.0,578.0,no
+563,TU868,Clinical Measurement Science,542.0,554.0,no
+564,TU869,Environmental Health,387.0,434.0,no
+565,TU870,Human Nutrition and Dietetics,600.0,613.0,no
+566,TU871,Optometry,532.0,544.0,no
+567,TU872,Public Health Nutrition,487.0,521.0,no
+568,TU874,Mathematical Sciences,294.0,434.0,no
+569,TU875,Pharmaceutical Healthcare,451.0,477.0,no
+570,TU876,Pharmaceutical Science,445.0,474.0,no
+571,TU877,Physics Technology,314.0,422.0,no
+572,TU878,Physics with Energy and Environment,339.0,408.0,no
+573,TU879,Physics with Medical Physics and Bioengineering,346.0,430.0,no
+574,TU880,Physics with Data Science,412.0,532.0,no
+575,TU881,Food Innovation,309.0,423.0,no
+576,TU882,Nutraceuticals in Health and Nutrition,380.0,447.0,no
+577,TU902,Business (options),270.0,327.0,no
+578,TU903,Business and Management,477.0,509.0,no
+579,TU904,Business and Law,462.0,486.0,no
+580,TU905,Economics and Finance,460.0,488.0,no
+581,TU906,Human Resource Management,377.0,412.0,no
+582,TU907,Logistics and Supply Chain Management,300.0,367.0,no
+583,TU910,Accounting,420.0,462.0,no
+584,TU912,Business Analytics,311.0,367.0,no
+585,TU914,Business Computing,322.0,377.0,no
+586,TU917,Law (LLB ) with a Language,356.0,451.0,no
+587,TU918,Law (LLB),463.0,499.0,no
+588,TU919,Advertising and Marketing Communications,219.0,327.0,no
+589,TU920,Digital Marketing,270.0,339.0,no
+590,TU921,Digital Marketing Technologies,230.0,298.0,no
+591,TU922,Marketing,412.0,446.0,no
+592,TU924,E-Commerce in Retailing,307.0,380.0,no
+593,TU925,Retail and Services Management,307.0,368.0,no
+594,TU932,Business (options),211.0,337.0,no
+595,TU933,Accounting and Finance (campus options),251.0,346.0,no
+596,TU935,Sports Management and Coaching,300.0,368.0,no
+597,TU936,Sports Science and Health,484.0,498.0,no
+598,TU941,Botanical Cuisine,311.0,380.0,no
+599,TU942,Culinary Arts,252.0,348.0,no
+600,TU943,Culinary Entrepreneurship,261.0,387.0,no
+601,TU944,Culinary Science,336.0,393.0,no
+602,TU951,International Hospitality and Tourism Management,244.0,316.0,no
+603,TU952,International Hospitality Management,309.0,398.0,no
+604,TU953,Tourism and Digital Marketing,308.0,366.0,no
+605,TU954,Event Management,326.0,402.0,no
+606,TU955,Sports and Leisure Management,275.0,349.0,no
+607,TU961,Commercial Modern Music (BIMM - assessment/audition),536.0,881.0,yes
+608,TU962,"Drama (Performance, audition)",448.0,551.0,yes
+609,TU963,Music (audition),364.0,561.0,yes
+610,TU965,International Business and Languages,357.0,442.0,no
+611,TU967,Languages and International Tourism,298.0,390.0,no
+612,TU973,Design - Visual Communication (portfolio),700.0,953.0,yes
+613,TU974,Fine Art (portfolio),549.0,704.0,yes
+614,TU975,Interior Design (portfolio),544.0,919.0,yes
+615,TU976,Photography (portfolio),700.0,952.0,yes
+616,TU978,Creative Industries and Visual Culture,299.0,440.0,no
+617,TU981,Creative Digital Media,280.0,347.0,no
+618,TU982,Media Production and Digital Arts,369.0,412.0,no
+619,TU983,Film and Broadcasting,453.0,496.0,no
+620,TU984,Game Design,414.0,455.0,no
+621,TU985,Journalism,367.0,409.0,no
+622,TU989,Early Childhood Care and Education (campus options),270.0,337.0,no
+623,TU991,Applied Social Studies in Social Care,326.0,356.0,no
+624,TU992,Community Development and Youth Work,251.0,311.0,no
+625,TU995,Early Childhood Education,378.0,412.0,no
+626,TU996,Social Care,407.0,440.0,no
+627,TU997,Applied Social Care,320.0,368.0,no
+628,TR002,Music,477.0,513.0,yes
+629,TR003,History,531.0,558.0,no
+630,TR004,Law,589.0,601.0,no
+631,TR005,Philosophy,456.0,510.0,no
+632,TR006,Psychology,578.0,602.0,no
+633,TR007,Clinical Speech and Language Studies,555.0,577.0,no
+634,TR009,Music Education,486.0,530.0,yes
+635,TR015,"Philosophy, Political Science, Economics and Sociology",613.0,625.0,no
+636,TR016,Deaf Studies,389.0,440.0,no
+637,TR018,Law and French,600.0,613.0,no
+638,TR019,Law and German,567.0,588.0,no
+639,TR021,"Classics, Ancient History and Archaeology",419.0,501.0,no
+640,TR022,Early and Modern Irish,377.0,473.0,no
+641,TR023,English Studies,533.0,555.0,no
+642,TR024,European Studies,566.0,589.0,no
+643,TR025,Drama and Theatre Studies,509.0,552.0,yes
+644,TR028,Ancient and Medieval History and Culture,382.0,474.0,no
+645,TR031,Mathematics,577.0,613.0,no
+646,TR032,Engineering,554.0,581.0,no
+647,TR033,Computer Science,543.0,578.0,no
+648,TR034,Management Science and Information Systems Studies,625.0,625.0,no
+649,TR035,Theoretical Physics,589.0,613.0,no
+650,TR038,Engineering with Management,589.0,613.0,no
+651,TR039,"Computer Science, Linguistics and a Language",443.0,531.0,no
+652,TR040,Middle Eastern and European Languages and Cultures,397.0,531.0,no
+653,TR041,Religion,417.0,476.0,no
+654,TR042,Film,518.0,532.0,no
+655,TR043,History of Art and Architecture,467.0,519.0,no
+656,TR051,Medicine (HPAT required),743.0,751.0,yes
+657,TR052,Dental Science,625.0,625.0,no
+658,TR053,Physiotherapy,590.0,601.0,no
+659,TR054,Occupational Therapy,577.0,589.0,no
+660,TR055,Radiation Therapy,566.0,577.0,no
+661,TR056,Human Health and Disease,601.0,613.0,no
+662,TR060,Biological and Biomedical Sciences,577.0,590.0,no
+663,TR061,Chemical Sciences,542.0,564.0,no
+664,TR062,Geography and Geoscience,490.0,531.0,no
+665,TR063,Physical Sciences,521.0,566.0,no
+666,TR064,Environmental Science and Engineering,555.0,578.0,no
+667,TR072,Pharmacy,613.0,625.0,no
+668,TR080,Global Business,613.0,625.0,no
+669,TR081,"Business, Economic and Social Studies (BESS)",566.0,589.0,no
+670,TR084,Social Studies (Social Work),484.0,508.0,no
+671,TR085,Business Studies and French,564.0,577.0,no
+672,TR086,Business Studies and German,530.0,533.0,no
+673,TR087,Business Studies and Russian,487.0,521.0,no
+674,TR089,Business Studies and Polish,391.0,432.0,no
+675,TR090,Business Studies and Spanish,566.0,589.0,no
+676,TR091,General Nursing (Meath and St James`s),454.0,487.0,no
+677,TR093,General Nursing (Adelaide School of Nursing),473.0,484.0,yes
+678,TR095,Mental Health Nursing,432.0,455.0,no
+679,TR097,Intellectual Disability Nursing,401.0,419.0,no
+680,TR111,Ancient History and Archaeology/Geography,509.0,530.0,no
+681,TR112,Ancient History and Archaeology/History,577.0,577.0,no
+682,TR113,Ancient History and Archaeology/History of Art and Architecture,528.0,541.0,no
+683,TR114,Ancient History and Archaeology/Modern Language,507.0,512.0,no
+684,TR117,Ancient History and Archaeology/Religion,494.0,625.0,no
+685,TR166,Classical Civilisation/English Literature,552.0,567.0,no
+686,TR173,Classical Civilisation/History of Art and Architecture,420.0,487.0,no
+687,TR177,Classical Civilisation/Modern Language,484.0,543.0,no
+688,TR179,Classical Civilisation/Philosophy,521.0,522.0,no
+689,TR188,Computer Science/Business Studies,584.0,602.0,no
+690,TR198,Economics/Geography,954.0,0.0,no
+691,TR202,Economics/History,601.0,625.0,no
+692,TR207,Economics/Mathematics,613.0,625.0,no
+693,TR208,Economics/Modern Language,589.0,611.0,no
+694,TR209,Economics/Philosophy,589.0,611.0,no
+695,TR212,Economics/Sociology,589.0,606.0,no
+696,TR214,Social Policy/Economics,611.0,611.0,no
+697,TR228,Classical Languages/English Literature,555.0,583.0,no
+698,TR230,Classical Languages/Linguistics,501.0,501.0,no
+699,TR231,Classical Languages/History of Art and Architecture,613.0,613.0,no
+700,TR233,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",583.0,583.0,no
+701,TR239,Classical Languages/Modern Language,543.0,558.0,no
+702,TR240,Computer Science/Geography,482.0,541.0,no
+703,TR241,Computer Science/Linguistics,495.0,532.0,no
+704,TR262,English Literature/History,576.0,600.0,no
+705,TR263,English Literature/History of Art and Architecture,571.0,576.0,no
+706,TR269,English Literature/Philosophy,555.0,584.0,no
+707,TR272,English Literature/Sociology,553.0,567.0,no
+708,TR276,English Literature/Drama Studies,555.0,589.0,yes
+709,TR277,English Literature/Modern Language,554.0,586.0,no
+710,TR311,Film/Drama Studies,578.0,578.0,yes
+711,TR312,Film/English Literature,576.0,590.0,no
+712,TR320,Film/Music,584.0,601.0,yes
+713,TR322,Geography/History,613.0,613.0,no
+714,TR323,Drama Studies/Modern Language,495.0,589.0,yes
+715,TR324,Film/Modern Language,577.0,589.0,no
+716,TR325,Film/History,613.0,613.0,no
+717,TR326,Geography/Modern Language,451.0,500.0,no
+718,TR328,Political Science/Geography,564.0,590.0,no
+719,TR332,Geography/Sociology,522.0,554.0,no
+720,TR443,History/History of Art and Architecture,581.0,613.0,no
+721,TR447,History/Modern Language,576.0,576.0,no
+722,TR449,History/Philosophy,579.0,590.0,no
+723,TR454,History/Religion,0.0,0.0,no
+724,TR455,History of Art and Architecture/Modern Language,451.0,512.0,no
+725,TR457,History/Political Science,576.0,590.0,no
+726,TR479,History of Art and Architecture/Philosophy,519.0,531.0,no
+727,TR482,Sociology/History of Art and Architecture,522.0,541.0,no
+728,TR547,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",543.0,543.0,no
+729,TR548,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",544.0,544.0,no
+730,TR554,"Middle Eastern,Jewish and Islamic Civilisations/History",576.0,580.0,no
+731,TR563,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",590.0,590.0,no
+732,TR564,"Middle Eastern,Jewish and Islamic Civilisations/Music",0.0,0.0,yes
+733,TR565,"Middle Eastern,Jewish and Islamic Civilisations/Religion",949.0,0.0,no
+734,TR580,Business Studies/Law,625.0,625.0,no
+735,TR581,History/Law,625.0,625.0,no
+736,TR582,Political Science/Law,625.0,625.0,no
+737,TR587,"Middle Eastern,Jewish and Islamic Civilisations/Linguistics",0.0,0.0,no
+738,TR588,Linguistics/Modern Language,456.0,519.0,no
+739,TR589,Linguistics/Philosophy,520.0,553.0,no
+740,TR592,"Sociology/Middle Eastern,Jewish and Islamic Civilisations",531.0,539.0,no
+741,TR597,Mathematics/Modern Language,613.0,613.0,no
+742,TR598,Mathematics/Music,625.0,625.0,yes
+743,TR599,Mathematics/Philosophy,625.0,625.0,no
+744,TR629,Music/Philosophy,533.0,533.0,yes
+745,TR635,Music/Drama Studies,532.0,532.0,yes
+746,TR636,Music/Modern Language,530.0,555.0,yes
+747,TR638,Music/Religion,0.0,0.0,yes
+748,TR639,Philosophy/Modern Language,520.0,540.0,no
+749,TR662,Philosophy/Sociology,531.0,542.0,no
+750,TR663,Religion/Classical Civilisation,418.0,442.0,no
+751,TR664,Religion/English Literature,966.0,0.0,no
+752,TR665,Religion/History of Art and Architecture,369.0,494.0,no
+753,TR666,Religion/Modern Language,0.0,0.0,no
+754,TR667,French/Modern Language,466.0,508.0,no
+755,TR668,German/Modern Language,441.0,521.0,no
+756,TR669,Irish/Modern Language,464.0,533.0,no
+757,TR670,Italian/Modern Language,462.0,498.0,no
+758,TR671,Russian/Modern Language,501.0,525.0,no
+759,TR672,Spanish/Modern Language,486.0,552.0,no
+760,TR756,Sociology/Modern Language,522.0,545.0,no
+761,TR757,Modern Language/Social Policy,555.0,566.0,no
+762,TR758,Social Policy/Political Science,566.0,597.0,no
+763,TR759,Sociology/Social Policy,554.0,579.0,no
+767,TR911,Children`s and General Nursing (Integrated),529.0,544.0,no
+768,TR913,Midwifery,520.0,543.0,no
+769,DN100,Architecture,553.0,577.0,no
+770,DN120,Landscape Architecture,430.0,484.0,no
+771,DN130,City Planning and Environmental Policy,420.0,474.0,no
+772,DN150,Engineering (Common Entry),556.0,601.0,no
+773,DN200,Science (options),566.0,589.0,no
+774,DN201,Computer Science (Common Entry),542.0,558.0,no
+775,DN230,Actuarial and Financial Studies,613.0,625.0,no
+776,DN240,Sustainability,506.0,532.0,no
+777,DN250,Agricultural Science (options),440.0,489.0,no
+778,DN261,Food Science,522.0,544.0,no
+779,DN262,Human Nutrition,566.0,577.0,no
+780,DN300,Veterinary Medicine - Undergraduate Entry,601.0,613.0,yes
+781,DN301,Veterinary Medicine - Graduate Entry (GAMSAT required),0.0,0.0,yes
+782,DN310,Veterinary Nursing,486.0,522.0,no
+783,DN400,Medicine - Undergraduate Entry (HPAT required),743.0,751.0,yes
+784,DN401,Medicine - Graduate Entry (GAMSAT required),61.0,63.0,yes
+785,DN410,Radiography,565.0,578.0,no
+786,DN411,Radiography - Graduate Entry,0.0,0.0,yes
+787,DN420,Physiotherapy,601.0,613.0,no
+788,DN425,Health and Performance Science,541.0,555.0,no
+789,DN430,Sport and Exercise Management,473.0,499.0,no
+790,DN440,"Biomedical, Health and Life Sciences",613.0,618.0,no
+791,DN450,General Nursing,462.0,490.0,no
+792,DN451,Children`s and General Nursing (Integrated),532.0,554.0,no
+793,DN452,Midwifery,507.0,511.0,no
+794,DN453,Mental Health Nursing,441.0,451.0,no
+795,DN520,Joint Honours (options),356.0,445.0,no
+796,DN530,Humanities (options),359.0,465.0,no
+797,DN541,Modern Languages (options),320.0,423.0,no
+798,DN600,Law (options),566.0,588.0,no
+799,DN610,Business and Law,566.0,589.0,no
+800,DN650,Commerce,554.0,567.0,no
+801,DN660,Commerce International (options),554.0,567.0,no
+802,DN670,Economics and Finance,625.0,625.0,no
+803,DN700,Social Sciences (options),463.0,509.0,no
+804,DN710,Economics,522.0,544.0,no
+805,DN720,Psychology,555.0,577.0,no
+806,DN750,Social Policy and Sociology,408.0,441.0,no
+830,DK810,Accounting and Finance,307.0,399.0,no
+831,DK816,Business Studies,301.0,382.0,no
+832,DK820,Computing in Games Development,309.0,381.0,no
+833,DK821,Computing in Software Development,307.0,379.0,no
+834,DK822,Augmented and Virtual Reality,307.0,340.0,no
+835,DK830,Building Surveying,305.0,378.0,no
+836,DK831,Architectural Technology,314.0,377.0,no
+837,DK832,Construction Management,305.0,362.0,no
+838,DK843,Engineering (Common Entry),391.0,466.0,no
+839,DK844,Mechanical Engineering,336.0,435.0,no
+840,DK845,Electrical and Electronic Engineering,331.0,434.0,no
+841,DK846,Civil Engineering,371.0,465.0,no
+842,DK850,International Tourism Management,303.0,417.0,no
+843,DK861,Arts,300.0,347.0,no
+844,DK862,Social Care,301.0,348.0,no
+845,DK863,Creative Media,309.0,432.0,no
+846,DK864,Film and Television Production,308.0,399.0,no
+847,DK865,Audio and Music Production,308.0,404.0,no
+848,DK870,General Nursing,433.0,451.0,no
+849,DK872,Intellectual Disability Nursing,347.0,368.0,no
+850,DK874,Mental Health Nursing,391.0,414.0,no
+851,DK876,Early Childhood Studies,300.0,357.0,no
+852,DK877,Midwifery,470.0,495.0,no
+853,DK880,Health and Physical Activity,300.0,397.0,no
+854,DK882,Agriculture (Award options),342.0,402.0,no
+855,DK883,Science (Award options),302.0,384.0,no
+856,DK884,Sustainable Agriculture,348.0,397.0,no
+857,DK885,Agri-Food Production,0.0,0.0,no
+858,DK886,Biopharmaceutical Science,347.0,388.0,no
+859,DK887,Environmental Science,377.0,440.0,no
+867,GA181,Accounting,303.0,400.0,no
+868,GA182,Business,285.0,369.0,no
+869,GA183,Business Information Systems,298.0,358.0,no
+870,GA184,Marketing and Sales,300.0,368.0,no
+871,GA185,Finance and Economics,318.0,378.0,no
+872,GA186,Business with Entrepreneurship,287.0,346.0,no
+873,GA187,Rural Enterprise and Agri-Business,291.0,358.0,no
+877,GA281,Film and Documentary,301.0,358.0,no
+878,GA282,Heritage Studies,252.0,343.0,no
+879,GA283,Contemporary Art (portfolio),790.0,876.0,yes
+880,GA284,Design,331.0,398.0,no
+881,GA285,"Education (Art, Design and Graphics)",406.0,442.0,no
+890,GA380,International Hotel Management,218.0,320.0,no
+891,GA381,International Tourism Management,252.0,317.0,no
+892,GA382,Culinary and Gastronomic Science,235.0,375.0,no
+893,GA384,Event Management with Public Relations,230.0,340.0,no
+898,GA480,Construction Management,302.0,359.0,no
+899,GA482,Quantity Surveying and Construction Economics,304.0,388.0,no
+900,GA483,Architectural Technology,273.0,361.0,no
+901,GA484,Civil Engineering,377.0,421.0,no
+903,GA580,Software and Electronic Engineering,300.0,388.0,no
+910,GA680,Mechanical Engineering,400.0,455.0,no
+911,GA681,Energy Engineering,312.0,392.0,no
+912,GA682,Biomedical Engineering,331.0,413.0,no
+913,GA683,Agricultural Engineering,304.0,390.0,no
+914,GA684,Engineering Common Entry to Manu/Agri/Biomed/Energy/Mech Eng,413.0,456.0,no
+915,GA685,Manufacturing Engineering Design,336.0,377.0,no
+924,GA780,Applied Freshwater and Marine Biology,366.0,435.0,no
+925,GA781,Applied Biology and Biopharmaceutical Science,381.0,442.0,no
+926,GA782,Chemical and Pharmaceutical Science,356.0,398.0,no
+927,GA783,Physics and Instrumentation,301.0,387.0,no
+928,GA784,Science (Undenominated),445.0,466.0,no
+929,GA785,Medical Science,510.0,532.0,no
+930,GA786,Forensic Science and Analysis,408.0,462.0,no
+931,GA787,Computing in Software Development,310.0,381.0,no
+932,GA788,Computing and Digital Media,270.0,314.0,no
+933,GA789,Agriculture and Environmental Management,340.0,392.0,no
+934,GA790,Sport and Exercise Science,366.0,431.0,no
+935,GA791,Public Health Nutrition,368.0,431.0,no
+943,GA880,General Nursing,440.0,455.0,no
+944,GA882,Psychiatric Nursing,369.0,398.0,no
+945,GA885,Outdoor Education,269.0,360.0,no
+946,GA887,History and Geography,201.0,288.0,no
+947,GA889,Applied Social Care,265.0,339.0,no
+948,GA890,Early Childhood Education and Care,227.0,336.0,no
+949,GA891,Geography and Outdoor Education,261.0,366.0,no
+950,GA892,Community Development and Youth Work (Level 8),0.0,0.0,no
+955,GA980,Education (Design Graphics and Construction),410.0,435.0,no
+956,GA981,Furniture Design and Manufacture,346.0,385.0,no
+957,GA982,Furniture Making and Architectural Woodworking,360.0,402.0,no
+958,GA983,Furniture and Digital Manufacturing,0.0,0.0,no
+959,GA984,"Furniture Design, Making and Technology - Common Entry",467.0,498.0,no
+960,GY101,Arts (Joint-Honours),326.0,423.0,no
+961,GY104,BSc (Psychology),545.0,566.0,no
+962,GY105,Arts (History),357.0,424.0,no
+963,GY109,Arts (Mathematics and Education),413.0,487.0,no
+964,GY110,Arts (Children and Youth Studies - options),387.0,440.0,no
+965,GY111,Arts (English and Creative Writing),420.0,518.0,no
+966,GY113,Arts with Human Rights,413.0,477.0,no
+967,GY115,Arts with Performing Arts Studies,300.0,393.0,no
+968,GY118,"Arts (Drama, Theatre and Performance Studies)",430.0,476.0,no
+969,GY119,Arts (Journalism),473.0,521.0,no
+970,GY122,Na Dána (Cumarsáid agus Gaeilge),410.0,496.0,no
+971,GY123,Applied Social Sciences,419.0,451.0,no
+972,GY125,Arts (Digital Arts and Technology),403.0,444.0,no
+973,GY127,Arts (Film and Digital Media),421.0,488.0,no
+974,GY128,Arts (Global Languages),346.0,468.0,no
+975,GY129,Arts (Global Experience),465.0,522.0,no
+976,GY130,Arts (Music),462.0,498.0,no
+977,GY132,"Government (Politics, Economics and Law)",451.0,495.0,no
+978,GY133,Education (Computer Science and Mathematical Studies),454.0,476.0,no
+979,GY134,Geography and Geosystems,425.0,476.0,no
+980,GY135,Arts (Global Media),442.0,484.0,no
+981,GY136,Na Dána (Léann Teanga - options),526.0,526.0,no
+982,GY201,Commerce,476.0,499.0,no
+983,GY202,Commerce (International) with French,520.0,548.0,no
+984,GY203,Commerce (International) with German,518.0,532.0,no
+985,GY204,Commerce (International) with Spanish,506.0,531.0,no
+986,GY206,Business Information Systems (Work Placement and Optional Int`l Study),509.0,544.0,no
+987,GY207,Commerce (Accounting) including optional Global Experience year,543.0,578.0,no
+988,GY208,Commerce (Gaeilge),508.0,547.0,no
+989,GY209,Commerce (Global Experience),551.0,578.0,no
+990,GY250,Law and Business,510.0,541.0,no
+991,GY251,Law (BCL),542.0,554.0,no
+992,GY252,Law (BCL) and Human Rights,565.0,567.0,no
+993,GY253,Law and Taxation,506.0,531.0,no
+994,GY254,"Law (BCL), Criminology and Criminal Justice",548.0,566.0,no
+995,GY261,Business Studies in International Hotel Management (interview),503.0,647.0,yes
+996,GY262,Commerce in International Hotel Management (interview),709.0,743.0,yes
+997,GY301,Science,488.0,529.0,no
+998,GY303,Biomedical Science,613.0,613.0,no
+999,GY304,Biotechnology,495.0,522.0,no
+1000,GY308,Environmental Science,430.0,473.0,no
+1001,GY309,Financial Mathematics and Economics,509.0,565.0,no
+1002,GY310,Marine Science,467.0,499.0,no
+1003,GY313,Environmental Health and Safety,412.0,452.0,no
+1004,GY314,Earth and Ocean Sciences,422.0,463.0,no
+1005,GY318,Biopharmaceutical Chemistry,555.0,581.0,no
+1006,GY319,Mathematical Science,543.0,589.0,no
+1007,GY320,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",465.0,533.0,no
+1008,GY321,Genetics and Genomics,532.0,565.0,no
+1009,GY322,Agricultural Sciences,485.0,518.0,no
+1010,GY350,Computer Science and Information Technology,495.0,521.0,no
+1011,GY401,Engineering (Undenominated),520.0,555.0,no
+1012,GY402,Civil Engineering,521.0,545.0,no
+1013,GY405,Mechanical Engineering,541.0,589.0,no
+1014,GY406,Electronic and Computer Engineering,555.0,566.0,no
+1015,GY408,Biomedical Engineering,554.0,578.0,no
+1016,GY410,Project and Construction Management,431.0,455.0,no
+1017,GY413,Energy Systems Engineering,509.0,543.0,no
+1018,GY414,Electrical and Electronic Engineering,433.0,476.0,no
+1019,GY501,"Medicine (five year/six year course, HPAT required)",737.0,740.0,yes
+1020,GY502,Occupational Therapy,601.0,602.0,no
+1021,GY503,Speech and Language Therapy,578.0,590.0,no
+1022,GY504,Podiatric Medicine,510.0,533.0,no
+1023,GY515,General Nursing (Galway and Portiuncula),476.0,507.0,no
+1024,GY516,Mental Health Nursing,412.0,451.0,no
+1025,GY517,Midwifery,507.0,532.0,no
+1028,LY108,Business - Accounting,312.0,432.0,no
+1029,LY118,Business,288.0,387.0,no
+1030,LY128,Marketing with Online Technologies,261.0,369.0,no
+1033,LY208,Law,290.0,388.0,no
+1034,LY228,Sports and Exercise - Common Entry,290.0,379.0,no
+1037,LY408,Design - Common Entry,301.0,380.0,yes
+1043,LY508,Fire Safety Engineering,283.0,352.0,no
+1044,LY518,Quantity Surveying,304.0,387.0,no
+1046,LY528,Construction Management,262.0,298.0,no
+1047,LY538,Architectural Technology,234.0,403.0,no
+1050,LY608,Mechanical Engineering,300.0,390.0,no
+1052,LY618,Electronic Engineering,321.0,368.0,no
+1054,LY708,Applied Computing,320.0,430.0,no
+1057,LY748,Computer Science,316.0,421.0,no
+1061,LY818,Science - Common Entry,302.0,411.0,no
+1063,LY828,Agriculture - Common Entry,300.0,360.0,no
+1071,LY908,General Nursing,429.0,441.0,no
+1073,LY918,Psychiatric Nursing,361.0,399.0,no
+1074,LY928,Intellectual Disability Nursing,342.0,386.0,no
+1075,LY968,"Early Childhood Care, Health and Education",288.0,380.0,no
+1076,LY978,Health and Social Care - Common Entry,279.0,347.0,no
+1077,MI001,Contemporary and Applied Theatre Studies,209.0,484.0,no
+1078,MI002,Arts,280.0,408.0,no
+1079,MI004,Education - Primary Teaching - International,589.0,601.0,no
+1080,MI005,Education - Primary Teaching,522.0,554.0,no
+1081,MI006,Education - Primary Teaching - Gaeltacht Applicants,485.0,522.0,yes
+1082,MI007,Early Childhood Care and Education,409.0,462.0,no
+1083,MI008,Education and Psychology - Primary Teaching,590.0,602.0,no
+1084,MI009,"Education, Business Studies and Accounting",434.0,477.0,no
+1085,MI010,"Education, Business Studies and Religious Studies",370.0,412.0,no
+1086,MI011,"Education, Gaeilge and Religious Studies",407.0,444.0,no
+1087,MI012,"Education, Gaeilge and Business Studies",387.0,451.0,no
+1088,MI013,"Education, Mathematics and Gaeilge",509.0,543.0,no
+1089,MI014,"Education, Mathematics and Business Studies",476.0,531.0,no
+1090,CI110,Counselling and Psychotherapy,292.0,368.0,no
+1091,CI111,Counselling and Psychotherapy with Addiction Studies,290.0,356.0,no
+1092,CI112,Counselling and Psychotherapy with Youth Studies,325.0,388.0,no
+1093,LC110,"Art and Design (Common Entry, portfolio)",794.0,981.0,yes
+1094,LC114,Fashion and Textiles for Product and Costume (portfolio),914.0,933.0,yes
+1095,LC115,"Art and Design Teacher Education (LIT and UL, portfolio)",993.0,1058.0,yes
+1096,LC220,Digital Marketing,263.0,322.0,no
+1099,LC223,Law and Taxation,331.0,410.0,no
+1100,LC224,Accounting and Finance,300.0,356.0,no
+1101,LC225,Marketing and Management,298.0,376.0,no
+1102,LC226,Enterprise and Innovation,255.0,327.0,no
+1105,LC233,Software Development,280.0,348.0,no
+1106,LC234,Immersive Digital Media and Spatial Computing,226.0,342.0,no
+1108,LC236,Internet Systems Development,260.0,305.0,no
+1109,LC239,Computer Networks and Systems Management,317.0,378.0,no
+1110,LC241,Construction Management,326.0,387.0,no
+1111,LC242,Property Valuation and Management,308.0,377.0,no
+1112,LC243,Quantity Surveying,278.0,359.0,no
+1113,LC248,Built Environment (Common Entry),300.0,357.0,no
+1115,LC252,Civil Engineering Management,264.0,338.0,no
+1117,LC263,Medical Technology,391.0,455.0,no
+1118,LC265,Forensic and Pharmaceutical Sciences,498.0,528.0,no
+1119,LC266,Drug and Medicinal Product Analysis,252.0,368.0,no
+1124,LC275,Electrical Engineering,347.0,382.0,no
+1134,LC288,Mechanical Engineering,369.0,432.0,no
+1135,LC289,Precision Engineering,261.0,357.0,no
+1137,LC292,Social Care Work,374.0,410.0,no
+1138,LC293,Business Studies with Travel and Tourism Management,264.0,356.0,no
+1139,LC294,Business Studies with Event Management,279.0,356.0,no
+1140,LC295,Business Studies with Sports Management,262.0,320.0,no
+1141,LC297,Community and Addiction Studies,262.0,316.0,no
+1142,LC320,Business,381.0,408.0,no
+1144,LC330,Business with Computing,308.0,367.0,no
+1146,LC340,Interior Design,368.0,420.0,no
+1147,LC362,Biotechnology and Biopharmaceutical Sciences,429.0,463.0,no
+1148,LC371,Creative Broadcast and Film Production,310.0,387.0,no
+1149,LC372,Music Technology and Production,377.0,454.0,no
+1150,LC374,Renewable and Electrical Energy Engineering,319.0,401.0,no
+1151,LC375,Industrial Automation and Robotic Systems,309.0,383.0,no
+1152,LC376,Electronic Engineering with Computer Systems,357.0,378.0,no
+1153,LC380,Automotive Engineering and Transport Management,298.0,340.0,no
+1154,LC392,Business Studies in Beauty and Spa Management,317.0,358.0,no
+1155,LC393,Early Childhood Education and Care,276.0,339.0,no
+1160,LC402,Social Care Work,228.0,306.0,no
+1161,LC408,Environmental Science and Climate,279.0,347.0,no
+1163,LC416,Business,260.0,300.0,no
+1164,LC418,Computing - Games Design and Development,256.0,320.0,no
+1165,LC422,Applied Strength and Conditioning,289.0,359.0,no
+1168,LC502,Game Art and Design (portfolio),841.0,1018.0,yes
+1170,LC517,Creative Media and Design,279.0,413.0,no
+1171,LC518,Digital Animation Production (portfolio),807.0,977.0,yes
+1173,LC612,Social Care Work,309.0,348.0,no
+1174,LM002,Arts,360.0,423.0,no
+1175,LM019,Social Sciences,451.0,507.0,no
+1176,LM020,Law and Accounting,474.0,520.0,no
+1177,LM026,Performing Arts (audition format TBC),329.0,451.0,yes
+1178,LM028,Criminal Justice,420.0,454.0,no
+1179,LM029,Law Plus,530.0,554.0,no
+1180,LM038,Psychology and Sociology,530.0,533.0,no
+1181,LM039,Journalism and Digital Communication,432.0,473.0,no
+1182,LM040,European Studies,409.0,521.0,no
+1183,LM044,Applied Languages,429.0,485.0,no
+1184,LM050,Business Studies (options),451.0,489.0,no
+1185,LM056,International Business,555.0,589.0,no
+1186,LM058,Financial Mathematics,468.0,531.0,no
+1187,LM063,Technology Management,410.0,452.0,no
+1188,LM066,Environmental Science,430.0,478.0,no
+1189,LM068,Food Science and Health,464.0,495.0,no
+1190,LM076,Product Design and Technology (portfolio required),401.0,499.0,yes
+1191,LM077,Aeronautical Engineering,567.0,601.0,no
+1192,LM082,Construction Management and Engineering,446.0,480.0,no
+1193,LM089,Sport and Exercise Sciences,498.0,533.0,no
+1194,LM090,Physical Education with concurrent Teacher Education,544.0,577.0,no
+1195,LM091,Languages with concurrent Teacher Education,506.0,541.0,no
+1196,LM092,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),521.0,555.0,no
+1197,LM093,Equine Science,367.0,431.0,no
+1198,LM094,Materials and Architectural Technology with concurrent Teacher Education,475.0,501.0,no
+1199,LM095,Materials and Engineering Technology with concurrent Teacher Education,425.0,452.0,no
+1200,LM096,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),454.0,488.0,no
+1201,LM097,Mathematics and Computer Science with concurrent Teacher Education,465.0,499.0,no
+1202,LM099,Architecture,520.0,543.0,yes
+1203,LM100,Physiotherapy,601.0,613.0,no
+1204,LM101,Medicine  - Graduate Entry (GAMSAT required),57.0,59.0,yes
+1205,LM102,Psychology,534.0,565.0,no
+1206,LM103,Paramedic Studies (Full B/Provisional C1 Drivers Licence),429.0,455.0,yes
+1207,LM105,Exercise and Health Fitness Management,441.0,473.0,no
+1208,LM115,Chemical and Biochemical Engineering,476.0,520.0,no
+1209,LM116,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),498.0,544.0,no
+1210,LM118,Electronic and Computer Engineering,445.0,487.0,no
+1211,LM121,Computer Science (Computer Systems/Games Dev/Mobile Comm Security),402.0,461.0,no
+1212,LM122,Creative Media and Interaction Design (Digital Design/Music Media Tech),382.0,467.0,no
+1213,LM123,Biological and Chemical Sc. (Biosci/Envir Sci/Ind Bio/Pharma and In,498.0,533.0,no
+1214,LM124,Mathematics (Math Science/Maths and Physics/Economics and Maths),455.0,532.0,no
+1215,LM125,Physics (Applied Physics or Mathematics and Physics),489.0,577.0,no
+1216,LM150,General Nursing,474.0,496.0,no
+1217,LM152,Mental Health Nursing,440.0,476.0,no
+1218,LM154,Intellectual Disability Nursing,433.0,474.0,no
+1219,LM156,Midwifery,498.0,521.0,no
+1221,MU001,Theology and Arts,291.0,332.0,no
+1222,MU002,Theology,411.0,411.0,no
+1223,MH001,Education - Primary Teaching (Froebel),556.0,578.0,no
+1224,MH002,Education - Primary Teaching - Gaeltacht Applicants (Froebel),0.0,0.0,yes
+1225,MH003,Early Childhood - Teaching and Learning (full-time),381.0,430.0,no
+1226,MH101,Arts,336.0,409.0,no
+1227,MH103,Music,0.0,0.0,yes
+1228,MH106,Psychology - 3 years,552.0,555.0,no
+1229,MH107,Social Science,390.0,440.0,no
+1230,MH109,Media Studies,324.0,393.0,no
+1231,MH116,Community and Youth Work (Full-Time),0.0,0.0,yes
+1232,MH201,Science,397.0,456.0,no
+1233,MH202,Biotechnology,489.0,509.0,no
+1234,MH203,Biological and Geographical Sciences,451.0,477.0,no
+1235,MH204,Physics with Astrophysics,422.0,499.0,no
+1236,MH206,Theoretical Physics and Mathematics,521.0,578.0,no
+1237,MH207,Data Science,444.0,510.0,no
+1238,MH208,Biological and Biomedical Sciences,533.0,554.0,no
+1239,MH209,Psychology (through Science) - 4 years,517.0,531.0,no
+1240,MH210,Pharmaceutical and Biomedical Chemistry,510.0,532.0,no
+1241,MH212,Science|Maths and Computer Science|Mathematics (with Education),434.0,498.0,no
+1242,MH304,Engineering (Computer/Electronic/Communications),351.0,454.0,no
+1243,MH305,Product Design,326.0,397.0,no
+1244,MH306,Robotics and Intelligent Devices,362.0,445.0,no
+1245,MH401,Finance (options),370.0,418.0,no
+1246,MH402,Quantitative Finance,476.0,521.0,no
+1247,MH403,Accounting and Finance,424.0,473.0,no
+1248,MH404,Business (options),441.0,473.0,no
+1249,MH407,Business and Accounting,423.0,473.0,no
+1250,MH411,Entrepreneurship,378.0,409.0,no
+1251,MH501,LLB Law - four year Single Major Law programme,507.0,531.0,no
+1252,MH502,Law (options),465.0,498.0,no
+1253,MH601,Computer Science through Arts (options),381.0,423.0,no
+1254,MH602,Computer Science through Science (options),400.0,444.0,no
+1255,MH603,Computational Thinking,520.0,579.0,no
+1256,MH801,Early Childhood - Teaching and Learning (part-time),0.0,319.0,no
+1257,MH802,"Community and Youth Work (part-time, in service)",0.0,0.0,yes
+1258,MH803,"Local Studies/Community Studies (part-time, evening) - Mature Students",0.0,0.0,no
+1259,AS001,"Education, Home Economics and Biology - with concurrent Teacher Ed",532.0,555.0,no
+1260,AS002,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",441.0,476.0,no
+1261,AS003,"Education, Home Economics and Irish - with concurrent Teacher Ed",440.0,487.0,no
+1262,AS051,"Nutrition, Food and Business Management",291.0,418.0,no
+1263,AS054,Home Economics,368.0,430.0,no
+1264,AS110,General Nursing,422.0,445.0,no
+1265,AS130,Intellectual Disability Nursing,348.0,387.0,no
+1275,SG141,Business,262.0,346.0,no
+1276,SG145,Business and ICT,279.0,411.0,no
+1277,SG146,Accounting,304.0,403.0,no
+1278,SG147,Sport with Business,288.0,340.0,no
+1279,SG148,Tourism with Event Management,298.0,328.0,no
+1280,SG150,Business in Marketing,298.0,360.0,no
+1285,SG241,Performing Arts,341.0,393.0,no
+1286,SG242,Early Childhood Care and Education,287.0,368.0,no
+1287,SG243,Social Care Practice,309.0,357.0,no
+1288,SG244,Fine Art,501.0,643.0,yes
+1289,SG245,Creative Design,332.0,357.0,no
+1290,SG246,Computing,316.0,402.0,no
+1291,SG247,English and Psychology,319.0,357.0,no
+1292,SG248,Sociology and Politics,298.0,328.0,no
+1293,SG249,Writing and Literature,308.0,409.0,no
+1294,SG252,Software Development,310.0,413.0,no
+1295,SG253,Computing in Computer Networks and Cyber Security,336.0,374.0,no
+1296,SG254,Writing and Literature Online,327.0,393.0,no
+1297,SG255,Law and Business,291.0,398.0,no
+1310,SG341,General Engineering,373.0,467.0,no
+1311,SG342,Civil Engineering,418.0,498.0,no
+1312,SG343,Quantity Surveying,300.0,385.0,no
+1313,SG344,Mechanical Engineering,412.0,509.0,no
+1314,SG346,Construction Project Management and Applied Technology,313.0,362.0,no
+1315,SG347,Architecture,403.0,462.0,no
+1316,SG348,Interior Architecture and Design,359.0,410.0,no
+1317,SG349,Electronics and Self Driving Technologies,0.0,0.0,no
+1318,SG350,Robotics and Automation,384.0,478.0,no
+1329,SG442,Occupational Safety and Health,307.0,360.0,no
+1330,SG443,Human Nutrition,376.0,440.0,no
+1331,SG444,Science Undenominated,358.0,430.0,no
+1332,SG445,Pharmaceutical Science with Drug Development,357.0,401.0,no
+1333,SG447,Health Science and Physical Activity,326.0,389.0,no
+1334,SG448,Forensic Investigation and Analysis,308.0,376.0,no
+1335,SG449,Medical Biotechnology,315.0,403.0,no
+1336,SG450,Environmental Science with Ecology (Level 8),310.0,430.0,no
+1362,TL801,"Animation, Visual Effects and Motion Design (Level 8, portfolio)",718.0,823.0,yes
+1363,TL802,"TV, Radio and New Media (Level 8)",322.0,413.0,no
+1364,TL810,Computing with Software Development,308.0,399.0,no
+1365,TL811,Computing with Games Development,322.0,342.0,no
+1366,TL815,Computing (Degree Award options),307.0,453.0,no
+1367,TL823,Event Management (3 year programme),293.0,369.0,no
+1368,TL831,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),306.0,408.0,no
+1369,TL842,Construction Management,0.0,0.0,no
+1370,TL844,Agricultural Engineering,301.0,392.0,no
+1371,TL845,Civil Engineering,361.0,395.0,no
+1372,TL847,Manufacturing Engineering,305.0,338.0,no
+1373,TL848,Agricultural Science,307.0,367.0,no
+1374,TL851,Wildlife Biology (Degree Award options),309.0,400.0,no
+1375,TL855,Pharmaceutical Science (Degree Award options),316.0,419.0,no
+1376,TL858,Veterinary Bioscience,317.0,402.0,no
+1377,TL871,Health and Leisure (Degree Award options),303.0,389.0,no
+1378,TL872,Health and Leisure with Massage,314.0,381.0,no
+1379,TL873,Coaching and Sports Performance,308.0,371.0,no
+1380,TL874,Inclusive Sport and Physical Activity,341.0,476.0,no
+1381,TL880,Early Childhood Care and Education,309.0,369.0,no
+1382,TL881,Social Care,301.0,377.0,no
+1383,TL889,Counselling with Addiction - Mature applicants only,0.0,0.0,yes
+1384,TL890,General Nursing and Mature Applicants,463.0,484.0,no
+1385,TL891,Mental Health Nursing and Mature Applicants,412.0,430.0,no
+1386,WD001,Applied Computing (options),261.0,423.0,no
+1387,WD002,Science (options),279.0,388.0,no
+1389,WD005,Health Sciences (options),271.0,368.0,no
+1390,WD006,Exercise Sciences (options),270.0,357.0,no
+1391,WD007,Engineering (options),270.0,432.0,no
+1397,WD025,Construction Management and Engineering,262.0,357.0,no
+1398,WD027,Music,321.0,437.0,yes
+1399,WD048,Business (options),279.0,387.0,no
+1401,WD084,Accounting,308.0,476.0,no
+1402,WD091,Hospitality Management,225.0,337.0,no
+1406,WD116,General Nursing,446.0,473.0,no
+1407,WD117,Psychiatric Nursing,415.0,430.0,no
+1408,WD120,Intellectual Disability Nursing,390.0,404.0,no
+1410,WD134,International Business,267.0,368.0,no
+1411,WD137,Design (Visual Communications),252.0,360.0,no
+1412,WD140,Laws,280.0,394.0,no
+1413,WD144,Architecture,309.0,401.0,no
+1414,WD147,Pharmaceutical Science,288.0,402.0,no
+1415,WD150,Criminal Justice Studies,280.0,359.0,no
+1417,WD152,Visual Art,243.0,359.0,no
+1421,WD161,Computer Forensics and Security,270.0,347.0,no
+1422,WD162,Quantity Surveying,226.0,337.0,no
+1423,WD163,Psychology,456.0,487.0,no
+1432,WD186,Sports Coaching and Performance,261.0,358.0,no
+1433,WD187,Social Science,276.0,367.0,no
+1435,WD191,Agricultural Science,377.0,434.0,no
+1436,WD192,Social Care Practice,271.0,336.0,no
+1437,WD193,Marketing and Digital Media,279.0,358.0,no
+1438,WD194,Culinary Arts,237.0,321.0,no
+1439,WD195,Architectural and Building Information Modelling Technology,279.0,367.0,no
+1440,WD200,Arts (options),201.0,376.0,no
+1445,WD210,Software Systems Development,260.0,373.0,no
+1446,WD211,Creative Computing,270.0,392.0,no
+1447,WD212,Recreation and Sport Management,262.0,304.0,no
+1448,WD230,Mechanical and Manufacturing Engineering,230.0,361.0,no
+1449,WD231,Early Childhood Care and Education,266.0,366.0,no
+1450,WD232,Business Information Systems,261.0,329.0,no
