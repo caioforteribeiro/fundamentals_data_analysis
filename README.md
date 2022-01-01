@@ -1,5 +1,3 @@
-# Fundamentals of Data Analysis
-
 ![data analysis image](https://learn.g2.com/hubfs/Imported%20sitepage%20images/1ZB5giUShe0gw9a6L69qAgsd7wKTQ60ZRoJC5Xq3BIXS517sL6i6mnkAN9khqnaIGzE6FASAusRr7w=w1439-h786.png)
 # Fundamentals of Data Analysis
 ## Final project - Winter 2021-2022
