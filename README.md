@@ -30,13 +30,8 @@ The repository should also contain all relevant data and a `requirements.txt` fi
 
 ***
 ## Summary
-Talking points:
-* What are the CAO points
-* What is a pandas dataframe
-* What kind of data was used in the comparison and why
-* What kind of comparison was made
-* What is pyplot
-* What kind of data we used to plot to examplify pyplot's funcionalities
+
+
 
 <br>
 
