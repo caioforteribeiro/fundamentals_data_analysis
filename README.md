@@ -29,8 +29,22 @@ The repository should also contain all relevant data and a `requirements.txt` fi
 <br>
 
 ***
-## Summary
+## An overview of the notebooks
+### CAO notebook
+This notebook starts by pulling the data for each year from the [CAO website](https://www.cao.ie/), which comes in different formats (`.xlsx` for 2021 and 2020, `.pdf` for 2019 and saving a time-stamped local copy of the original data, before loading them into a `pandas` dataframe using `pd.read_excel()` for 2021 and 2020 and `camelot` for 2019. Each dataframe is then cleaned-up (keeping only L8 courses, removing string characters from columns with points, and keeping track of which courses had additional entry requirements) and saved as a `csv` file into the data folder.
 
+With all clean dataframes ready, we join them into a consolidated dataframe `allcourses` to perform our comparative analysis (higher entry scores, higher Mid scores, entry scores above 600 per year) and plottings.
+
+### Pyplot notebook
+This notebook starts by describing what is the `matplotlib.pyplot` package and what it is used for. It then runs through some basic plots and some of the basic `pyplot` functions before presenting 3 examples of plots done with the package:
+1. **Scatterplots:** We used the data from the [Iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) to plot a series of scatterplots of Iris petal and sepal sizes. Here, we also explored the `fig,ax=subplots()` method for plotting.
+2. **Pie charts:** A pie chart of the time spent on each activity of a project, using `plt.pie()` and `autopct` to display percentages.
+3. **Boxplots:** Again, using data from the [Iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) to plot:
+   * Petal and sepal sizes irrespective of the species.
+   * Petal and sepal sizes according for each species.
+
+
+###
 
 
 <br>
@@ -84,20 +98,22 @@ You can also use these buttons for a static view of the notebooks in nbviewer:
 
 <br>
 
-***
-## A quick overview of the notebooks
-Explain the code for the 2 notebooks
 
 ***
 ## Credits
+These notebooks heavily relied on the official documentation of all the packages used:
 
+* [Matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
+* [NumPy](https://numpy.org/doc/stable/user/index.html#user)
+* [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+* [SciPy](https://docs.scipy.org/doc/scipy/tutorial/index.html)
+* [Camelot](https://camelot-py.readthedocs.io/en/master/user/quickstart.html)
 
+We also recommend the following sources:
 
-<br>
-
-***
-## References
-
+* [Towards Data Science](https://towardsdatascience.com/)
+* [Kaggle](https://www.kaggle.com/)
+* [StackOverflow](https://stackoverflow.com/)
 
 
 <br>
