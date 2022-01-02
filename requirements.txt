@@ -4,5 +4,5 @@ matplotlib==3.3.4
 numpy==1.20.1
 pandas==1.2.4
 scipy==1.6.2
-Ghostscript==9.55.0
-ActiveTlc==8.6 (MacOS 8.5)
+ghostscript==9.55.0
+activetlc==8.6
