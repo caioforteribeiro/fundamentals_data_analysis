@@ -14,24 +14,24 @@ Here you will find the following files:
 * `cao.ipynb`, a Jupyter notebook with a comparison of CAO points for 2019 to 2021.
 * `pyplot.ipynb`, a Jupyter notebook with an explanation of the `matplotlib.pyplot` package and examples of 3 plots using it.
 * `requirements.txt`, containing all modules required to run the notebooks.
-* a `data` folder with all input and output datasets for the cao notebook.
+* a `data` folder with all input and output datasets for the CAO notebook.
 
 <br>
 
 ***
 ## Task
 Create a repository containing 2 Jupyter notebooks:
-1. `cao.ipynb`, with a clear and concise overview of how to load CAO points information from the CAO website into a `pandas` data frame, a comparison of CAO points for 2019, 2020, and 2021, as well as relevant and appropriate plots.
-2. `pyplot.ipynb`, with a clear and concise overview of the `matplotlib.pyplot` Python package,and an in-depth explanation of 3 interesting plots from the package.
+1. [`cao.ipynb`](https://github.com/caioforteribeiro/fundamentals_data_analysis/blob/main/cao.ipynb), with a clear and concise overview of how to load CAO points information from the CAO website into a `pandas` data frame, a comparison of CAO points for 2019, 2020, and 2021, as well as relevant and appropriate plots.
+2. [`pyplot.ipynb`](https://github.com/caioforteribeiro/fundamentals_data_analysis/blob/main/pyplot.ipynb), with a clear and concise overview of the `matplotlib.pyplot` Python package,and an in-depth explanation of 3 interesting plots from the package.
 
-The repository should also contain all relevant data and a `requirements.txt` file to enable someone to run the notebooks with minimal configuration.
+The repository should also contain all relevant data and a [`requirements.txt`](https://github.com/caioforteribeiro/fundamentals_data_analysis/blob/main/requirements.txt) file to enable someone to run the notebooks with minimal configuration.
 
 <br>
 
 ***
 ## An overview of the notebooks
 ### CAO notebook
-This notebook starts by pulling the data for each year from the [CAO website](https://www.cao.ie/), which comes in different formats (`.xlsx` for 2021 and 2020, `.pdf` for 2019 and saving a time-stamped local copy of the original data, before loading them into a `pandas` dataframe using `pd.read_excel()` for 2021 and 2020 and `camelot` for 2019. Each dataframe is then cleaned-up (keeping only L8 courses, removing string characters from columns with points, and keeping track of which courses had additional entry requirements) and saved as a `csv` file into the data folder.
+This notebook starts by pulling the data for each year from the [CAO website](https://www.cao.ie/), which comes in different formats (`.xlsx` for 2021 and 2020, `.pdf` for 2019) and saving a time-stamped local copy of the original data, before loading them into a `pandas` dataframe using `pd.read_excel()` for 2021 and 2020 and `camelot` for 2019. Each dataframe is then cleaned-up (keeping only L8 courses, removing string characters from columns with points, and keeping track of which courses had additional entry requirements) and saved as a `csv` file into the [data folder](https://github.com/caioforteribeiro/fundamentals_data_analysis/tree/main/data).
 
 With all clean dataframes ready, we join them into a consolidated dataframe `allcourses` to perform our comparative analysis (higher entry scores, higher Mid scores, entry scores above 600 per year) and plottings.
 
